@@ -1,4 +1,6 @@
-Do land surface models need to include differential plant species responses to drought? Examining model predictions across a latitudinal gradient in Europe.
+A test of the “one-point method” for estimating maximum carboxylation capacity from field-measured, light-saturated photosynthesis.
+
+Do land surface models need to include differential plant species responses to drought? Examining model predictions across a mesic-xeric gradient in Europe
 
 Implementation of an optimal stomatal conductance model in the Australian Community Climate Earth Systems Simulator (ACCESS1.3b)
 
@@ -6,28 +8,28 @@ Model-data synthesis for the next generation of forest FACE experiments.
 
 Using Ecosystem Experiments to Improve Vegetation Models.
 
-Predicting long-term carbon sequestration in response to CO2 enrichment: How and why do current ecosystem models differ? 
+Predicting long-term carbon sequestration in response to CO2 enrichment: How and why do current ecosystem models differ?
 
-A test of an optimal stomatal conductance scheme within the CABLE Land Surface Model. 
+A test of an optimal stomatal conductance scheme within the CABLE Land Surface Model.
 
 Where does the carbon go? A model-data intercomparison of vegetation carbon allocation and turnover processes at temperate forest free-air CO2 enrichment sites.
 
-Comprehensive ecosystem model-data synthesis using multiple datasets at  temperate forest free-air CO2 enrichment experiments: model performance at ambient CO2 concentration. 
+Comprehensive ecosystem model-data synthesis using multiple datasets at  temperate forest free-air CO2 enrichment experiments: model performance at ambient CO2 concentration.
 
 Evaluation of 11 terrestrial carbon–nitrogen cycle models against observations from temperate Free-Air CO2 Enrichment studies.
 Biogeochemistry: Carbon dioxide and water use in forests.
 
 Biochemical photosynthetic responses to temperature: how do interspecific differences compare with seasonal shifts.
 
-]Quantifying Land Surface Temperature Variability for Sahelian Mesoscale Regions during the Wet Season]
+Quantifying Land Surface Temperature Variability for Sahelian Mesoscale Regions during the Wet Season]
 
 ]The optimal stomatal response to atmospheric CO2 concentration: alternative solutions, alternative interpretations]
 
 Forest water use and water use efficiency at elevated CO2: a model-data intercomparison at contrasting temperate forest FACE sites.
 
-Frequency of Sahelian storm initiation doubled over mesoscale soil moisture patterns. 
+Frequency of Sahelian storm initiation doubled over mesoscale soil moisture patterns.
 
-RAMI4PILPS: An Intercomparison of Formulations for the Partitioning of Solar Radiation in Land Surface Models. 
+RAMI4PILPS: An Intercomparison of Formulations for the Partitioning of Solar Radiation in Land Surface Models.
 
 An assessment of the MODIS collection 5 Leaf Area Index product for a region of mixed coniferous forest
 
