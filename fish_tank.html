@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <title>Fish tank</title>
+        <style>
+            body { margin: 0; padding: 0; }
+            #fishtank {
+                width: 100%; height: 100%;
+            }
+            #water {
+                width: 100%; height: 100%;
+                background-color: royalblue;
+                padding: 15em 0 0;
+                position: absolute;
+            }
+
+            @keyframes swimming {
+              0% { transform: translateY(0); }
+              33% { transform: translateY(-0.5em); }
+              67% { transform: translateY(0.5em); }
+              100% { transform: translateY(0); }
+            }
+
+            #fish1 { color: white; animation-delay: 0; }
+            #fish2 { color: white; animation-delay: 0.8s; }
+            #fish3 { color: white; animation-delay: 0.4s; }
+            #fish4 { color: white; animation-delay: 1.6s; }
+            #fish5 { color: white; animation-delay: 0.8s; }
+            #fish6 { color: white; animation-delay: 1.8s; }
+            #fish7 { color: white; animation-delay: 0.6s; }
+        </style>
+    </head>
+    <body>
+        <div id="fishtank">
+            <div id="water">
+                <marquee id="fish1" scrollamount=7>&lt;&gt;&lt;</marquee>
+                <marquee id="fish2" scrollamount=3>&lt;&gt;&lt;</marquee>
+                <marquee id="fish3" direction="right" scrollamount=6>&gt;&lt;&gt;</marquee>
+                <marquee id="fish4" scrollamount=10>&lt;&gt;&lt;</marquee>
+                <marquee id="fish5" direction="right" scrollamount=5>&gt;&lt;&gt;</marquee>
+                <marquee id="fish6" scrollamount=6>&lt;&gt;&lt;</marquee>
+                <marquee id="fish7" direction="right" scrollamount=8>&gt;&lt;&gt;</marquee>
+            </div>
+        </div>
+    </body>
+</html>
