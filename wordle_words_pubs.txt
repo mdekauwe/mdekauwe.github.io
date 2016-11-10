@@ -1,3 +1,31 @@
+Challenging terrestrial biosphere models with data from the long-term multi-factor Prairie Heating and CO2 Enrichment experiment
+
+Mycorrhizal association as a primary control of the CO2 fertilization effect
+
+Decadal CO2 enrichment stimulates a linear carbon sink in aggrading temperate forest biomass
+
+the impact of alternative trait-based Vcmax spatial-scaling hypotheses on global gross primary production
+
+Discrepancies between leaf and ecosystem measures of water-use efficiency
+
+Challenges and opportunities in modelling savanna ecosystems
+
+Gross primary production responses to warming, elevated CO2, and irrigation: quantifying the drivers of ecosystem physiology in a semiarid grassland
+
+Land surface models systematically overestimate the intensity, duration and magnitude of seasonal-scale evaporative droughts
+
+Satellite based estimates underestimate the effect of CO2 fertilisation on net primary productivity
+
+New developments in the effort to model ecosystems under water stress
+
+Modelling evapotranspiration during precipitation deficits: identifying critical processes in a land surface model
+
+A model inter-comparison study to examine limiting factors in modelling Australian tropical savannas
+
+Impact of the representation of stomatal conductance on model projections of heatwave intensity.
+
+Using models to guide field experiments: a priori predictions for the CO2 response of a nutrient and water limited native Eucalypt woodland.
+
 A test of the “one-point method” for estimating maximum carboxylation capacity from field-measured, light-saturated photosynthesis.
 
 Do land surface models need to include differential plant species responses to drought? Examining model predictions across a mesic-xeric gradient in Europe
