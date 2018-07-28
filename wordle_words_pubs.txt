@@ -1,12 +1,42 @@
+Acclimation and adaptation components of the temperature dependence of plant photosynthesis at the global scale
+
+Carbon influx and residence time: equal contributors to large uncertainty in CO2 effect on terrestrial carbon storage
+
+Evaluating the contribution of land-atmosphere feedbacks to heat extremes in CMIP5 models.
+
+Drought impacts on Australian vegetation during the Millennium Drought measured with multi-source spaceborne remote sensing
+
+Synthesis of four forest CO2 enrichment experiments demonstrates a sustained decadal carbon sink in aggrading temperate forest biomass
+
+The Multi-Assumption Architecture and Testbed (MAAT v1.0): Code for ensembles with dynamic model structure including a unified model of leaf-scale C3 photosynthesis
+
+Does predictability of fluxes vary between FLUXNET sites
+
+Applying the concept of ecohydrological equilibrium to predict steady-state leaf area index
+
+Inferring the effects of sink strength on plant carbon balance processes from experimental measurements
+
+Evaluating CMIP5 model agreement for multiple drought metrics
+
+Xylem embolism refilling and resilience against drought-induced mortality in woody plants: Processes and trade-offs
+
+Trees Tolerate an Extreme Heatwave via Sustained Transpirational Cooling and Increased Leaf Thermal Tolerance
+
+How coupled is the vegetation to the boundary layer
+
+Towards physiologically meaningful water-use efficiency estimates from eddy covariance data
+
+FluxnetLSM R package (v1.0): A community tool for processing FLUXNET data for use in land surface modelling
+
+The impact of alternative trait-based Vcmax spatial-scaling hypotheses on global gross primary production
+
 Challenging terrestrial biosphere models with data from the long-term multi-factor Prairie Heating and CO2 Enrichment experiment
 
 Mycorrhizal association as a primary control of the CO2 fertilization effect
 
-Decadal CO2 enrichment stimulates a linear carbon sink in aggrading temperate forest biomass
-
 the impact of alternative trait-based Vcmax spatial-scaling hypotheses on global gross primary production
 
-Discrepancies between leaf and ecosystem measures of water-use efficiency
+How do leaf and ecosystem measures of water-use efficiency compare
 
 Challenges and opportunities in modelling savanna ecosystems
 
