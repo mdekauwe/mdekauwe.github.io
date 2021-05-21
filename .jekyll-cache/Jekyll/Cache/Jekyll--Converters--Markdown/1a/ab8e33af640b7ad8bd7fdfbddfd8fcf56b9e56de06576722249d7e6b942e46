@@ -1,76 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title> Global Change Ecology Lab</title>
-<meta name="description" content="Home of the Global Change Ecology Lab at the University of New South Wales
-">
-
-<link rel="canonical" href="/people.html">
-
-<link rel="stylesheet" href="/assets/vendor/normalize-css/normalize.css">
-<link rel="stylesheet" href="/assets/css/main.css">
-
-<link rel="stylesheet" href="/assets/vendor/highlight/styles/agate.css">
-
-<link rel="stylesheet" href="/assets/vendor/font-awesome/css/font-awesome.css">
-<link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
-<link rel="stylesheet" href="/assets/css/academicons.css">
-
-</head>
-<body>
-<div class="wrapper">
-<header class="header">
-<div class="navigation">
-<a href="/" class="logo">Global Change Ecology Lab</a>
-<ul class="menu">
-<li class="menu__entry"><a href="/research">Research</a></li>
-<li class="menu__entry"><a href="/people">People</a></li>
-<li class="menu__entry"><a href="/publications">Publications</a></li>
-<li class="menu__entry"><a href="/grants">Grants</a></li>
-<li class="menu__entry"><a href="/teaching">Teaching</a></li>
-<li class="menu__entry"><a href="/journal_club">Journal club</a></li>
-<li class="menu__entry"><a href="/join_us">Join us</a></li>
-
-<!--
-</ul>
-</div>
-<ul class="social-links">
-
-<a href="mailto:mdekauwe@gmail.com" class="social-links__entry" target="_blank">
-<i class="fa fa-envelope-square"></i>
-</a>
-
-
-<a href="https://github.com/mdekauwe" class="social-links__entry" target="_blank">
-<i class="fa fa-github"></i>
-</a>
-
-
-<a href="https://twitter.com/mdekauwe82" class="social-links__entry" target="_blank">
-<i class="fa fa-twitter"></i>
-</a>
-
-
-<a href="https://scholar.google.com.au/citations?user=ka3U7xcAAAAJ&hl=en" class="social-links__entry" target="_blank"> <i class="fa fa-google"></i></a>
-
--->
-
-</ul>
-</header>
-
-<h1 class="page-title">
-<div class="page-title__text"></div>
-<div class="page-title__subtitle"></div>
-</h1>
-
-<p><img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/me.jpg" /></p>
+I"=<p><img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/me.jpg" /></p>
 
 <p>Martin De Kauwe is a Senior Lecturer in the Climate Change Research Centre at the University of New South Wales. <!-- In August I will be moving to the University of Bristol to take up an Associate Professor position in the School of Bioglogical Sciences. --></p>
 
 <p> I am an Associate Editor of <a href="https://www.biogeosciences.net/" style="color:#16a085;">Biogeosciences</a> and a member of the Editorial Advisory Board for <a href="https://onlinelibrary.wiley.com/journal/13652486" style="color:#16a085;">Global Change Biology</a> and <a href="https://nph.onlinelibrary.wiley.com/journal/14698137" style="color:#16a085;">New Phytologist</a>. I am the co-chair of the leadership committee for the <a href="https://trac.nci.org.au/trac/cable/wiki" style="color:#16a085;">CABLE</a> land surface model. I am also a member of the Scientific Steering Committee for the AmazonFACE experiment.</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <h3 id="research-positions">Research Positions</h3>
 
@@ -198,12 +133,4 @@
   gtag('config', 'UA-45662310-1');
 </script>
 
-
-
-
-
-</div>
-<script src="/assets/vendor/highlight/highlight.pack.js"></script>
-<script>hljs.initHighlightingOnLoad();</script>
-</body>
-</html>
+:ET

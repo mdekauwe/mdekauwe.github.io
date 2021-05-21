@@ -8,10 +8,7 @@ subtitle:
 
 Martin De Kauwe is a Senior Lecturer in the Climate Change Research Centre at the University of New South Wales. <!-- In August I will be moving to the University of Bristol to take up an Associate Professor position in the School of Bioglogical Sciences. -->
 
-<a href="mailto:mdekauwe@gmail.com" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"></i></a> <a href="https://github.com/mdekauwe" class="social-links__entry" target="_blank"> <i class="fa fa fa-github fa-lg"></i></a> <a href="https://scholar.google.com.au/citations?user=ka3U7xcAAAAJ&hl=en" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a> <a href="https://twitter.com/mdekauwe82" class="social-links__entry" target="_blank"> <i class="fa fa-twitter fa-lg"></i></a>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p> I am an Associate Editor of <a href="https://www.biogeosciences.net/" style="color:#16a085;">Biogeosciences</a> and a member of the Editorial Advisory Board for <a href="https://onlinelibrary.wiley.com/journal/13652486" style="color:#16a085;">Global Change Biology</a> and <a href="https://nph.onlinelibrary.wiley.com/journal/14698137" style="color:#16a085;">New Phytologist</a>. I am the co-chair of the leadership committee for the <a href="https://trac.nci.org.au/trac/cable/wiki" style="color:#16a085;">CABLE</a> land surface model. I am also a member of the Scientific Steering Committee for the AmazonFACE experiment.</p>
 
 ### Research Positions
 
@@ -29,10 +26,8 @@ Martin De Kauwe is a Senior Lecturer in the Climate Change Research Centre at th
 
 <span style="color:#16a085">2003:</span> BSc in Geography, Kings College London, UK.
 
-### Leadership and service
 
-<p> I am an Associate Editor of <a href="https://www.biogeosciences.net/" style="color:#16a085;">Biogeosciences</a> and a member of the Editorial Advisory Board for <a href="https://onlinelibrary.wiley.com/journal/13652486" style="color:#16a085;">Global Change Biology</a> and <a href="https://nph.onlinelibrary.wiley.com/journal/14698137" style="color:#16a085;">New Phytologist</a>. I am the co-chair of the leadership committee for the <a href="https://trac.nci.org.au/trac/cable/wiki" style="color:#16a085;">CABLE</a> land surface model. I am also a member of the Scientific Steering Committee for the AmazonFACE experiment.</p>
-
+<a href="mailto:mdekauwe@gmail.com" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"></i></a> <a href="https://github.com/mdekauwe" class="social-links__entry" target="_blank"> <i class="fa fa fa-github fa-lg"></i></a> <a href="https://scholar.google.com.au/citations?user=ka3U7xcAAAAJ&hl=en" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a> <a href="https://twitter.com/mdekauwe82" class="social-links__entry" target="_blank"> <i class="fa fa-twitter fa-lg"></i></a>
 
 
 
