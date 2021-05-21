@@ -10,7 +10,7 @@ We tackle a diverse range of questions that connect terrestrial ecosystems with 
 
 - how will plants respond to increasing atmospheric CO<sub>2</sub> concentration?
 - can we predict when and where trees might die of drought-induced mortality?
-- how do we improving our predictions of vegetation function as water and temperature become limiting?
+- how do we improve our predictions of vegetation function as water and temperature become limiting?
 - what role does legacy to past environmental conditions (days-years) play in our capacity to predict current plant function?
 - how resilient are species distributions to future climate change?
 - how does plant physiology affect land-atmosphere feedbacks during climate extremes?
