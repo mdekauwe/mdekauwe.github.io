@@ -5,10 +5,11 @@ subtitle:
 ---
 <p> Supervised students (<sup>&#8224;</sup>) and postdocs (<sup>&#x02021;</sup> ) are underlined. </p>
 
-
 ### In review
 
-<ol reversed start="85">
+<ol reversed start="86">
+
+<li><p> McDowell, N., Sapes, G., Pivovaroff, A., Adams, H., Allen, C. D., Anderegg, W. R. L., Arend, M., Breshears, D. D., Brodribb, T., Choat, B., Cochard, H., De Cáceres, M., <b>De Kauwe M. G.</b>, Grossiord, C., Hammond, W. M., Hartmann, H., Hoch, G., Kahmen, A., Klein, T., Mackay, D. S., Mantova, M., Martínez-Vilalta, J., Medlyn, B. E., Mencuccini, M., Nardini, A., Oliveira, R. S., Sala, A., Tissue, D. T., Torres-Ruiz, J. M., Trowbridge, A., Trugman, A. T., Wiley, E., and Xu, C. (2021) A mechanistic framework for woody plant mortality under rising drought, CO2, and temperature. <i>In review</i>. </p></li>
 
 <li><p> <sup>&#8224;</sup><u>Mu, M.</u>, <b>De Kauwe, M. G.</b>, Ukkola, A. M., Pitman, A. J., Weidong, G., Hobeichi, S. and Briggs, P. R.  (2021) Exploring how groundwater buffers the influence of heatwaves on vegetation function during multi-year droughts. <i>In review</i>. </p></li>
 
