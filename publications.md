@@ -25,8 +25,6 @@ subtitle:
 
 <li><p> <sup>&#x02021;</sup><u>Rifai, S.</u>, <b>De Kauwe M. G.</b>, Ukkola, A. M., Cernusak, L., Meir, P., Donohue, R., Medlyn, B. E. and Pitman, A. J. (2021)  CO<sub>2</sub> fertilization effect outpaced growing aridity in Australian woody ecosystems. <i>In review</i>. </p></li>
 
-<li><p> Ukkola, A. M., <b>De Kauwe M. G.</b>, Roderick, M. L., Burrell, A., Lehmann, P. and Pitman, A. J. (2021)  Rainfall explains variability in dryland vegetation greenness globally but not locally. <i>In review</i>. </p></li>
-
 <li><p> Keenan, T., Luo, X., <b>De Kauwe, M. G.</b>, Medlyn, B. E., Prentice, I. C., Stocker, B., Smith, N., Terrer, C., Wang, H., Zhang, Y. and Zhou, S. (2021) A constraint on historic increases in global photosynthesis due to rising CO<sub>2</sub>. <i>In review</i>. </p></li>
 
 <li><p> Ellsworth, D. S., Crous, K., Wright, I., <b>De Kauwe, M. G.</b>, Verryckt, L., Goll, D. S., Zaehle, S., Bloomfield, K., Ciais, P., Cernusak, L., Domingues, T., Dusenge, M., Garcia, S., Guerrieri, R., Hui, G., Ishida, F., Janssens, I., Medlyn, B., Meir, P., Sun, Y., Norby, R., Reich, P., Rowland, L., Santiago, L., Kenzo, T., Ichie, T., Uddling, J., Walker, A., Weerasinghe, L., van de Weg, M. and Zhang, J.-L. (2021) Phosphorus constrains photosynthesis in forests around the world. <i>In review</i>. </p></li>
@@ -36,6 +34,8 @@ subtitle:
 ### In print
 
 <ol reversed>
+
+<li><p> Ukkola, A. M., <b>De Kauwe M. G.</b>, Roderick, M. L., Burrell, A., Lehmann, P. and Pitman, A. J. (2021)  Rainfall explains variability in dryland vegetation greenness globally but not locally. <i>Global Change Biology</i>, in press. </p></li>
 
 <li><p> Blyth, E.M., Arora, V.K., Clark, D.B., Dadson, S. J., <b>De Kauwe, M. G.</b>, Lawrence, D. M., Melton, J. R., Pongratz, J., Turton, R., Yoshimura, K. and Yuan H. (2021) Advances in Land Surface Modelling. <i> Current Climate Change Reports</i>, DOI:10.1007/s40641-021-00171-5. </p></li>
 
