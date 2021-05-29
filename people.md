@@ -6,17 +6,21 @@ subtitle:
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/me.jpg"/>
 
-Martin De Kauwe is a Senior Lecturer in the Climate Change Research Centre at the University of New South Wales.  In August I will be moving to the University of Bristol to take up an Associate Professor position in the School of Biological Sciences.
+Martin De Kauwe is a Senior Lecturer in the Climate Change Research Centre at the University of New South Wales. In August Martin will be moving to the University of Bristol to take up an Associate Professor position in the <a href="http://www.bristol.ac.uk/biology/" style="color:#16a085;">School of Biological Sciences</a>
 
-<p> I am an Associate Editor of <a href="https://www.biogeosciences.net/" style="color:#16a085;">Biogeosciences</a> and a member of the Editorial Advisory Board for <a href="https://onlinelibrary.wiley.com/journal/13652486" style="color:#16a085;">Global Change Biology</a> and <a href="https://nph.onlinelibrary.wiley.com/journal/14698137" style="color:#16a085;">New Phytologist</a>. I am the co-chair of the leadership committee for the <a href="https://trac.nci.org.au/trac/cable/wiki" style="color:#16a085;">CABLE</a> land surface model. I am also a member of the Scientific Steering Committee for the AmazonFACE experiment.</p>
+
+
+<p> Martin is an Associate Editor of <a href="https://www.biogeosciences.net/" style="color:#16a085;">Biogeosciences</a> and a member of the Editorial Advisory Board for <a href="https://onlinelibrary.wiley.com/journal/13652486" style="color:#16a085;">Global Change Biology</a> and <a href="https://nph.onlinelibrary.wiley.com/journal/14698137" style="color:#16a085;">New Phytologist</a>. Martin is the co-chair of the leadership committee for the <a href="https://trac.nci.org.au/trac/cable/wiki" style="color:#16a085;">CABLE</a> land surface model. Martin is also a member of the Scientific Steering Committee for the AmazonFACE experiment.</p>
 
 ### Research Positions
 
-<span style="color:#16a085">2017–2024:</span> Senior Lecturer, Climate Change Research Centre, University of New South Wales, Australia.
+<span style="color:#16a085">2021–present:</span> Associate Professor, School of Biological Sciences, University of Bristol, England.
+
+<span style="color:#16a085">2017–2021:</span> Senior Lecturer, Climate Change Research Centre, University of New South Wales, Australia.
 
 <span style="color:#16a085">2010–2017:</span> Research Fellow, Department of Biological Sciences, Macquarie University, Australia.
 
-<span style="color:#16a085">2008–2010:</span>  Earth Observation and Land Surface Modeller, Centre for Ecology and Hydrology, UK.
+<span style="color:#16a085">2008–2010:</span>  Earth Observation and Land Surface Modeller, Centre for Ecology and Hydrology, England.
 
 ### Education
 
