@@ -21,8 +21,6 @@ subtitle:
 
 <li> <sup>&#8224;</sup><u>Sabot, M.</u>, <b>De Kauwe M. G.</b>, Pitman, A., Medlyn, B., Ellsworth, D., Martin, N., Limousin, J-M., Wu, J. Choat, B., Mitchell, P., Rogers, A. and Serbin, S. (2021) One stomatal model to rule them all? Towards improved representation of carbon and water exchange in global models. <i>In review</i>. </p></li>
 
-<li><p> Tong, J., Williams, C., <b>De Kauwe M. G.</b>, Schwalm, C. and  Medlyn, B. E. (2021)  Patterns of post-drought recovery are strongly influenced by drought duration, frequency, post-drought wetness, and bioclimatic setting. <i>In review</i>. </p></li>
-
 <li><p> <sup>&#x02021;</sup><u>Rifai, S.</u>, <b>De Kauwe M. G.</b>, Ukkola, A. M., Cernusak, L., Meir, P., Donohue, R., Medlyn, B. E. and Pitman, A. J. (2021)  CO<sub>2</sub> fertilization effect outpaced growing aridity in Australian woody ecosystems. <i>In review</i>. </p></li>
 
 <li><p> Keenan, T., Luo, X., <b>De Kauwe, M. G.</b>, Medlyn, B. E., Prentice, I. C., Stocker, B., Smith, N., Terrer, C., Wang, H., Zhang, Y. and Zhou, S. (2021) A constraint on historic increases in global photosynthesis due to rising CO<sub>2</sub>. <i>In review</i>. </p></li>
@@ -34,6 +32,8 @@ subtitle:
 ### In print
 
 <ol reversed>
+
+<li><p> Tong, J., Williams, C., <b>De Kauwe M. G.</b>, Schwalm, C. and  Medlyn, B. E. (2021)  Patterns of post-drought recovery are strongly influenced by drought duration, frequency, post-drought wetness, and bioclimatic setting. <i>Global Change Biology</i>, in press. </p></li>
 
 <li><p> <b>De Kauwe M. G.</b>, Medlyn, B. E., Tissue, D. T. (2021) To what extent can rising [CO<sub>2</sub>] ameliorate plant drought stress? <i>New Phytologist</i>, in press. </p></li>
 
