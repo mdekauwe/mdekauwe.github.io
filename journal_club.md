@@ -4,7 +4,9 @@ title: ""
 subtitle:
 ---
 
-What we're reading ...
+Journal club will be taking a "little" holiday...
+
+<!-- What we're reading ... -->
 
 <p>&nbsp;</p>
 
