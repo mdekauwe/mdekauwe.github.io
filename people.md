@@ -6,11 +6,9 @@ subtitle:
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/me.jpg"/>
 
-Martin De Kauwe is a Senior Lecturer in the Climate Change Research Centre at the University of New South Wales. In August Martin will be moving to the University of Bristol to take up an Associate Professor position in the <a href="http://www.bristol.ac.uk/biology/" style="color:#16a085;">School of Biological Sciences</a>
+In August, Martin De Kauwe will be starting as an Associate Professor of Global Change Ecology at the <a href="http://www.bristol.ac.uk/biology/" style="color:#16a085;">University of Bristol</a>. Martin's research group will continue to be split between Bristol and Sydney for the next few years.
 
-
-
-<p> Martin is an Associate Editor of <a href="https://www.biogeosciences.net/" style="color:#16a085;">Biogeosciences</a> and a member of the Editorial Advisory Board for <a href="https://onlinelibrary.wiley.com/journal/13652486" style="color:#16a085;">Global Change Biology</a> and <a href="https://nph.onlinelibrary.wiley.com/journal/14698137" style="color:#16a085;">New Phytologist</a>. Martin is the co-chair of the leadership committee for the <a href="https://trac.nci.org.au/trac/cable/wiki" style="color:#16a085;">CABLE</a> land surface model. Martin is also a member of the Scientific Steering Committee for the AmazonFACE experiment.</p>
+<p> Martin is an Associate Editor of <a href="https://www.biogeosciences.net/" style="color:#16a085;">Biogeosciences</a> and a member of the Editorial Advisory Board for <a href="https://onlinelibrary.wiley.com/journal/13652486" style="color:#16a085;">Global Change Biology</a> and <a href="https://nph.onlinelibrary.wiley.com/journal/14698137" style="color:#16a085;">New Phytologist</a>. Martin is the former co-chair of the leadership committee for the <a href="https://trac.nci.org.au/trac/cable/wiki" style="color:#16a085;">CABLE</a> land surface model. Martin is also a member of the Scientific Steering Committee for the AmazonFACE experiment.</p>
 
 ### Research Positions
 
@@ -44,7 +42,7 @@ Sami Rifai is a Postdoctoral Researcher at the University of New South Wales.
 Sami is working on the ARC grant exploring how vulnerable eucalypts are to future droughts.
 
 <a href="mailto:srifai@gmail.com" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
-
+<a href="https://scholar.google.com.au/citations?hl=en&user=2GmEDKAAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
 
 <p>&nbsp;</p>
@@ -58,6 +56,7 @@ Jonathan Page is a PhD student at the University of New South Wales.
 Thesis: <span style="color:#16a085">*Lags and legacies: understanding the role of antecedent effects on grassland biomass responses to rising CO2* </span>
 
 <a href="mailto:jon.page@unsw.edu.au" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
+<a href="https://scholar.google.com.au/citations?hl=en&user=yEtrmdMAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -82,7 +81,7 @@ Lina Teckentrup is a PhD student at the University of New South Wales.
 Thesis: <span style="color:#16a085">*The response of terrestrial ecosystems to different climate modes* </span>
 
 <a href="mailto:l.teckentrup@unsw.edu.au" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
-
+<a href="https://scholar.google.com.au/citations?hl=en&user=MzjKIsoAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -94,6 +93,7 @@ Mengyuan Mu is a PhD student at the University of New South Wales.
 Thesis: <span style="color:#16a085">*How important is groundwater to the resilience of vegetation during drought?* </span>
 
 <a href="mailto:mengyuan.mu@student.unsw.edu.au" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
+<a href="https://scholar.google.com.au/citations?hl=en&user=e5bnO9gAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -105,6 +105,7 @@ Manon Sabot is a PhD student at the University of New South Wales.
 Thesis: <span style="color:#16a085">*Trading water for carbon: exploring optimality theory to improve model predictions of vegetation function during drought* </span>
 
 <a href="mailto:m.sabot@unsw.edu.au" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
+<a href="https://scholar.google.com.au/citations?hl=en&user=Pce-a8UAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -120,7 +121,7 @@ Thesis: <span style="color:#16a085">*Modelling the carbon uptake of Australian e
 Jim is now working as a Postdoc at Western Sydney University
 
 <a href="mailto:Jinyan.Yang@westernsydney.edu.au" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
-
+<a href="https://scholar.google.com.au/citations?hl=en&user=6f7VyFoAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -133,6 +134,8 @@ Ned Haughton was a PhD student at the University of New South Wales.
 Thesis: <span style="color:#16a085">*On the predictability of land surface fluxes* </span>
 
 Ned is now working as a risk analyst at Climate Risk
+
+<a href="https://scholar.google.com.au/citations?hl=en&user=iMq-xHEAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
