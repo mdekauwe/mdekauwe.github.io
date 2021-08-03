@@ -13,8 +13,6 @@ subtitle:
 
 <li><p> McDowell, N., Sapes, G., Pivovaroff, A., Adams, H., Allen, C. D., Anderegg, W. R. L., Arend, M., Breshears, D. D., Brodribb, T., Choat, B., Cochard, H., De Cáceres, M., <b>De Kauwe M. G.</b>, Grossiord, C., Hammond, W. M., Hartmann, H., Hoch, G., Kahmen, A., Klein, T., Mackay, D. S., Mantova, M., Martínez-Vilalta, J., Medlyn, B. E., Mencuccini, M., Nardini, A., Oliveira, R. S., Sala, A., Tissue, D. T., Torres-Ruiz, J. M., Trowbridge, A., Trugman, A. T., Wiley, E., and Xu, C. (2021) A mechanistic framework for woody plant mortality under rising drought, CO<sub>2</sub>, and temperature. <i>In review</i>. </p></li>
 
-<li><p> <sup>&#8224;</sup><u>Mu, M.</u>, <b>De Kauwe, M. G.</b>, Ukkola, A. M., Pitman, A. J., Weidong, G., Hobeichi, S. and Briggs, P. R.  (2021) Exploring how groundwater buffers the influence of heatwaves on vegetation function during multi-year droughts. <i>In review</i>. </p></li>
-
 <li><p> <sup>&#8224;</sup><u>Teckentrup, L.</u>, <b>De Kauwe, M. G.</b>, Pitman, A., Goll, D., Haverd, V., Jain, A. K., Joetzjer, E., Kato, E., Lienert, S., Lombardozzi, D., McGuire, P. C., Melton, J. R., Nabel, J. E. M. S., Pongratz, J., Sitch, S., Walker, A. P. and Zaehle, S.(2021) Assessing the representation of the Australian carbon cycle in global vegetation models. <i>In review</i>. </p></li>
 
 <li><p> Tong, J., Williams, C., <b>De Kauwe M. G.</b> and  Medlyn, B. E. (2021) Cumulative effects doubled the drought impacts for one fifth of ecosystems exposed to recurrent droughts during Australia’s Millennium Drought. <i>In review</i>. </p></li>
@@ -32,6 +30,8 @@ subtitle:
 ### In print
 
 <ol reversed>
+
+<li><p> <sup>&#8224;</sup><u>Mu, M.</u>, <b>De Kauwe, M. G.</b>, Ukkola, A. M., Pitman, A. J., Weidong, G., Hobeichi, S. and Briggs, P. R.  (2021) Exploring how groundwater buffers the influence of heatwaves on vegetation function during multi-year droughts. <i>Earth System Dynamics</i>, in press. </p></li>
 
 <li><p> Tong, J., Williams, C., <b>De Kauwe M. G.</b>, Schwalm, C. and  Medlyn, B. E. (2021)  Patterns of post-drought recovery are strongly influenced by drought duration, frequency, post-drought wetness, and bioclimatic setting. <i>Global Change Biology</i>, in press. </p></li>
 
