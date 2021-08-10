@@ -7,7 +7,10 @@ subtitle:
 
 ### In review
 
-<ol reversed start="87">
+<ol reversed start="88">
+
+
+<li><p> Hobeichi, S., Abramowitz, G., Ukkola. A. M., <b>De Kauwe M. G.</b>, Pitman, A., Evans, J. P. and Beck, H. (2021) Reconciling historical changes in the hydrological cycle over land. <i>In review</i>. </p></li>
 
 <li><p> Ukkola. A. M., Abramowitz, G. and <b>De Kauwe M. G.</b> (2021) A flux tower dataset tailored for land model evaluation. <i>In review</i>. </p></li>
 
