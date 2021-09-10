@@ -21,7 +21,7 @@ subtitle:
 
 <li><p> Tong, J., Williams, C., <b>De Kauwe M. G.</b> and  Medlyn, B. E. (2021) Cumulative effects doubled the drought impacts for one fifth of ecosystems exposed to recurrent droughts during Australia’s Millennium Drought. <i>In review</i>. </p></li>
 
-<li> <sup>&#8224;</sup><u>Sabot, M.</u>, <b>De Kauwe M. G.</b>, Pitman, A., Medlyn, B., Ellsworth, D., Martin, N., Limousin, J-M., Wu, J. Choat, B., Mitchell, P., Rogers, A. and Serbin, S. (2021) One stomatal model to rule them all? Towards improved representation of carbon and water exchange in global models. <i>In review</i>. </p></li>
+<li><p> <sup>&#8224;</sup><u>Sabot, M.</u>, <b>De Kauwe M. G.</b>, Pitman, A., Medlyn, B., Ellsworth, D., Martin, N., Limousin, J-M., Wu, J. Choat, B., Mitchell, P., Rogers, A. and Serbin, S. (2021) One stomatal model to rule them all? Towards improved representation of carbon and water exchange in global models. <i>In review</i>. </p></li>
 
 <li><p> <sup>&#x02021;</sup><u>Rifai, S.</u>, <b>De Kauwe M. G.</b>, Ukkola, A. M., Cernusak, L., Meir, P., Donohue, R., Medlyn, B. E. and Pitman, A. J. (2021)  CO<sub>2</sub> fertilization effect outpaced growing aridity in Australian woody ecosystems. <i>In review</i>. </p></li>
 
