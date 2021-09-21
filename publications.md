@@ -43,7 +43,7 @@ subtitle:
 
 <li><p> <b>De Kauwe M. G.</b>, Medlyn, B. E., Tissue, D. T. (2021) To what extent can rising [CO<sub>2</sub>] ameliorate plant drought stress? <i>New Phytologist</i>, in press. </p></li>
 
-<li><p> Ukkola, A. M., <b>De Kauwe M. G.</b>, Roderick, M. L., Burrell, A., Lehmann, P. and Pitman, A. J. (2021)  Rainfall explains variability in dryland vegetation greenness globally but not locally. <i>Global Change Biology</i>, in press. </p></li>
+<li><p> Ukkola, A. M., <b>De Kauwe M. G.</b>, Roderick, M. L., Burrell, A., Lehmann, P. and Pitman, A. J. (2021) Annual precipitation explains variability in dryland vegetation greenness globally but not locally. <i>Global Change Biology</i>, in press. </p></li>
 
 <li><p> Blyth, E.M., Arora, V.K., Clark, D.B., Dadson, S. J., <b>De Kauwe, M. G.</b>, Lawrence, D. M., Melton, J. R., Pongratz, J., Turton, R., Yoshimura, K. and Yuan H. (2021) Advances in Land Surface Modelling. <i> Current Climate Change Reports</i>, DOI:10.1007/s40641-021-00171-5. </p></li>
 
