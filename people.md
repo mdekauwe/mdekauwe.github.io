@@ -35,6 +35,19 @@ Martin De Kauwe is an Associate Professor of Global Change Ecology at the <a hre
 
 <p>&nbsp;</p>
 
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/ellie.jpg"/>
+
+Ellie Nichols is an MSc student at the University of Bristol.
+
+Ellie is examining the links between traits that describe plant water relations and climate.
+
+<a href="mailto:pu18241@bristol.ac.uk" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/sami.jpg"/>
 
 Sami Rifai is a Postdoctoral Researcher at the University of New South Wales.
@@ -43,7 +56,6 @@ Sami is working on the ARC grant exploring how vulnerable eucalypts are to futur
 
 <a href="mailto:srifai@gmail.com" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
 <a href="https://scholar.google.com.au/citations?hl=en&user=2GmEDKAAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
-
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
