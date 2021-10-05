@@ -31,8 +31,6 @@ subtitle:
 
 <li><p> <sup>&#x02021;</sup><u>Rifai, S.</u>, <b>De Kauwe M. G.</b>, Ukkola, A. M., Cernusak, L., Meir, P., Donohue, R., Medlyn, B. E. and Pitman, A. J. (2021)  CO<sub>2</sub> fertilization effect outpaced growing aridity in Australian woody ecosystems. <i>In review</i>. </p></li>
 
-<li><p> Keenan, T., Luo, X., <b>De Kauwe, M. G.</b>, Medlyn, B. E., Prentice, I. C., Stocker, B., Smith, N., Terrer, C., Wang, H., Zhang, Y. and Zhou, S. (2021) A constraint on historic increases in global photosynthesis due to rising CO<sub>2</sub>. <i>In review</i>. </p></li>
-
 <li><p> Ellsworth, D. S., Crous, K., Wright, I., <b>De Kauwe, M. G.</b>, Verryckt, L., Goll, D. S., Zaehle, S., Bloomfield, K., Ciais, P., Cernusak, L., Domingues, T., Dusenge, M., Garcia, S., Guerrieri, R., Hui, G., Ishida, F., Janssens, I., Medlyn, B., Meir, P., Sun, Y., Norby, R., Reich, P., Rowland, L., Santiago, L., Kenzo, T., Ichie, T., Uddling, J., Walker, A., Weerasinghe, L., van de Weg, M. and Zhang, J.-L. (2021) Phosphorus constrains photosynthesis in forests around the world. <i>In review</i>. </p></li>
 
 </ol>
@@ -41,6 +39,8 @@ subtitle:
 
 <ol reversed>
 
+
+<li><p> Keenan, T., Luo, X., <b>De Kauwe, M. G.</b>, Medlyn, B. E., Prentice, I. C., Stocker, B., Smith, N., Terrer, C., Wang, H., Zhang, Y. and Zhou, S. (2021) A constraint on historic increases in global photosynthesis due to rising CO<sub>2</sub>. <i>Nature</i>, in press. </p></li>
 
 <li><p> <sup>&#8224;</sup><u>Teckentrup, L.</u>, <b>De Kauwe, M. G.</b>, Pitman, A., Goll, D., Haverd, V., Jain, A. K., Joetzjer, E., Kato, E., Lienert, S., Lombardozzi, D., McGuire, P. C., Melton, J. R., Nabel, J. E. M. S., Pongratz, J., Sitch, S., Walker, A. P. and Zaehle, S.(2021) Assessing the representation of the Australian carbon cycle in global vegetation models. <i>Biogeosciences</i>, in press. </p></li>
 
