@@ -7,9 +7,11 @@ subtitle:
 
 ### In review
 
-<ol reversed start="93">
+<ol reversed start="94">
 
- <li><p>Kala, J., Hirsch, A. L., Ziehn, T., <b>De Kauwe M. G.</b>, Pitman, A. and Perkins-Kirkpatrick, S. E. (2021) Assessing the potential for crop albedo enhancement in reducing heatwave frequency, duration, and intensity under future climate change. <i>In review</i>. </p></li>
+<li><p> <sup>&#x02021;</sup><u>Rifai, S.</u>, <b>De Kauwe M. G.</b>, Gallagher, R., Cernusak, L., Meir, P., and Pitman, A. J. (2021) Bushfire recovery trajectories are structured by burn severity and the cessation of drought: predicting time-to-recover from recent Australian mega-fires. <i>In review</i>. </p></li>
+
+<li><p>Kala, J., Hirsch, A. L., Ziehn, T., <b>De Kauwe M. G.</b>, Pitman, A. and Perkins-Kirkpatrick, S. E. (2021) Assessing the potential for crop albedo enhancement in reducing heatwave frequency, duration, and intensity under future climate change. <i>In review</i>. </p></li>
 
 <li><p> <sup>&#8224;</sup><u>Page, J. C.</u>, <b>De Kauwe M. G.</b>, Abramowitz, G., Cleverly, J., Hinko-Najera, N., Hovenden, M. J., Liu, Y., Pitman, A. J., and Ogle, K. (2021) Examining the Role of Environmental Memory in Carbon and Water Fluxes across Australian Ecosystems. <i>In review</i>. </p></li>
 
@@ -29,7 +31,7 @@ subtitle:
 
 <li><p> <sup>&#8224;</sup><u>Sabot, M.</u>, <b>De Kauwe M. G.</b>, Pitman, A., Medlyn, B., Ellsworth, D., Martin, N., Limousin, J-M., Wu, J. Choat, B., Mitchell, P., Rogers, A. and Serbin, S. (2021) One stomatal model to rule them all? Towards improved representation of carbon and water exchange in global models. <i>In review</i>. </p></li>
 
-<li><p> <sup>&#x02021;</sup><u>Rifai, S.</u>, <b>De Kauwe M. G.</b>, Ukkola, A. M., Cernusak, L., Meir, P., Donohue, R., Medlyn, B. E. and Pitman, A. J. (2021)  CO<sub>2</sub> fertilization effect outpaced growing aridity in Australian woody ecosystems. <i>In review</i>. </p></li>
+<li><p> <sup>&#x02021;</sup><u>Rifai, S.</u>, <b>De Kauwe M. G.</b>, Ukkola, A. M., Cernusak, L., Meir, P., Medlyn, B. E. and Pitman, A. J. (2021) Thirty-eight years of CO<sub>2</sub> fertilization have outpaced growing aridity to drive greening of Australian woody ecosystems. <i>In review</i>. </p></li>
 
 <li><p> Ellsworth, D. S., Crous, K., Wright, I., <b>De Kauwe, M. G.</b>, Verryckt, L., Goll, D. S., Zaehle, S., Bloomfield, K., Ciais, P., Cernusak, L., Domingues, T., Dusenge, M., Garcia, S., Guerrieri, R., Hui, G., Ishida, F., Janssens, I., Medlyn, B., Meir, P., Sun, Y., Norby, R., Reich, P., Rowland, L., Santiago, L., Kenzo, T., Ichie, T., Uddling, J., Walker, A., Weerasinghe, L., van de Weg, M. and Zhang, J.-L. (2021) Phosphorus constrains photosynthesis in forests around the world. <i>In review</i>. </p></li>
 
