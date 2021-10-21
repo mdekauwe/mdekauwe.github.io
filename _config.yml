@@ -1,9 +1,9 @@
 # Site settings
 title: Global Change Ecology Lab
 description: >
-  Home of the Global Change Ecology Lab at the University of New South Wales
+  Home of the Global Change Ecology Lab at the University of Bristol, UK
 tags: >
-  Martin De Kauwe, scientist, climate, water, carbon, co2, model, vegetation
+  Martin De Kauwe, scientist, climate, water, carbon, CO2, model, vegetation
 baseurl: ""
 url: "https://mdekauwe.github.io/" # the base hostname & protocol for your site
 
@@ -12,7 +12,7 @@ author:
   github: mdekauwe
   twitter: mdekauwe82
   email: mdekauwe@gmail.com
-  googlescholar:
+  googlescholar: https://scholar.google.com/citations?user=ka3U7xcAAAAJ
 
 google_analytics: 'UA-XXXXXXXX-X'
 
