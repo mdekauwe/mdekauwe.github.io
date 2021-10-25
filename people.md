@@ -35,6 +35,18 @@ Martin De Kauwe is an Associate Professor of Global Change Ecology at the <a hre
 
 <p>&nbsp;</p>
 
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/blank.png"/>
+
+Grace Isacc is an MRes student at the University of Bristol.
+
+Grace is exploring the drivers of the rapid hydraulic collapse of conifer trees during a record-breaking sumer drought in Switzerland, 2018.
+
+<a href="mailto:dz18471@bristol.ac.uuk" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/ellie.jpg"/>
 
 Ellie Nichols is an MSc student at the University of Bristol.
@@ -44,6 +56,8 @@ Ellie is examining the links between traits that describe plant water relations 
 <a href="mailto:pu18241@bristol.ac.uk" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
 
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
