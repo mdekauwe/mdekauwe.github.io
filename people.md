@@ -46,6 +46,7 @@ Grace is exploring the drivers of the rapid hydraulic collapse of conifer trees 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/ellie.jpg"/>
 
