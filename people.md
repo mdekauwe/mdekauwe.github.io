@@ -57,7 +57,7 @@ Ellie is examining the links between traits that describe plant water relations 
 <a href="mailto:pu18241@bristol.ac.uk" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
 
 
-<p>&nbsp;</p>
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
