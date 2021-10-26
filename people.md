@@ -35,7 +35,7 @@ Martin De Kauwe is an Associate Professor of Global Change Ecology at the <a hre
 
 <p>&nbsp;</p>
 
-<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/blank.png"/>
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/grace.png"/>
 
 Grace Isacc is an MRes student at the University of Bristol.
 
