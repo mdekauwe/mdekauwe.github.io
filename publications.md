@@ -18,9 +18,6 @@ subtitle:
 <li><p>Beringer, J., Moore, C. E., Cleverly, J., Campbell, D. I., Cleugh, H., <b>De Kauwe M. G.</b>, Kirschbaum, M. U. F, Griebel, A., Grover, S., Huete, A., Hutley, L. B., Laubach, J., van Niel, T., Arndt, S. K., Bennett, A. C., Cernusak, L. A., Eamus, D., Ewenz, C. M., Goodrich, J. P., Jiang, M., Hinko-Najera, N., Isaac, P., Hobeichi, S., Knauer, J., Koerber, G. R., Liddell, M., Ma, X., McHugh, I. D., Medlyn, B. E., Meyer, W. S., Norton, A. J., Owens, J., Pitman, A., Pendall, E., Ray, R. L., Restrepo‐Coupe, N., Rowlings, D., Schipper, L., Silberstein, R. P., Teckentrup, L., Thompson, S. E., Ukkola, A. M., Wall, A., Wang, Y.-P. Wardlaw, T. J. and Woodgate, W. (2021) Bridge to the Future: Important lessons from 20 years of ecosystem observations made by the OzFlux network. <i>In review</i>. </p></li>
 
 
-
-<li><p> Crous, K., Uddling, J. and <b>De Kauwe M. G.</b> (2021) Temperature responses of photosynthesis and respiration in evergreen trees. <i>In review</i>. </p></li>
-
 <li><p> Hobeichi, S., Abramowitz, G., Ukkola. A. M., <b>De Kauwe M. G.</b>, Pitman, A., Evans, J. P. and Beck, H. (2021) Reconciling historical changes in the hydrological cycle over land. <i>In review</i>. </p></li>
 
 <li><p> Tong, J., Williams, C., <b>De Kauwe M. G.</b> and  Medlyn, B. E. (2021) Cumulative effects doubled the drought impacts for one fifth of ecosystems exposed to recurrent droughts during Australia’s Millennium Drought. <i>In review</i>. </p></li>
@@ -36,6 +33,8 @@ subtitle:
 ### In print
 
 <ol reversed>
+
+<li><p> Crous, K., Uddling, J. and <b>De Kauwe M. G.</b> (2021) Temperature responses of photosynthesis and respiration in evergreen trees. <i>New Phytologist</i>, in press. </p></li>
 
 <li><p> Cernusak, L. and <b>De Kauwe M. G.</b> (2021) Red light shines a path forward on leaf minimum conductance. <i>New Phytologist</i>, DOI: 10.1111/nph.17794
 
