@@ -7,7 +7,9 @@ subtitle:
 
 ### In review
 
-<ol reversed start="94">
+<ol reversed start="95">
+
+<li><p><b>De Kauwe M. G.</b>, Sabot, M., Medlyn, B. E., Pitman, A. J., Meir, P., Cernusak, L., Gallagher, R., Ukkola, A., Rifai, S. and Choat, B. (2021) Towards species-level forecasts of drought-induced tree mortality risk. <i>In review</i>. </p></li>
 
 <li><p> <sup>&#x02021;</sup><u>Rifai, S.</u>, <b>De Kauwe M. G.</b>, Gallagher, R., Cernusak, L., Meir, P., and Pitman, A. J. (2021) Bushfire recovery trajectories are structured by burn severity and the cessation of drought: predicting time-to-recover from recent Australian mega-fires. <i>In review</i>. </p></li>
 
