@@ -26,7 +26,6 @@ subtitle:
 
 <li><p> <sup>&#8224;</sup><u>Sabot, M.</u>, <b>De Kauwe M. G.</b>, Pitman, A., Medlyn, B., Ellsworth, D., Martin, N., Limousin, J-M., Wu, J. Choat, B., Mitchell, P., Rogers, A. and Serbin, S. (2021) One stomatal model to rule them all? Towards improved representation of carbon and water exchange in global models. <i>In review</i>. </p></li>
 
-<li><p> <sup>&#x02021;</sup><u>Rifai, S.</u>, <b>De Kauwe M. G.</b>, Ukkola, A. M., Cernusak, L., Meir, P., Medlyn, B. E. and Pitman, A. J. (2021) Thirty-eight years of CO<sub>2</sub> fertilization have outpaced growing aridity to drive greening of Australian woody ecosystems. <i>In review</i>. </p></li>
 
 <li><p> Ellsworth, D. S., Crous, K., Wright, I., <b>De Kauwe, M. G.</b>, Verryckt, L., Goll, D. S., Zaehle, S., Bloomfield, K., Ciais, P., Cernusak, L., Domingues, T., Dusenge, M., Garcia, S., Guerrieri, R., Hui, G., Ishida, F., Janssens, I., Medlyn, B., Meir, P., Sun, Y., Norby, R., Reich, P., Rowland, L., Santiago, L., Kenzo, T., Ichie, T., Uddling, J., Walker, A., Weerasinghe, L., van de Weg, M. and Zhang, J.-L. (2021) Convergence in phosphorus constraints to photosynthesis in forests around the world. <i>In review</i>. </p></li>
 
@@ -35,6 +34,9 @@ subtitle:
 ### In print
 
 <ol reversed>
+
+
+<li><p> <sup>&#x02021;</sup><u>Rifai, S.</u>, <b>De Kauwe M. G.</b>, Ukkola, A. M., Cernusak, L., Meir, P., Medlyn, B. E. and Pitman, A. J. (2021) Thirty-eight years of CO<sub>2</sub> fertilization have outpaced growing aridity to drive greening of Australian woody ecosystems. <i>Biogeosciences</i>, in press. </p></li>
 
 <li><p> Crous, K., Uddling, J. and <b>De Kauwe M. G.</b> (2021) Temperature responses of photosynthesis and respiration in evergreen trees. <i>New Phytologist</i>, in press. </p></li>
 
