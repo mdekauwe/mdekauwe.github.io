@@ -39,7 +39,7 @@ subtitle:
 
 <li><p> Crous, K., Uddling, J. and <b>De Kauwe M. G.</b> (2022) Temperature responses of photosynthesis and respiration in evergreen trees. <i>New Phytologist</i>, in press. </p></li>
 
-<li><p> Cernusak, L. and <b>De Kauwe M. G.</b> (2021) Red light shines a path forward on leaf minimum conductance. <i>New Phytologist</i>, DOI: 10.1111/nph.17794
+<li><p> Cernusak, L. and <b>De Kauwe M. G.</b> (2021) Red light shines a path forward on leaf minimum conductance. <i>New Phytologist</i>, DOI: 10.1111/nph.17794</p></li>
 
 <li><p> McDowell, N., Sapes, G., Pivovaroff, A., Adams, H., Allen, C. D., Anderegg, W. R. L., Arend, M., Breshears, D. D., Brodribb, T., Choat, B., Cochard, H., De Cáceres, M., <b>De Kauwe M. G.</b>, Grossiord, C., Hammond, W. M., Hartmann, H., Hoch, G., Kahmen, A., Klein, T., Mackay, D. S., Mantova, M., Martínez-Vilalta, J., Medlyn, B. E., Mencuccini, M., Nardini, A., Oliveira, R. S., Sala, A., Tissue, D. T., Torres-Ruiz, J. M., Trowbridge, A., Trugman, A. T., Wiley, E., and Xu, C. (2021) Mechanisms of woody plant mortality under rising drought, CO<sub>2</sub>, and vapor pressure deficit. <i>Nature Reviews Earth & Environment</i>, in press. </p></li>
 
