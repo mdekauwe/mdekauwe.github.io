@@ -13,7 +13,6 @@ subtitle:
 
 <li><p> <sup>&#x02021;</sup><u>Rifai, S.</u>, <b>De Kauwe M. G.</b>, Gallagher, R., Cernusak, L., Meir, P., and Pitman, A. J. (2021) Bushfire recovery trajectories are structured by burn severity and the cessation of drought: predicting time-to-recover from recent Australian mega-fires. <i>In review</i>. </p></li>
 
-<li><p>Kala, J., Hirsch, A. L., Ziehn, T., <b>De Kauwe M. G.</b>, Pitman, A. and Perkins-Kirkpatrick, S. E. (2021) Assessing the potential for crop albedo enhancement in reducing heatwave frequency, duration, and intensity under future climate change. <i>In review</i>. </p></li>
 
 <li><p> <sup>&#8224;</sup><u>Page, J. C.</u>, <b>De Kauwe M. G.</b>, Abramowitz, G., Cleverly, J., Hinko-Najera, N., Hovenden, M. J., Liu, Y., Pitman, A. J., and Ogle, K. (2021) Examining the Role of Environmental Memory in Carbon and Water Fluxes across Australian Ecosystems. <i>In review</i>. </p></li>
 
@@ -32,6 +31,8 @@ subtitle:
 ### In print
 
 <ol reversed>
+
+<li><p>Kala, J., Hirsch, A. L., Ziehn, T., <b>De Kauwe M. G.</b>, Pitman, A. and Perkins-Kirkpatrick, S. E. (2021) Assessing the potential for crop albedo enhancement in reducing heatwave frequency, duration, and intensity under future climate change. <i>Weather and Climate Extremes</i>, in press. </p></li>
 
 <li><p> <sup>&#8224;</sup><u>Sabot, M.</u>, <b>De Kauwe M. G.</b>, Pitman, A., Medlyn, B., Ellsworth, D., Martin, N., Limousin, J-M., Wu, J. Choat, B., Mitchell, P., Rogers, A. and Serbin, S. (2022) One stomatal model to rule them all? Towards improved representation of carbon and water exchange in global models. <i>Journal of Advances in Modeling Earth Systems</i>, in press. </p></li>
 
