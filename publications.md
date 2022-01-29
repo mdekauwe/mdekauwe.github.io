@@ -9,7 +9,7 @@ subtitle:
 
 <ol reversed start="96">
 
-<li><p> <sup>&#8224;</sup><u>Mu, M.</u>, Pitman, A. J., <b>De Kauwe, M. G.</b>, Ukkola, A. M. and Weidong, G. (2022) How do groundwater dynamics influence heatwaves in southeast Australia? <i>In review</i>. </p></li>
+<li><p> <sup>&#8224;</sup><u>Mu, M.</u>, Pitman, A. J., <b>De Kauwe, M. G.</b>, Ukkola, A. M. and Ge, J. (2022) How do groundwater dynamics influence heatwaves in southeast Australia? <i>In review</i>. </p></li>
 
 <li><p><b>De Kauwe M. G.</b>, Sabot, M., Medlyn, B. E., Pitman, A. J., Meir, P., Cernusak, L., Gallagher, R., Ukkola, A., Rifai, S. and Choat, B. (2022) Towards species-level forecasts of drought-induced tree mortality risk. <i>In review</i>. </p></li>
 
