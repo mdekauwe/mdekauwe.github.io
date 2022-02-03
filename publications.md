@@ -32,7 +32,7 @@ subtitle:
 
 <ol reversed>
 
-<li><p> Hobeichi, S., Abramowitz, G., Ukkola. A. M., <b>De Kauwe M. G.</b>, Pitman, A., Evans, J. P. and Beck, H. (2022) Reconciling historical changes in the hydrological cycle over land. <i>npj Clim Atmos Sci</i, in press. </p></li>
+<li><p> Hobeichi, S., Abramowitz, G., Ukkola. A. M., <b>De Kauwe M. G.</b>, Pitman, A., Evans, J. P. and Beck, H. (2022) Reconciling historical changes in the hydrological cycle over land. <i>npj Clim Atmos Sci</i>, in press. </p></li>
 
 <li><p>Kala, J., Hirsch, A. L., Ziehn, T., <b>De Kauwe M. G.</b>, Pitman, A. and Perkins-Kirkpatrick, S. E. (2022) Assessing the potential for crop albedo enhancement in reducing heatwave frequency, duration, and intensity under future climate change. <i>Weather and Climate Extremes</i>, in press. </p></li>
 
