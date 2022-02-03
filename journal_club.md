@@ -4,7 +4,10 @@ title: ""
 subtitle:
 ---
 
-Journal club will be taking a "little" holiday...
+<a href="https://www.selvalab.org/people-list/tommaso-jucker" style="color:#16a085">Tommaso Jucker</a> and I will be running a joint Vegetation Ecology & Global Change journal club (starting in February 2022).
+
+If I ever work out how to use outlook, I will link to the papers we are reading!
+
 
 <!-- What we're reading ... -->
 
