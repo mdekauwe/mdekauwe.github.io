@@ -7,7 +7,9 @@ subtitle:
 
 ### In review
 
-<ol reversed start="95">
+<ol reversed start="96">
+
+<li><p> <sup>&#8224;</sup><u>Mu, M.</u>, Pitman, A. J., <b>De Kauwe, M. G.</b>, Ukkola, A. M. and Ge, J. (2022) How do groundwater dynamics influence heatwaves in southeast Australia? <i>In review</i>. </p></li>
 
 <li><p><b>De Kauwe M. G.</b>, Sabot, M., Medlyn, B. E., Pitman, A. J., Meir, P., Cernusak, L., Gallagher, R., Ukkola, A., Rifai, S. and Choat, B. (2022) Towards species-level forecasts of drought-induced tree mortality risk. <i>In review</i>. </p></li>
 
@@ -19,6 +21,8 @@ subtitle:
 <li><p>Beringer, J., Moore, C. E., Cleverly, J., Campbell, D. I., Cleugh, H., <b>De Kauwe M. G.</b>, Kirschbaum, M. U. F, Griebel, A., Grover, S., Huete, A., Hutley, L. B., Laubach, J., van Niel, T., Arndt, S. K., Bennett, A. C., Cernusak, L. A., Eamus, D., Ewenz, C. M., Goodrich, J. P., Jiang, M., Hinko-Najera, N., Isaac, P., Hobeichi, S., Knauer, J., Koerber, G. R., Liddell, M., Ma, X., McHugh, I. D., Medlyn, B. E., Meyer, W. S., Norton, A. J., Owens, J., Pitman, A., Pendall, E., Ray, R. L., Restrepo‐Coupe, N., Rowlings, D., Schipper, L., Silberstein, R. P., Teckentrup, L., Thompson, S. E., Ukkola, A. M., Wall, A., Wang, Y.-P. Wardlaw, T. J. and Woodgate, W. (2022) Bridge to the Future: Important lessons from 20 years of ecosystem observations made by the OzFlux network. <i>In review</i>. </p></li>
 
 
+<li><p> Hobeichi, S., Abramowitz, G., Ukkola. A. M., <b>De Kauwe M. G.</b>, Pitman, A., Evans, J. P. and Beck, H. (2022) Reconciling historical changes in the hydrological cycle over land. <i>In review</i>. </p></li>
+
 <li><p> Tong, J., Williams, C., <b>De Kauwe M. G.</b> and  Medlyn, B. E. (2022) Cumulative effects doubled the drought impacts for one fifth of ecosystems exposed to recurrent droughts during Australia’s Millennium Drought. <i>In review</i>. </p></li>
 
 
@@ -29,9 +33,6 @@ subtitle:
 ### In print
 
 <ol reversed>
-
-
-<li><p> Hobeichi, S., Abramowitz, G., Ukkola. A. M., <b>De Kauwe M. G.</b>, Pitman, A., Evans, J. P. and Beck, H. (2022) Reconciling historical changes in the hydrological cycle over land. <i>npj Clim. Atmos. Sci.</i>, in press. </p></li>
 
 <li><p>Kala, J., Hirsch, A. L., Ziehn, T., <b>De Kauwe M. G.</b>, Pitman, A. and Perkins-Kirkpatrick, S. E. (2022) Assessing the potential for crop albedo enhancement in reducing heatwave frequency, duration, and intensity under future climate change. <i>Weather and Climate Extremes</i>, in press. </p></li>
 
@@ -110,7 +111,7 @@ subtitle:
 
 <li><p> Jiang, M., Zaehle, S., <b>De Kauwe, M. G.</b>, Walker, A., Caldararu, S., Ellsworth, D. and Medlyn, B. E. (2019) The quasi-equilibrium framework re-visited: analyzing long-term CO<sub>2</sub> enrichment responses in plant-soil models. <i>Geoscientific Model Development</i>, 12, 2069-2089. </p></li>
 
-<li><p> Ge, J., Guo, W., Pitman, A. J., <b>De Kauwe, M. G.</b>, Chen X. and Gu, C. (2019) The non-radiative effect dominates local land surface temperature change caused by afforestation in China. <i>Journal of Climate</i>, 32, 4445-4471. </p></li>
+<li><p> Ge, J., Guo, W., Pitman, A. J., <b>De Kauwe, M. G.</b>, Chen X. and Gu, C. (2019) The non-radiative effect dominates local land surface temperature change caused by afforestation in China. <i>Journal of Climate</i>, 32, 4445-4471. </p></li>
 
 <li><p> <sup>&#8224;</sup><u>van der Horst, S.</u>, Pitman, A. J., <b>De Kauwe, M. G.</b>, Ukkola, A., Abramowitz, G. and Isaac, P. (2019) How representative are FLUXNET measurements of surface fluxes during temperature extremes? <i>Biogeosciences</i>, 16, 1829-1844. </p></li>
 
