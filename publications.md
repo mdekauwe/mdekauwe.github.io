@@ -18,7 +18,6 @@ subtitle:
 
 <li><p> <sup>&#8224;</sup><u>Page, J. C.</u>, <b>De Kauwe M. G.</b>, Abramowitz, G., Cleverly, J., Hinko-Najera, N., Hovenden, M. J., Liu, Y., Pitman, A. J., and Ogle, K. (2022) Examining the Role of Environmental Memory in Carbon and Water Fluxes across Australian Ecosystems. <i>In review</i>. </p></li>
 
-<li><p>Beringer, J., Moore, C. E., Cleverly, J., Campbell, D. I., Cleugh, H., <b>De Kauwe M. G.</b>, Kirschbaum, M. U. F, Griebel, A., Grover, S., Huete, A., Hutley, L. B., Laubach, J., van Niel, T., Arndt, S. K., Bennett, A. C., Cernusak, L. A., Eamus, D., Ewenz, C. M., Goodrich, J. P., Jiang, M., Hinko-Najera, N., Isaac, P., Hobeichi, S., Knauer, J., Koerber, G. R., Liddell, M., Ma, X., McHugh, I. D., Medlyn, B. E., Meyer, W. S., Norton, A. J., Owens, J., Pitman, A., Pendall, E., Ray, R. L., Restrepo‐Coupe, N., Rowlings, D., Schipper, L., Silberstein, R. P., Teckentrup, L., Thompson, S. E., Ukkola, A. M., Wall, A., Wang, Y.-P. Wardlaw, T. J. and Woodgate, W. (2022) Bridge to the Future: Important lessons from 20 years of ecosystem observations made by the OzFlux network. <i>In review</i>. </p></li>
 
 
 <li><p> Tong, J., Williams, C., <b>De Kauwe M. G.</b> and  Medlyn, B. E. (2022) Cumulative effects doubled the drought impacts for one fifth of ecosystems exposed to recurrent droughts during Australia’s Millennium Drought. <i>In review</i>. </p></li>
@@ -31,6 +30,9 @@ subtitle:
 ### In print
 
 <ol reversed>
+
+<li><p>Beringer, J., Moore, C. E., Cleverly, J., Campbell, D. I., Cleugh, H., <b>De Kauwe M. G.</b>, Kirschbaum, M. U. F, Griebel, A., Grover, S., Huete, A., Hutley, L. B., Laubach, J., van Niel, T., Arndt, S. K., Bennett, A. C., Cernusak, L. A., Eamus, D., Ewenz, C. M., Goodrich, J. P., Jiang, M., Hinko-Najera, N., Isaac, P., Hobeichi, S., Knauer, J., Koerber, G. R., Liddell, M., Ma, X., McHugh, I. D., Medlyn, B. E., Meyer, W. S., Norton, A. J., Owens, J., Pitman, A., Pendall, E., Ray, R. L., Restrepo‐Coupe, N., Rowlings, D., Schipper, L., Silberstein, R. P., Teckentrup, L., Thompson, S. E., Ukkola, A. M., Wall, A., Wang, Y.-P. Wardlaw, T. J. and Woodgate, W. (2022) Bridge to the Future: Important lessons from 20 years of ecosystem observations made by the OzFlux network. <i>Global Change Biology</i>, in press. </p></li>
+
 
 <li><p> Hobeichi, S., Abramowitz, G., Ukkola. A. M., <b>De Kauwe M. G.</b>, Pitman, A., Evans, J. P. and Beck, H. (2022) Reconciling historical changes in the hydrological cycle over land. <i>npj Clim Atmos Sci</i>, in press. </p></li>
 
