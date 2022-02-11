@@ -15,13 +15,9 @@ subtitle:
 
 <li><p> <sup>&#x02021;</sup><u>Rifai, S.</u>, <b>De Kauwe M. G.</b>, Gallagher, R., Cernusak, L., Meir, P., and Pitman, A. J. (2022) Bushfire recovery trajectories are structured by burn severity and the cessation of drought: predicting time-to-recover from recent Australian mega-fires. <i>In review</i>. </p></li>
 
-
 <li><p> <sup>&#8224;</sup><u>Page, J. C.</u>, <b>De Kauwe M. G.</b>, Abramowitz, G., Cleverly, J., Hinko-Najera, N., Hovenden, M. J., Liu, Y., Pitman, A. J., and Ogle, K. (2022) Examining the Role of Environmental Memory in Carbon and Water Fluxes across Australian Ecosystems. <i>In review</i>. </p></li>
 
-
-
 <li><p> Tong, J., Williams, C., <b>De Kauwe M. G.</b> and  Medlyn, B. E. (2022) Cumulative effects doubled the drought impacts for one fifth of ecosystems exposed to recurrent droughts during Australia’s Millennium Drought. <i>In review</i>. </p></li>
-
 
 <li><p> Ellsworth, D. S., Crous, K., Wright, I., <b>De Kauwe, M. G.</b>, Verryckt, L., Goll, D. S., Zaehle, S., Bloomfield, K., Ciais, P., Cernusak, L., Domingues, T., Dusenge, M., Garcia, S., Guerrieri, R., Hui, G., Ishida, F., Janssens, I., Medlyn, B., Meir, P., Sun, Y., Norby, R., Reich, P., Rowland, L., Santiago, L., Kenzo, T., Ichie, T., Uddling, J., Walker, A., Weerasinghe, L., van de Weg, M. and Zhang, J.-L. (2022) Convergence in phosphorus constraints to photosynthesis in forests around the world. <i>In review</i>. </p></li>
 
@@ -33,8 +29,7 @@ subtitle:
 
 <li><p>Beringer, J., Moore, C. E., Cleverly, J., Campbell, D. I., Cleugh, H., <b>De Kauwe M. G.</b>, Kirschbaum, M. U. F, Griebel, A., Grover, S., Huete, A., Hutley, L. B., Laubach, J., van Niel, T., Arndt, S. K., Bennett, A. C., Cernusak, L. A., Eamus, D., Ewenz, C. M., Goodrich, J. P., Jiang, M., Hinko-Najera, N., Isaac, P., Hobeichi, S., Knauer, J., Koerber, G. R., Liddell, M., Ma, X., McHugh, I. D., Medlyn, B. E., Meyer, W. S., Norton, A. J., Owens, J., Pitman, A., Pendall, E., Ray, R. L., Restrepo‐Coupe, N., Rowlings, D., Schipper, L., Silberstein, R. P., Teckentrup, L., Thompson, S. E., Ukkola, A. M., Wall, A., Wang, Y.-P. Wardlaw, T. J. and Woodgate, W. (2022) Bridge to the Future: Important lessons from 20 years of ecosystem observations made by the OzFlux network. <i>Global Change Biology</i>, in press. </p></li>
 
-
-<li><p> Hobeichi, S., Abramowitz, G., Ukkola. A. M., <b>De Kauwe M. G.</b>, Pitman, A., Evans, J. P. and Beck, H. (2022) Reconciling historical changes in the hydrological cycle over land. <i>npj Clim Atmos Sci</i>, in press. </p></li>
+<li><p> Hobeichi, S., Abramowitz, G., Ukkola. A. M., <b>De Kauwe M. G.</b>, Pitman, A., Evans, J. P. and Beck, H. (2022) Reconciling historical changes in the hydrological cycle over land. <i>npj Climate and Atmospheric Science/i>, in press. </p></li>
 
 <li><p>Kala, J., Hirsch, A. L., Ziehn, T., <b>De Kauwe M. G.</b>, Pitman, A. and Perkins-Kirkpatrick, S. E. (2022) Assessing the potential for crop albedo enhancement in reducing heatwave frequency, duration, and intensity under future climate change. <i>Weather and Climate Extremes</i>, in press. </p></li>
 
