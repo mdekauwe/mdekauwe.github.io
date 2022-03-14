@@ -22,7 +22,8 @@ Candidate requirements:
 
 A strong background in biology, mathematics, physics, atmospheric science, engineering or a similar quantitative science are encouraged to apply. Programming experience with Python, R, C/C++ or Fortran 90 is highly desirable, but not essential. A strong drive to understand the dynamics of plant ecosystems is essential.
 
-Interested students should contact me directly to discuss the project. Student applications are encouraged from under-represented groups. <b>The deadline for applications is the April 28th 2022. </b>
+Interested students should contact me directly to discuss the project. Student applications are encouraged from under-represented groups. <b>The deadline for applications is the April 28th 2022. </b> Further application details can be found at: <a href="https://bristol.ac.uk/life-sciences/study/postgraduate/intphdstudentships/" style="color:#16a085">click me</a>.
+
 
 <!--
 - <a href="https://www.findaphd.com/phds/project/ecophysiology-of-inga-a-key-revolutionary-genus-in-tropical-forest-restoration-nerc-gw4-dtp-phd-studentship-for-2022-entry-phd-in-geography/?p135264" style="color:#16a085">Ecophysiology of Inga: a key revolutionary genus in tropical forest restoration</a>. PhD supervised at Exeter University by Lina Mercado.
