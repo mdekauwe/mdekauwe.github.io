@@ -15,8 +15,6 @@ subtitle:
 
 <li><p> <sup>&#8224;</sup><u>Mu, M.</u>, Pitman, A. J., <b>De Kauwe, M. G.</b>, Ukkola, A. M. and Ge, J. (2022) How do groundwater dynamics influence heatwaves in southeast Australia? <i>In review</i>. </p></li>
 
-<li><p><b>De Kauwe M. G.</b>, Sabot, M., Medlyn, B. E., Pitman, A. J., Meir, P., Cernusak, L., Gallagher, R., Ukkola, A., Rifai, S. and Choat, B. (2022) Towards species-level forecasts of drought-induced tree mortality risk. <i>In review</i>. </p></li>
-
 <li><p> <sup>&#x02021;</sup><u>Rifai, S.</u>, <b>De Kauwe M. G.</b>, Gallagher, R., Cernusak, L., Meir, P., and Pitman, A. J. (2022) Bushfire recovery trajectories are structured by burn severity and the cessation of drought: predicting time-to-recover from recent Australian mega-fires. <i>In review</i>. </p></li>
 
 <li><p> Tong, J., Williams, C., <b>De Kauwe M. G.</b> and  Medlyn, B. E. (2022) Cumulative effects doubled the drought impacts for one fifth of ecosystems exposed to recurrent droughts during Australia’s Millennium Drought. <i>In review</i>. </p></li>
@@ -28,6 +26,9 @@ subtitle:
 ### In print
 
 <ol reversed>
+
+
+<li><p><b>De Kauwe M. G.</b>, Sabot, M., Medlyn, B. E., Pitman, A. J., Meir, P., Cernusak, L., Gallagher, R., Ukkola, A., Rifai, S. and Choat, B. (2022) Towards species-level forecasts of drought-induced tree mortality risk. <i>New Phytologist</i>, accepted. </p></li>
 
 <li><p> Krich, C., Mahecha, M. D., Migliavacca, M., <b>De Kauwe, M. G.</b>, Runge, J. and Miralles, D. G. (2022) Decoupling between ecosystem photosynthesis and transpiration: A last resort against overheating. <i>Environment Research Letters</i>, in press. </p></li>
 
