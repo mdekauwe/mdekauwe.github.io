@@ -55,6 +55,8 @@ There are a number of fellowships available (this list is not exhaustive) and I 
 
 - <a href="https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/" style="color:#16a085">EMBO Postdoctoral Fellowships.</a>
 
+- <a href="https://lsrf.org/apply/" style="color:#16a085">Life Sciences Research Foundation postdoctoral scheme.</a>
+
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
