@@ -47,15 +47,12 @@ Interested students should contact me directly to discuss the project. Student a
 
 There are a number of fellowships available (this list is not exhaustive) and I would be extremely happy to act as mentor and support applicants interested in coming to Bristol, please get in touch!
 
-- <a href="https://www.bristol.ac.uk/vc-fellows/" style="color:#16a085">Bristol Vice-Chancellor's Fellowships</a> scheme is open to for early-career researchers in priorities areas.
-
-- <a href="https://royalsociety.org/grants-schemes-awards/grants/university-research/" style="color:#16a085">Royal Society Fellowship</a> scheme is open to applicants 3-8 years post PhD.
-
 - <a href="https://royalsociety.org/grants-schemes-awards/grants/newton-international/" style="color:#16a085">Newton International Fellowships</a> scheme is open to non-UK early career scientists.
 
-- <a href="https://www.ukri.org/what-we-offer/developing-people-and-skills/future-leaders-fellowships/" style="color:#16a085">UKRI Future Leaders Fellowship</a> scheme are open to early career researchers.
-
 - <a href="https://www.bristol.ac.uk/vc-fellows/" style="color:#16a085">EU Marie Skłodowska-Curie Fellowship</a> scheme is open to EU citizens that would like to work in the UK.
+
+- <a href="https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships" style="color:#16a085">Human Frontier Science Program.
+
 
 
 
