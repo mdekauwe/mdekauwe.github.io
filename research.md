@@ -26,7 +26,7 @@ We tackle a diverse range of questions that connect terrestrial ecosystems with 
 <p><i> "The method of science depends on our attempts to describe the world with simple theories: theories that are complex may become untestable, even if they happen to be true. Science may be described as the art of systematic over-simplification-the art of discerning what we may with advantage omit" </i> - Karl Popper </p>
 
 <div class="floated_img">
-<img src="assets/img/new_words.png" alt="Some image" >
+<img src="assets/img/wordcloud.svg" alt="Some image" >
 </div>
 
 
