@@ -9,6 +9,10 @@ I would also be very keen to welcome visitors so please get in contact!
 
 The city of Bristol is a great place to <a href="https://visitbristol.co.uk/inspire/all-about-bristol" style="color:#16a085">work and live.</a>
 
+<div class="floated_img">
+<center><img src="assets/img/UK.gif" style="width: 30%; height: 30%" alt="Aus NDVI" ></center>
+</div>
+
 ### Current opportunities
 
 - <a href="http://www.bristol.ac.uk/biology/courses/postgraduate/phdstudentships/" style="color:#16a085">PhD: Plants on the edge: examining the resilience of the vegetation to climate extremes</a>
