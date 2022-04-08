@@ -5,7 +5,9 @@ subtitle:
 ---
 Potential students that have an interest in exploring research questions related to the response of the carbon and water cycles to global change are  encouraged to get in contact. Students should have a background in biology, mathematics, physics, atmospheric science, engineering or a similar quantitative sciences.
 
-I would be very keen to welcome visitors so please get in contact!
+I would also be very keen to welcome visitors so please get in contact!
+
+The city of Bristol is a great place to <a href="https://visitbristol.co.uk/inspire/all-about-bristol" style="color:#16a085">work and live.</a>
 
 ### Current opportunities
 
