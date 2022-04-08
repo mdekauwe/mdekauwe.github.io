@@ -12,8 +12,9 @@ We tackle a diverse range of questions that connect terrestrial ecosystems with 
 - can we predict when and where trees might die of drought-induced mortality?
 - how do we improve our predictions of vegetation function as water and temperature become limiting?
 - what role does legacy to past environmental conditions (days-years) play in our capacity to predict current plant function?
-- how resilient are species distributions to future climate change?
+- how resilient are species distributions to climate change and how will distributions shift in the future?
 - how does plant physiology affect land-atmosphere feedbacks during climate extremes?
+- what impact will plants have on the future hydrological cycle?
 
 <div class="floated_img">
 <center><img src="assets/img/aus_ndvi.gif" alt="Aus NDVI" ></center>
