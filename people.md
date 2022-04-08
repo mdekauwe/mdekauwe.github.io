@@ -4,7 +4,7 @@ title:
 subtitle:
 ---
 
-<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/me.jpg"/>
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/me.png"/>
 
 Martin De Kauwe is an Associate Professor of Global Change Ecology at the <a href="http://www.bristol.ac.uk/biology/" style="color:#16a085;">University of Bristol</a>. Martin's research group will continue to be split between Bristol and Sydney for the next few years.
 
@@ -33,6 +33,15 @@ Martin De Kauwe is an Associate Professor of Global Change Ecology at the <a hre
 
 
 
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/manon.jpeg"/>
+
+Manon Sabot is a Postdoctoral Researcher at the University of Bristol and the University of New South Wales.
+
+Manon is working on the Australian Research Council grant exploring how vulnerable eucalypts are to future droughts.
+
+<a href="mailto:m.sabot@unsw.edu.au" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
+<a href="https://scholar.google.com.au/citations?hl=en&user=Pce-a8UAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
+
 <p>&nbsp;</p>
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/grace.png"/>
@@ -46,31 +55,16 @@ Grace is exploring the drivers of the rapid hydraulic collapse of conifer trees 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/ellie.jpg"/>
 
-Ellie Nichols is an MSc student at the University of Bristol.
+Ellie Nichols is an MSci student at the University of Bristol.
 
 Ellie is examining the links between traits that describe plant water relations and climate.
 
 <a href="mailto:pu18241@bristol.ac.uk" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
 
 
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/sami.jpg"/>
-
-Sami Rifai is a Postdoctoral Researcher at the University of New South Wales.
-
-Sami is working on the ARC grant exploring how vulnerable eucalypts are to future droughts.
-
-<a href="mailto:srifai@gmail.com" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
-<a href="https://scholar.google.com.au/citations?hl=en&user=2GmEDKAAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -86,7 +80,6 @@ Thesis: <span style="color:#16a085">*Lags and legacies: understanding the role o
 <a href="https://scholar.google.com.au/citations?hl=en&user=yEtrmdMAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/melika.png"/>
 
@@ -97,7 +90,6 @@ Thesis: <span style="color:#16a085">*Will rising CO2 concentrations save plants 
 <a href="mailto:jmelika.missen@utas.edu.au" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
 
 
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -111,7 +103,6 @@ Thesis: <span style="color:#16a085">*The response of terrestrial ecosystems to d
 <a href="https://scholar.google.com.au/citations?hl=en&user=MzjKIsoAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/mengyuan.jpeg"/>
 
@@ -123,46 +114,20 @@ Thesis: <span style="color:#16a085">*How important is groundwater to the resilie
 <a href="https://scholar.google.com.au/citations?hl=en&user=e5bnO9gAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
-<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/manon.jpeg"/>
 
-Manon Sabot is a PhD student at the University of New South Wales.
-
-Thesis: <span style="color:#16a085">*Trading water for carbon: exploring optimality theory to improve model predictions of vegetation function during drought* </span>
-
-<a href="mailto:m.sabot@unsw.edu.au" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
-<a href="https://scholar.google.com.au/citations?hl=en&user=Pce-a8UAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 ## Alumni
 
-<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/jim.jpeg"/>
+- Sami Rifai, Postdoctoral Researcher. Sami is off to exciting new pastures soon, currently Sami is working at the University of New South Wales. <a href="https://scholar.google.com.au/citations?hl=en&user=2GmEDKAAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
-Jinyan (Jim) Yang was a PhD student at Western Sydney University.
+- Manon Sabot, PhD student, Thesis: <span style="color:#16a085">*Trading water for carbon: exploring optimality theory to improve model predictions of vegetation function during drought* </span>. Manon is now working as a Postdoc at the University of Bristol. <a href="https://scholar.google.com.au/citations?hl=en&user=Pce-a8UAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
-Thesis: <span style="color:#16a085">*Modelling the carbon uptake of Australian evergreen ecosystems under rising [CO2] and water limitations* </span>
+- Jinyan (Jim) Yang, PhD student, Thesis: <span style="color:#16a085">*Modelling the carbon uptake of Australian evergreen ecosystems under rising [CO<sub>2</sub>] and water limitations* </span>. Jim is now working as a Postdoc at Western Sydney University. <a href="https://scholar.google.com.au/citations?hl=en&user=6f7VyFoAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
-Jim is now working as a Postdoc at Western Sydney University
+- Ned Haughton, PhD student, Thesis: <span style="color:#16a085">*On the predictability of land surface fluxes* </span>. Ned is now working as a risk analyst at Climate Risk. <a href="https://scholar.google.com.au/citations?hl=en&user=iMq-xHEAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
-<a href="mailto:Jinyan.Yang@westernsydney.edu.au" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
-<a href="https://scholar.google.com.au/citations?hl=en&user=6f7VyFoAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/ned.png"/>
-
-Ned Haughton was a PhD student at the University of New South Wales.
-
-Thesis: <span style="color:#16a085">*On the predictability of land surface fluxes* </span>
-
-Ned is now working as a risk analyst at Climate Risk
-
-<a href="https://scholar.google.com.au/citations?hl=en&user=iMq-xHEAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
