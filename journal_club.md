@@ -7,13 +7,13 @@ subtitle:
 
 ### What we're reading
 
-2022
+#### 2022:
 
 - Smith et al. (2020) Empirical evidence for resilience of tropical forest photosynthesis in a warmer world. <a href="https://www.nature.com/articles/s41477-020-00780-2/" style="color:#16a085">Nature Plants.</a>
 
 - Johnston et al. (2021) Temperature thresholds of ecosystem respiration at a global scale. <a href="https://www.nature.com/articles/s41559-021-01398-z" style="color:#16a085">Nature Ecology & Evolution.</a>
 
-- Anthony et al. (2022) Forest tree growth is linked to mycorrhizal fungal composition and function across Europe. <a href="https://www.nature.com/articles/s41396-021-01159-7" style="color:#16a085">The ISME Journal.</a> 
+- Anthony et al. (2022) Forest tree growth is linked to mycorrhizal fungal composition and function across Europe. <a href="https://www.nature.com/articles/s41396-021-01159-7" style="color:#16a085">The ISME Journal.</a>
 
 
 <p>&nbsp;</p>
