@@ -17,7 +17,8 @@ We tackle a diverse range of questions that connect terrestrial ecosystems with 
 - what impact will plants have on the future hydrological cycle?
 
 <div class="floated_img">
-<center><img src="assets/img/aus_ndvi.gif" alt="Aus NDVI" ></center>
+<!-- <center><img src="assets/img/aus_ndvi.gif" alt="Aus NDVI" ></center> -->
+<center><img src="assets/img/cable_gpp_animation.gif" alt="CABLE GPP" ></center>
 </div>
 
 
