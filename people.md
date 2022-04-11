@@ -35,7 +35,7 @@ Martin De Kauwe is an Associate Professor of Global Change Ecology at the <a hre
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/manon.jpeg"/>
 
-Manon Sabot is a Postdoctoral Researcher at the University of Bristol and the University of New South Wales.
+Manon Sabot is a Postdoctoral Researcher at the University of New South Wales.
 
 Manon is working on the Australian Research Council grant exploring how vulnerable eucalypts are to future droughts.
 
