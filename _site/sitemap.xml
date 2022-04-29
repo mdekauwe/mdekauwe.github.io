@@ -6,9 +6,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/grants.html</loc>
+      <loc>https://mdekauwe.github.io//grants.html</loc>
       
-        <lastmod>2022-04-11T13:07:23+01:00</lastmod>
+        <lastmod>2022-04-29T18:07:50+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -21,9 +21,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/</loc>
+      <loc>https://mdekauwe.github.io//</loc>
       
-        <lastmod>2022-04-11T13:07:23+01:00</lastmod>
+        <lastmod>2022-04-29T18:07:50+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -36,24 +36,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/join_us.html</loc>
+      <loc>https://mdekauwe.github.io//join_us.html</loc>
       
-        <lastmod>2022-04-11T13:07:23+01:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/journal_club.html</loc>
-      
-        <lastmod>2022-04-11T13:07:23+01:00</lastmod>
+        <lastmod>2022-04-29T18:07:50+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -66,24 +51,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/people.html</loc>
+      <loc>https://mdekauwe.github.io//journal_club.html</loc>
       
-        <lastmod>2022-04-11T13:07:23+01:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/publications.html</loc>
-      
-        <lastmod>2022-04-11T13:07:23+01:00</lastmod>
+        <lastmod>2022-04-29T18:07:50+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -96,9 +66,39 @@
   
     
     <url>
-      <loc>http://localhost:4000/research.html</loc>
+      <loc>https://mdekauwe.github.io//people.html</loc>
       
-        <lastmod>2022-04-11T13:07:23+01:00</lastmod>
+        <lastmod>2022-04-29T18:07:50+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://mdekauwe.github.io//publications.html</loc>
+      
+        <lastmod>2022-04-29T18:07:50+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://mdekauwe.github.io//research.html</loc>
+      
+        <lastmod>2022-04-29T18:07:50+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -115,9 +115,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/teaching.html</loc>
+      <loc>https://mdekauwe.github.io//teaching.html</loc>
       
-        <lastmod>2022-04-11T13:07:23+01:00</lastmod>
+        <lastmod>2022-04-29T18:07:50+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
