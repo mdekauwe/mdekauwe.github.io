@@ -16,10 +16,9 @@ subtitle:
 - Anthony et al. (2022) Forest tree growth is linked to mycorrhizal fungal composition and function across Europe. <a href="https://www.nature.com/articles/s41396-021-01159-7" style="color:#16a085">The ISME Journal.</a>
 
 - Poorter et al. (2021) Multidimensional tropical forest recovery. <a href="https://www.science.org/doi/full/10.1126/science.abh3629" style="color:#16a085">Science.</a>
-<p>&nbsp;</p>
 
 - Qiu et al. (2022) A strong mitigation scenario maintains climate neutrality of northern peatlands. <a href="https://www.sciencedirect.com/science/article/pii/S2590332221007260" style="color:#16a085">One Earth.</a>
-<p>&nbsp;</p>
+
 
 <!-- <iframe src="https://calendar.google.com/calendar/embed?title=CCRC%20Land%20Journal%20Club&amp;showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showTz=0&amp;mode=AGENDA&amp;height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=eac5pv3635knld7i97j32emq1c%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=Australia%2FSydney" style="border-width:0" width="700" height="300" frameborder="0" scrolling="no"></iframe> -->
 
