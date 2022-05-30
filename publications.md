@@ -7,7 +7,9 @@ subtitle:
 
 ### In review
 
-<ol reversed start="99">
+<ol reversed start="100">
+
+<li><p> Zhang, Y., Narayanappa, D., Ciais, P., Li, W., Goll, D., Vuichard, N., <b>De Kauwe M. G.</b>, Li, L. and Maignan, F. (2022) Evaluating the vegetation-atmosphere coupling strength of ORCHIDEE land surface model (v7266). <i>In review</i>. </p></li>
 
 <li><p> <sup>&#8224;</sup><u>Sabot, M.</u>, <b>De Kauwe M. G.</b>, Pitman, A., Ellsworth, D., Medlyn, B., Caldararu, S, Zaehle, S., Crous, K., Gimeno, T., Wujeska-Klause, A., Mu, M. and Yang, J. (2022) Predicting resilience through the lens of competing adjustments to vegetation function. <i>In review</i>. </p></li>
 
