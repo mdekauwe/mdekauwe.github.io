@@ -7,7 +7,7 @@ subtitle:
 
 ### In review
 
-<ol reversed start="100">
+<ol reversed start="99">
 
 <li><p> Zhang, Y., Narayanappa, D., Ciais, P., Li, W., Goll, D., Vuichard, N., <b>De Kauwe M. G.</b>, Li, L. and Maignan, F. (2022) Evaluating the vegetation-atmosphere coupling strength of ORCHIDEE land surface model (v7266). <i>In review</i>. </p></li>
 
@@ -51,8 +51,6 @@ subtitle:
 <li><p> Cernusak, L. and <b>De Kauwe M. G.</b> (2022) Red light shines a path forward on leaf minimum conductance. <i>New Phytologist</i>, 233, 5-7</p></li>
 
 <li><p> McDowell, N., Sapes, G., Pivovaroff, A., Adams, H., Allen, C. D., Anderegg, W. R. L., Arend, M., Breshears, D. D., Brodribb, T., Choat, B., Cochard, H., De Cáceres, M., <b>De Kauwe M. G.</b>, Grossiord, C., Hammond, W. M., Hartmann, H., Hoch, G., Kahmen, A., Klein, T., Mackay, D. S., Mantova, M., Martínez-Vilalta, J., Medlyn, B. E., Mencuccini, M., Nardini, A., Oliveira, R. S., Sala, A., Tissue, D. T., Torres-Ruiz, J. M., Trowbridge, A., Trugman, A. T., Wiley, E., and Xu, C. (2022) Mechanisms of woody plant mortality under rising drought, CO<sub>2</sub>, and vapor pressure deficit. <i>Nature Reviews Earth & Environment</i>, in press. </p></li>
-
-<li><p> Keenan, T., Luo, X., <b>De Kauwe, M. G.</b>, Medlyn, B. E., Prentice, I. C., Stocker, B., Smith, N., Terrer, C., Wang, H., Zhang, Y. and Zhou, S. (2021) A constraint on historic increases in global photosynthesis due to rising CO<sub>2</sub>. <i>Nature</i>, 600, 253-258. </p></li>
 
 <li><p> Ukkola. A. M., Abramowitz, G. and <b>De Kauwe M. G.</b> (2021) A flux tower dataset tailored for land model evaluation. <i>Earth System Science Data
 </i>, 14, 449-461. </p></li>
