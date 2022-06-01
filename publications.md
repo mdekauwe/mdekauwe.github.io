@@ -11,8 +11,6 @@ subtitle:
 
 <li><p> Zhang, Y., Narayanappa, D., Ciais, P., Li, W., Goll, D., Vuichard, N., <b>De Kauwe M. G.</b>, Li, L. and Maignan, F. (2022) Evaluating the vegetation-atmosphere coupling strength of ORCHIDEE land surface model (v7266). <i>In review</i>. </p></li>
 
-<li><p> <sup>&#8224;</sup><u>Sabot, M.</u>, <b>De Kauwe M. G.</b>, Pitman, A., Ellsworth, D., Medlyn, B., Caldararu, S, Zaehle, S., Crous, K., Gimeno, T., Wujeska-Klause, A., Mu, M. and Yang, J. (2022) Predicting resilience through the lens of competing adjustments to vegetation function. <i>In review</i>. </p></li>
-
 <li><p> Yang, J., Medlyn, B. E., Barton, C., Churchill, A., <b>De Kauwe M. G.</b>, Jiang, M., Krishnananthaselvan, A., Tissue, D. Pendall, E. and  Power, S. (2022) Green-up and brown-down: Modelling grassland foliage phenology responses to soil moisture availability. <i>In review</i>. </p></li>
 
 <li><p> <sup>&#8224;</sup><u>Mu, M.</u>, Pitman, A. J., <b>De Kauwe, M. G.</b>, Ukkola, A. M. and Ge, J. (2022) How do groundwater dynamics influence heatwaves in southeast Australia? <i>In review</i>. </p></li>
@@ -29,6 +27,7 @@ subtitle:
 
 <ol reversed>
 
+<li><p> <sup>&#8224;</sup><u>Sabot, M.</u>, <b>De Kauwe M. G.</b>, Pitman, A., Ellsworth, D., Medlyn, B., Caldararu, S, Zaehle, S., Crous, K., Gimeno, T., Wujeska-Klause, A., Mu, M. and Yang, J. (2022) Predicting resilience through the lens of competing adjustments to vegetation function. <i>Plant, Cell & Environment</i>, accepted. </p></li>
 
 <li><p><b>De Kauwe M. G.</b>, Sabot, M., Medlyn, B. E., Pitman, A. J., Meir, P., Cernusak, L., Gallagher, R., Ukkola, A., Rifai, S. and Choat, B. (2022) Towards species-level forecasts of drought-induced tree mortality risk. <i>New Phytologist</i>, accepted. </p></li>
 
