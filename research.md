@@ -9,12 +9,14 @@ Our research focuses on understanding how plants respond to global environmental
 We tackle a diverse range of questions that connect terrestrial ecosystems with climate, including:
 
 - how will plants respond to increasing atmospheric CO<sub>2</sub> concentration?
-- can we predict when and where trees might die of drought-induced mortality?
-- how do we improve our predictions of vegetation function as water and temperature become limiting?
-- what role does legacy to past environmental conditions (days-years) play in our capacity to predict current plant function?
-- how resilient are species distributions to climate change and how will distributions shift in the future?
+- can we predict when & where trees might die of drought-induced mortality?
+- what acclimation potential do plants have to projected warming & drought?
+- what role does legacy to past environmental conditions play in our capacity to predict current  function?
+- how resilient are species distributions to climate change & how will distributions shift in the future?
+- how will novel future climate alter species competitiveness & what species should we plant in the future?
 - how does plant physiology affect land-atmosphere feedbacks during climate extremes?
 - what impact will plants have on the future hydrological cycle?
+- what role do urban trees play in mitigating climate-related warming?
 
 <div class="floated_img">
 <!-- <center><img src="assets/img/aus_ndvi.gif" alt="Aus NDVI" ></center> -->
