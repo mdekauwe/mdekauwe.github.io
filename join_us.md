@@ -37,20 +37,21 @@ Interested students should contact me directly to discuss the project. Student a
 
 ### Graduate
 
-- <a href="https://www.bristol.ac.uk/study/postgraduate/2022/doctoral/phd-great-western-four-dtp/" style="color:#16a085">NERC-funded PhD studentships</a>, primarily open to UK students.
+- <a href="https://www.bristol.ac.uk/study/postgraduate/2022/doctoral/phd-great-western-four-dtp/" style="color:#16a085">NERC-funded PhD studentships</a> primarily open to UK students with a limited number for international students.
 
-- <a href="https://www.swbio.ac.uk/" style="color:#16a085">South West Biosciences PhD studentships.</a>
+- <a href="https://www.swbio.ac.uk/" style="color:#16a085">South West Biosciences PhD studentships</a> primarily open to UK students with a limited number (~30%) for international students.
 
-- <a href="https://bristol.ac.uk/life-sciences/study/postgraduate/fundedstudentships/" style="color:#16a085">Bristol's International PhD studentships.</a> More information for international students can be found <a href="https://bristol.ac.uk/study/postgraduate/international/" style="color:#16a085">here.</a> Country specific information to help you translate Bristol's grade expectations can be found <a href="http://www.bristol.ac.uk/international/countries/" style="color:#16a085">here.</a>
+- <a href="https://bristol.ac.uk/life-sciences/study/postgraduate/fundedstudentships/" style="color:#16a085">Bristol's International PhD studentships </a> more information for international students can be found <a href="https://bristol.ac.uk/study/postgraduate/international/" style="color:#16a085">here.</a> Country specific information to help you translate Bristol's grade expectations can be found <a href="http://www.bristol.ac.uk/international/countries/" style="color:#16a085">here.</a>
 
-- <a href="http://www.bristol.ac.uk/biology/bcai/lady-emily-smyth-studentships/" style="color:#16a085">Lady Emily Smyth studentships</a>. Open to MRes students.
+- <a href="http://www.bristol.ac.uk/biology/bcai/lady-emily-smyth-studentships/" style="color:#16a085">Lady Emily Smyth studentships</a> open to MRes students.
 
-- <a href="https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/" style="color:#16a085">China Scholarship Council – University of Bristol joint-funded Scholarship</a>. Students from the People's Republic of China are eligible to apply.
+- <a href="https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/" style="color:#16a085">China Scholarship Council – University of Bristol joint-funded Scholarship</a> are for students from the People's Republic of China.
 
-- <a href="https://www.bristol.ac.uk/students/support/finances/scholarships/zutshi-smith/" style="color:#16a085">Zutshi-Smith Scholarship</a>. Students from India are eligible to apply, with preference given to applicants of Kashmiri origin.
+- <a href="https://www.fulbright.org.uk/going-to-the-uk/postgraduate-student-awards/" style="color:#16a085">US-UK Fulbright scholarships</a> are open to US citizens (NB. Dual US-UK citizens are eligible to apply).
 
-- <a href="https://www.fulbright.org.uk/going-to-the-uk/postgraduate-student-awards/" style="color:#16a085">US-UK Fulbright scholarships</a>.
+- <a href="https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-fragile-states/" style="color:#16a085">Commonwealth PhD Scholarships</a> are for candidates from least developed countries in the Commonwealth.
 
+- <a href="https://www.bristol.ac.uk/students/support/finances/scholarships/zutshi-smith/" style="color:#16a085">Zutshi-Smith Scholarship</a> are for students from India, with preference given to applicants of Kashmiri origin.
 
 ### Fellowships
 
