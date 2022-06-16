@@ -61,11 +61,11 @@ There are a number of fellowships available (this list is not exhaustive) and I 
 
 - <a href="https://www.bristol.ac.uk/vc-fellows/" style="color:#16a085">EU Marie Skłodowska-Curie Fellowship</a> scheme is open to EU citizens that would like to work in the UK.
 
-- <a href="https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships" style="color:#16a085">Human Frontier Science Program.</a>
+- <a href="https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships" style="color:#16a085">Human Frontier Science Program</a>
 
-- <a href="https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/" style="color:#16a085">EMBO Postdoctoral Fellowships.</a>
+- <a href="https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/" style="color:#16a085">EMBO Postdoctoral Fellowships</a>
 
-- <a href="https://lsrf.org/apply/" style="color:#16a085">Life Sciences Research Foundation postdoctoral scheme.</a>
+- <a href="https://lsrf.org/apply/" style="color:#16a085">Life Sciences Research Foundation postdoctoral scheme</a>
 
 
 
