@@ -35,14 +35,13 @@ Martin De Kauwe is an Associate Professor of Global Change Ecology at the <a hre
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/manon.jpeg"/>
 
-Manon Sabot is a Postdoctoral Researcher at the University of New South Wales.
+Manon Sabot is a Postdoctoral Researcher at the University of New South Wales and visiting academic at the University of Bristol.
 
 Manon is working on the Australian Research Council grant exploring how vulnerable eucalypts are to future droughts.
 
 <a href="mailto:m.sabot@unsw.edu.au" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
 <a href="https://scholar.google.com.au/citations?hl=en&user=Pce-a8UAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/grace.png"/>
@@ -52,20 +51,6 @@ Grace Isacc is an MRes student at the University of Bristol.
 Grace is exploring the drivers of the rapid hydraulic collapse of conifer trees during a record-breaking sumer drought in Switzerland, 2018.
 
 <a href="mailto:dz18471@bristol.ac.uuk" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/ellie.jpg"/>
-
-Ellie Nichols is an MSci student at the University of Bristol.
-
-Ellie is examining the links between traits that describe plant water relations and climate.
-
-<a href="mailto:pu18241@bristol.ac.uk" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
-
-
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -81,7 +66,6 @@ Thesis: <span style="color:#16a085">*Lags and legacies: understanding the role o
 <a href="https://scholar.google.com.au/citations?hl=en&user=yEtrmdMAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
 <p>&nbsp;</p>
-
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/melika.png"/>
 
 Melika Missen is a PhD student at the University of Tasmania.
@@ -115,14 +99,16 @@ Thesis: <span style="color:#16a085">*How important is groundwater to the resilie
 <a href="https://scholar.google.com.au/citations?hl=en&user=e5bnO9gAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
 <p>&nbsp;</p>
-
+<p>&nbsp;</p>
 
 
 ## Alumni
 
-- Sami Rifai, Postdoctoral Researcher. Sami is off to exciting new pastures soon, currently Sami is working at the University of New South Wales. <a href="https://scholar.google.com.au/citations?hl=en&user=2GmEDKAAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
+- Ellie Nichols, MSci student. Ellie is moving to Australia to start a PhD at the Hawkesbury Institute for the Environment.
 
-- Manon Sabot, PhD student, Thesis: <span style="color:#16a085">*Trading water for carbon in a changing climate: Can optimality theory improve the predictability of land surface models?* </span>. Manon is now working as a Postdoc at the University of New South Wales. <a href="https://scholar.google.com.au/citations?hl=en&user=Pce-a8UAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
+- Sami Rifai, Postdoctoral Researcher. Sami is off to exciting new pastures soon and is currently working at the University of New South Wales. <a href="https://scholar.google.com.au/citations?hl=en&user=2GmEDKAAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
+
+- Manon Sabot, PhD student, Thesis: <span style="color:#16a085">*Trading water for carbon in a changing climate: Can optimality theory improve the predictability of land surface models?* </span>. Manon is now working as a Postdoc at the University of NSW. <a href="https://scholar.google.com.au/citations?hl=en&user=Pce-a8UAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
 - Jinyan (Jim) Yang, PhD student, Thesis: <span style="color:#16a085">*Modelling the carbon uptake of Australian evergreen ecosystems under rising [CO<sub>2</sub>] and water limitations* </span>. Jim is now working as a Postdoc at Western Sydney University. <a href="https://scholar.google.com.au/citations?hl=en&user=6f7VyFoAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
