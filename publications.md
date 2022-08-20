@@ -7,7 +7,10 @@ subtitle:
 
 ### In review
 
-<ol reversed start="101">
+<ol reversed start="102">
+
+
+<li><p> Stephens, C. M., Band, L. E.,  Johnson, F. M., Marshall, L. A., Medlyn, B. E., <b>De Kauwe M. G.</b> and Ukkola, A. M. (2022) Changes in blue/green water partitioning under severe drought. <i>In review</i>. </p></li>
 
 <li><p> <sup>&#8224;</sup><u>Page, J. C.</u>, <b>De Kauwe M. G.</b>, Abramowitz, G. and Pitman, A. J. (2022) Non-Stationary Lags and Legacies in Ecosystem Flux Response to Antecedent Rainfall. <i>In review</i>. </p></li>
 
