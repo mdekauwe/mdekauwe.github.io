@@ -7,7 +7,7 @@ subtitle:
 
 ### In review
 
-<ol reversed start="102">
+<ol reversed start="103">
 
 
 <li><p> Stephens, C. M., Band, L. E.,  Johnson, F. M., Marshall, L. A., Medlyn, B. E., <b>De Kauwe M. G.</b> and Ukkola, A. M. (2022) Changes in blue/green water partitioning under severe drought. <i>In review</i>. </p></li>
@@ -30,6 +30,8 @@ subtitle:
 ### In print
 
 <ol reversed>
+
+<li><p> Marthews T.R., Lange H., Martínez-de la Torre A., Ellis R.J., Chadburn S.E. and <b>De Kauwe, M. G.</b> (2022). Climate and land surface models: Role of soil. In: Goss MJ & Oliver MA (eds.) Encyclopedia of Soils in the Environment (2nd ed.). DOI: 10.1016/B978-0-12-822974-3.00087-2 </p></li>
 
 <li><p> Ellsworth, D. S., Crous, K., Wright, I., <b>De Kauwe, M. G.</b>, Verryckt, L., Goll, D. S., Zaehle, S., Bloomfield, K., Ciais, P., Cernusak, L., Domingues, T., Dusenge, M., Garcia, S., Guerrieri, R., Hui, G., Ishida, F., Janssens, I., Medlyn, B., Meir, P., Sun, Y., Norby, R., Reich, P., Rowland, L., Santiago, L., Kenzo, T., Ichie, T., Uddling, J., Walker, A., Weerasinghe, L., van de Weg, M. and Zhang, J.-L. (2022) Convergence in phosphorus constraints to photosynthesis in forests around the world. <i>Nature Communications</i>, accepted. </p></li>
 
