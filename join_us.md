@@ -3,7 +3,7 @@ layout: page
 title:
 subtitle:
 ---
-We will be hiring two postdocs to work on our recently funded NERC grant in 2023 (~March), so please look out for forthcoming announcements.
+<a style="color:#f39c12">We will be hiring two postdocs to work on our recently funded NERC grant in 2023, so please look out for forthcoming announcements (~January).</a>
 
 Potential students that have an interest in exploring research questions related to the response of the carbon and water cycles to global change are  encouraged to get in contact. Students should have a background in biology, mathematics, physics, atmospheric science, engineering or a similar quantitative sciences.
 
