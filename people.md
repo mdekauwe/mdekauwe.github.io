@@ -88,8 +88,9 @@ Thesis: <span style="color:#16a085">*The response of terrestrial ecosystems to d
 
 
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
+#### Mini reunion in Bristol, 2022:
+<img style="padding: 0px 10px 50px 0px; width: 80%; height: 80%; float: left;" align="middle" src="assets/img/bristol_reunion.jpg"/>
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
