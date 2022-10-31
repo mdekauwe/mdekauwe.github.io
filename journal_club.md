@@ -23,11 +23,11 @@ subtitle:
 
 - Cabon et al. (2022) Cross-biome synthesis of source versus sink limits to tree growth. <a href="https://www.science.org/doi/10.1126/science.abm4875" style="color:#16a085">Science.</a>
 
-- Kannenberg et al. (2022) Rapid increases in shrubland and forest intrinsic water-use efficiency during an ongoing megadrought. <a href="https://www.pnas.org/doi/10.1073/pnas.2118052118" style="color:#16a085">PNAS.</a>
+- Kannenberg et al. (2021) Rapid increases in shrubland and forest intrinsic water-use efficiency during an ongoing megadrought. <a href="https://www.pnas.org/doi/10.1073/pnas.2118052118" style="color:#16a085">PNAS.</a>
 
 - Bauman et al. (2022) Tropical tree mortality has increased with rising atmospheric water stress. <a href="https://www.nature.com/articles/s41586-022-04737-7" style="color:#16a085">Nature.</a>
 
-- Zhang et al. (2022) Exacerbated drought impacts on global ecosystems due to structural overshoot. <a href="https://www.nature.com/articles/s41559-021-01551-8" style="color:#16a085">Nature Ecology and Evolution.</a>
+- Zhang et al. (2021) Exacerbated drought impacts on global ecosystems due to structural overshoot. <a href="https://www.nature.com/articles/s41559-021-01551-8" style="color:#16a085">Nature Ecology and Evolution.</a>
 
 - Bauters et al. (2022) Increasing calcium scarcity along Afrotropical forest succession. <a href="https://www.nature.com/articles/s41559-022-01810-2" style="color:#16a085">Nature Ecology and Evolution.</a>
 
