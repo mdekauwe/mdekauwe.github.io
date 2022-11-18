@@ -21,9 +21,6 @@ subtitle:
 
 <li><p> Zhang, Y., Narayanappa, D., Ciais, P., Li, W., Goll, D., Vuichard, N., <b>De Kauwe M. G.</b>, Li, L. and Maignan, F. (2022) Evaluating the vegetation-atmosphere coupling strength of ORCHIDEE land surface model (v7266). <i>In review</i>. </p></li>
 
-<li><p> Yang, J., Medlyn, B. E., Barton, C., Churchill, A., <b>De Kauwe M. G.</b>, Jiang, M., Krishnananthaselvan, A., Tissue, D. Pendall, E. and  Power, S. (2022) Green-up and brown-down: Modelling grassland foliage phenology responses to soil moisture availability. <i>In review</i>. </p></li>
-
-
 <li><p> <sup>&#x02021;</sup><u>Rifai, S.</u>, <b>De Kauwe M. G.</b>, Gallagher, R., Cernusak, L., Meir, P., and Pitman, A. J. (2022) Bushfire recovery trajectories are structured by burn severity and the cessation of drought: predicting time-to-recover from recent Australian mega-fires. <i>In review</i>. </p></li>
 
 <li><p> Tong, J., Williams, C., <b>De Kauwe M. G.</b> and  Medlyn, B. E. (2022) Cumulative effects doubled the drought impacts for one fifth of ecosystems exposed to recurrent droughts during Australia’s Millennium Drought. <i>In review</i>. </p></li>
@@ -33,6 +30,8 @@ subtitle:
 ### In print
 
 <ol reversed>
+
+<li><p> Yang, J., Medlyn, B. E., Barton, C., Churchill, A., <b>De Kauwe M. G.</b>, Jiang, M., Krishnananthaselvan, A., Tissue, D. Pendall, E. and  Power, S. (2022) Green-up and brown-down: Modelling grassland foliage phenology responses to soil moisture availability. <i>Agricultural and Forest Meteorology</i>, accepted. </p></li>
 
 <li><p> Marthews T.R., Lange H., Martínez-de la Torre A., Ellis R.J., Chadburn S.E. and <b>De Kauwe, M. G.</b> (2022). Climate and land surface models: Role of soil. In: Goss MJ & Oliver MA (eds.) Encyclopedia of Soils in the Environment (2nd ed.). DOI: 10.1016/B978-0-12-822974-3.00087-2 </p></li>
 
