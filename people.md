@@ -20,6 +20,7 @@ Martin De Kauwe is an Associate Professor of Global Change Ecology at the <a hre
 
 <span style="color:#16a085">2008–2010:</span>  Earth Observation and Land Surface Modeller, Centre for Ecology and Hydrology, England.
 
+<!--
 ### Education
 
 <span style="color:#16a085">2009:</span> PhD in Remote Sensing, University College London, UK. Title: "Estimating terrestrial carbon fluxes through an optimal combination of models and Earth Observation data" . Supervised by Professors Philip Lewis, Mat Disney and Mathew Williams.
@@ -27,7 +28,7 @@ Martin De Kauwe is an Associate Professor of Global Change Ecology at the <a hre
 <span style="color:#16a085">2004:</span> MSc in Environmental Monitoring, Modelling and Management, Kings College London, UK.
 
 <span style="color:#16a085">2003:</span> BSc in Geography, Kings College London, UK.
-
+-->
 
 ### Research group
 
@@ -74,13 +75,13 @@ Thesis: <span style="color:#16a085">*The response of terrestrial ecosystems to d
 - Mengyuan Mu, PhD student, Thesis: <span style="color:#16a085">*How important is groundwater to the resilience of vegetation during drought?* </span>. Mengyuan is now working as a Postdoc at the University of New South Wales.
 <a href="https://scholar.google.com.au/citations?hl=en&user=e5bnO9gAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
-- Grace Isacc, MSc student. Grace just submitted!
+- Grace Isacc, MSc Bioinformatics.
 
 - Ellie Nichols, MSci student. Ellie is moving to Australia to start a PhD at the Hawkesbury Institute for the Environment.
 
 - Sami Rifai, Postdoctoral Researcher. Sami is off to exciting new pastures soon and is currently working at the University of New South Wales. <a href="https://scholar.google.com.au/citations?hl=en&user=2GmEDKAAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
-- Manon Sabot, PhD student, Thesis: <span style="color:#16a085">*Trading water for carbon in a changing climate: Can optimality theory improve the predictability of land surface models?* </span>. Manon is now working as a Postdoc at the University of New South Wales. <a href="https://scholar.google.com.au/citations?hl=en&user=Pce-a8UAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
+- Manon Sabot, PhD student, Thesis: <span style="color:#16a085">*Trading water for carbon in a changing climate: Can optimality theory improve the predictability of land surface models?* </span> Manon is now working as a Postdoc at the University of New South Wales. <a href="https://scholar.google.com.au/citations?hl=en&user=Pce-a8UAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
 - Jinyan (Jim) Yang, PhD student, Thesis: <span style="color:#16a085">*Modelling the carbon uptake of Australian evergreen ecosystems under rising [CO<sub>2</sub>] and water limitations* </span>. Jim is now working as a Postdoc at Western Sydney University. <a href="https://scholar.google.com.au/citations?hl=en&user=6f7VyFoAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
