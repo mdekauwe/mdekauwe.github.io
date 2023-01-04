@@ -9,19 +9,17 @@ subtitle:
 
 <ol reversed start="105">
 
-<li><p> Damasceno, A., Garcia, S., Aleixo, I., Menezes, J., Pereira, I., Correa L. M., <b>De Kauwe M. G.</b>, Ferrer, V. R., Fleischer, K., Grams, T. E. E., Guedes, A., Hartley, I. P., Kruijt, B., Lugli, L. F., Martins, N. P., Norby, R. J., Pires-Santos, J. S., Portela, B., Rammig, A., Santana, F. D., Santos, Y., Souza, C. C., Ushida, G., Lapola, D. M., Quesada, C. A., and Domingues, T. F. (2022) In situ short-term responses of Amazonian understory plants to elevated CO<sub>2</sub>. <i>In review</i>. </p></li>
+<li><p> Damasceno, A., Garcia, S., Aleixo, I., Menezes, J., Pereira, I., Correa L. M., <b>De Kauwe M. G.</b>, Ferrer, V. R., Fleischer, K., Grams, T. E. E., Guedes, A., Hartley, I. P., Kruijt, B., Lugli, L. F., Martins, N. P., Norby, R. J., Pires-Santos, J. S., Portela, B., Rammig, A., Santana, F. D., Santos, Y., Souza, C. C., Ushida, G., Lapola, D. M., Quesada, C. A., and Domingues, T. F. (2023) In situ short-term responses of Amazonian understory plants to elevated CO<sub>2</sub>. <i>In review</i>. </p></li>
 
-<li><p> Van Sundert, K., Leuzinger, S., Bader, M., Chang, S., <b>De Kauwe M. G.</b>, Dukes, J., Langley, A., Ma, Z., Mariën, B., Reynaert, S., Ru, J., Song, J., Stocker, B., Terrer, C., Thoresen, J., Vanuytrecht, E., Wan, S., Yue, K. and Vicca, S. (2022) When things get MESI: the Manipulation Experiments Synthesis Initiative – a coordinated effort to synthesize terrestrial global change experiments. <i>In review</i>. </p></li>
+<li><p> Stephens, C. M., Band, L. E.,  Johnson, F. M., Marshall, L. A., Medlyn, B. E., <b>De Kauwe M. G.</b> and Ukkola, A. M. (2023) Changes in blue/green water partitioning under severe drought. <i>In review</i>. </p></li>
 
-<li><p> Stephens, C. M., Band, L. E.,  Johnson, F. M., Marshall, L. A., Medlyn, B. E., <b>De Kauwe M. G.</b> and Ukkola, A. M. (2022) Changes in blue/green water partitioning under severe drought. <i>In review</i>. </p></li>
+<li><p> <sup>&#8224;</sup><u>Page, J. C.</u>, <b>De Kauwe M. G.</b>, Abramowitz, G. and Pitman, A. J. (2023) Non-Stationary Lags and Legacies in Ecosystem Flux Response to Antecedent Rainfall. <i>In review</i>. </p></li>
 
-<li><p> <sup>&#8224;</sup><u>Page, J. C.</u>, <b>De Kauwe M. G.</b>, Abramowitz, G. and Pitman, A. J. (2022) Non-Stationary Lags and Legacies in Ecosystem Flux Response to Antecedent Rainfall. <i>In review</i>. </p></li>
+<li><p> <sup>&#8224;</sup><u>Teckentrup, L.</u>, <b>De Kauwe, M. G.</b>, Abramowitz, G., Pitman, A. J., Ukkola, A. M., François, B. and Smith, B. (2023) Opening Pandora's box: How to constrain regional projections of the carbon cycle. <i>In review</i>. </p></li>
 
-<li><p> <sup>&#8224;</sup><u>Teckentrup, L.</u>, <b>De Kauwe, M. G.</b>, Abramowitz, G., Pitman, A. J., Ukkola, A. M., François, B. and Smith, B. (2022) Opening Pandora's box: How to constrain regional projections of the carbon cycle. <i>In review</i>. </p></li>
+<li><p> <sup>&#x02021;</sup><u>Rifai, S.</u>, <b>De Kauwe M. G.</b>, Gallagher, R., Cernusak, L., Meir, P., and Pitman, A. J. (2023) Bushfire recovery trajectories are structured by burn severity and the cessation of drought: predicting time-to-recover from recent Australian mega-fires. <i>In review</i>. </p></li>
 
-<li><p> <sup>&#x02021;</sup><u>Rifai, S.</u>, <b>De Kauwe M. G.</b>, Gallagher, R., Cernusak, L., Meir, P., and Pitman, A. J. (2022) Bushfire recovery trajectories are structured by burn severity and the cessation of drought: predicting time-to-recover from recent Australian mega-fires. <i>In review</i>. </p></li>
-
-<li><p> Tong, J., Williams, C., <b>De Kauwe M. G.</b> and  Medlyn, B. E. (2022) Cumulative effects doubled the drought impacts for one fifth of ecosystems exposed to recurrent droughts during Australia’s Millennium Drought. <i>In review</i>. </p></li>
+<li><p> Tong, J., Williams, C., <b>De Kauwe M. G.</b> and  Medlyn, B. E. (2023) Cumulative effects doubled the drought impacts for one fifth of ecosystems exposed to recurrent droughts during Australia’s Millennium Drought. <i>In review</i>. </p></li>
 
 </ol>
 
@@ -29,8 +27,9 @@ subtitle:
 
 <ol reversed>
 
+<li><p> Van Sundert, K., Leuzinger, S., Bader, M., Chang, S., <b>De Kauwe M. G.</b>, Dukes, J., Langley, A., Ma, Z., Mariën, B., Reynaert, S., Ru, J., Song, J., Stocker, B., Terrer, C., Thoresen, J., Vanuytrecht, E., Wan, S., Yue, K. and Vicca, S. (2023) When things get MESI: the Manipulation Experiments Synthesis Initiative – a coordinated effort to synthesize terrestrial global change experiments. <i>Global Change Biology</i>, accepted. </p></li>
 
-<li><p> Zhang, Y., Narayanappa, D., Ciais, P., Li, W., Goll, D., Vuichard, N., <b>De Kauwe M. G.</b>, Li, L. and Maignan, F. (2022) Evaluating the vegetation-atmosphere coupling strength of ORCHIDEE land surface model (v7266). <i>Geoscientific Model Development</i>, accepted. </p></li>
+<li><p> Zhang, Y., Narayanappa, D., Ciais, P., Li, W., Goll, D., Vuichard, N., <b>De Kauwe M. G.</b>, Li, L. and Maignan, F. (2023) Evaluating the vegetation-atmosphere coupling strength of ORCHIDEE land surface model (v7266). <i>Geoscientific Model Development</i>, accepted. </p></li>
 
 <li><p> Yang, J., Medlyn, B. E., Barton, C., Churchill, A., <b>De Kauwe M. G.</b>, Jiang, M., Krishnananthaselvan, A., Tissue, D. Pendall, E. and  Power, S. (2022) Green-up and brown-down: Modelling grassland foliage phenology responses to soil moisture availability. <i>Agricultural and Forest Meteorology</i>, accepted. </p></li>
 
