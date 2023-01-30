@@ -6,7 +6,7 @@ subtitle:
 
 <!--
 <a style="color:#f39c12">We will be hiring two postdocs to work on our recently funded NERC grant in 2023, so please look out for forthcoming announcements (~December).</a>
--->
+
 
 ### Current opportunities
 
@@ -65,6 +65,7 @@ Interested students should contact me directly to discuss the project. Student a
 <!--
 - <a href="https://www.findaphd.com/phds/project/ecophysiology-of-inga-a-key-revolutionary-genus-in-tropical-forest-restoration-nerc-gw4-dtp-phd-studentship-for-2022-entry-phd-in-geography/?p135264" style="color:#16a085">Ecophysiology of Inga: a key revolutionary genus in tropical forest restoration</a>. PhD supervised at Exeter University by Lina Mercado.
 -->
+
 
 ### Graduate
 
