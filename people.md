@@ -32,9 +32,20 @@ Martin De Kauwe is an Associate Professor of Global Change Ecology at the <a hre
 
 ### Research group
 
+<img style="padding: 0px 10px 0px 0px; width: 20%; height: 50%; float: left;" align="middle" src="assets/img/Chunhui_Zhan.jpeg"/>
 
+Chunhui Zhan is a visiting PhD student from the Max Planck Institute for Biochemistry
 
-<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/manon.jpeg"/>
+Chunhui is examining the role of rising carbon dioxide on land-atmosphere interactions.
+
+<a href="mailto:czhan@bgc-jena.mpg.de" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
+<a href="https://www.bgc-jena.mpg.de/person/czhan/4908500" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img style="padding: 10px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/manon.jpeg"/>
 
 Manon Sabot is a Postdoctoral Researcher at the University of New South Wales and visiting academic at the University of Bristol.
 
@@ -47,7 +58,7 @@ Manon is working on the Australian Research Council grant exploring how vulnerab
 
 
 
-<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/jon.jpeg"/>
+<img style="padding: 10px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/jon.jpeg"/>
 
 Jonathan Page is a PhD student at the University of New South Wales.
 
