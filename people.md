@@ -69,37 +69,63 @@ Thesis: <span style="color:#16a085">*Lags and legacies: understanding the role o
 
 <p>&nbsp;</p>
 
+
+
+
+## Alumni
+
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/lina.jpeg"/>
 
-Lina Teckentrup is a PhD student at the University of New South Wales.
-
-Thesis: <span style="color:#16a085">*The response of terrestrial ecosystems to different climate modes* </span>
+Lina Teckentrup,PhD student, Thesis: <span style="color:#16a085">*The response of terrestrial ecosystems to different climate modes* </span>. Lina is now working as a Postdoc at the University of Western Sydney.
 
 <a href="mailto:l.teckentrup@unsw.edu.au" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
 <a href="https://scholar.google.com.au/citations?hl=en&user=MzjKIsoAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/mengyuan.jpeg"/>
 
-## Alumni
-
-- Mengyuan Mu, PhD student, Thesis: <span style="color:#16a085">*How important is groundwater to the resilience of vegetation during drought?* </span>. Mengyuan is now working as a Postdoc at the University of New South Wales.
+Mengyuan Mu, PhD student, Thesis: <span style="color:#16a085">*How important is groundwater to the resilience of vegetation during drought?* </span>. Mengyuan is now working as a Postdoc at the University of New South Wales.
 <a href="https://scholar.google.com.au/citations?hl=en&user=e5bnO9gAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
-- Grace Isacc, MSc Bioinformatics.
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
-- Ellie Nichols, MSci student. Ellie is moving to Australia to start a PhD at the Hawkesbury Institute for the Environment.
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/manon.jpeg"/>
 
-- Sami Rifai, Postdoctoral Researcher. Sami is off to exciting new pastures soon and is currently working at the University of New South Wales. <a href="https://scholar.google.com.au/citations?hl=en&user=2GmEDKAAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
+Manon Sabot, PhD student, Thesis: <span style="color:#16a085">*Trading water for carbon in a changing climate: Can optimality theory improve the predictability of land surface models?* </span> Manon is now working as a Postdoc at the University of New South Wales. <a href="https://scholar.google.com.au/citations?hl=en&user=Pce-a8UAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
-- Manon Sabot, PhD student, Thesis: <span style="color:#16a085">*Trading water for carbon in a changing climate: Can optimality theory improve the predictability of land surface models?* </span> Manon is now working as a Postdoc at the University of New South Wales. <a href="https://scholar.google.com.au/citations?hl=en&user=Pce-a8UAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
-- Jinyan (Jim) Yang, PhD student, Thesis: <span style="color:#16a085">*Modelling the carbon uptake of Australian evergreen ecosystems under rising [CO<sub>2</sub>] and water limitations* </span>. Jim is now working as a Postdoc at Western Sydney University. <a href="https://scholar.google.com.au/citations?hl=en&user=6f7VyFoAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/sami.jpg"/>
 
-- Ned Haughton, PhD student, Thesis: <span style="color:#16a085">*On the predictability of land surface fluxes* </span>. Ned is now working as a risk analyst at Climate Risk. <a href="https://scholar.google.com.au/citations?hl=en&user=iMq-xHEAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
+Sami Rifai, Postdoctoral Researcher on the ARC Discovery: "How vulnerable are eucalypts to future droughts?". Sami now a lecturer at the University of Adelaide. <a href="https://scholar.google.com.au/citations?hl=en&user=2GmEDKAAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/jim.jpeg"/>
 
+Jinyan (Jim) Yang, PhD student, Thesis: <span style="color:#16a085">*Modelling the carbon uptake of Australian evergreen ecosystems under rising [CO<sub>2</sub>] and water limitations* </span>. Jim is now working as a Postdoc at Western Sydney University. <a href="https://scholar.google.com.au/citations?hl=en&user=6f7VyFoAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/ned.png"/>
+
+Ned Haughton, PhD student, Thesis: <span style="color:#16a085">*On the predictability of land surface fluxes* </span>. Ned is now working as a risk analyst at Climate Risk. <a href="https://scholar.google.com.au/citations?hl=en&user=iMq-xHEAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 #### Mini reunion in Bristol, 2022:
 <img style="padding: 0px 10px 50px 0px; width: 80%; height: 80%; float: left;" align="middle" src="assets/img/bristol_reunion.jpg"/>
