@@ -1,6 +1,6 @@
 #!/bin/bash
 
-jekyll serve
+jekyll serve 
 
 echo "\n"
 echo "load..."
