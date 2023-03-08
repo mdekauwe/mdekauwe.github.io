@@ -43,7 +43,7 @@ subtitle:
 
 <li><p> <sup>&#8224;</sup><u>Sabot, M.</u>, <b>De Kauwe M. G.</b>, Pitman, A., Ellsworth, D., Medlyn, B., Caldararu, S, Zaehle, S., Crous, K., Gimeno, T., Wujeska-Klause, A., Mu, M. and Yang, J. (2022) Predicting resilience through the lens of competing adjustments to vegetation function. <i>Plant, Cell & Environment</i>, 45, 2744-2761. </p></li>
 
-<li><p><b>De Kauwe M. G.</b>, Sabot, M., Medlyn, B. E., Pitman, A. J., Meir, P., Cernusak, L., Gallagher, R., Ukkola, A., Rifai, S. and Choat, B. (2022) Towards species-level forecasts of drought-induced tree mortality risk. <i>New Phytologist</i>, 235, 94-110.. </p></li>
+<li><p><b>De Kauwe M. G.</b>, Sabot, M., Medlyn, B. E., Pitman, A. J., Meir, P., Cernusak, L., Gallagher, R., Ukkola, A., Rifai, S. and Choat, B. (2022) Towards species-level forecasts of drought-induced tree mortality risk. <i>New Phytologist</i>, 235, 94-110. </p></li>
 
 <li><p> Krich, C., Mahecha, M. D., Migliavacca, M., <b>De Kauwe, M. G.</b>, Runge, J. and Miralles, D. G. (2022) Decoupling between ecosystem photosynthesis and transpiration: A last resort against overheating. <i>Environment Research Letters</i>, 17, 044013. </p></li>
 
