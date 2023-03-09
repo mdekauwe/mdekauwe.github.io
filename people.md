@@ -76,7 +76,7 @@ Thesis: <span style="color:#16a085">*Lags and legacies: understanding the role o
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/lina.jpeg"/>
 
-Lina Teckentrup,PhD student, Thesis: <span style="color:#16a085">*The response of terrestrial ecosystems to different climate modes* </span>. Lina is now working as a Postdoc at the University of Western Sydney.
+Lina Teckentrup,PhD student, Thesis: <span style="color:#16a085">*The Future of Terrestrial Carbon in Australia* </span>. Lina is now working as a Postdoc at the University of Western Sydney.
 
 <a href="mailto:l.teckentrup@unsw.edu.au" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
 <a href="https://scholar.google.com.au/citations?hl=en&user=MzjKIsoAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
