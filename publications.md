@@ -7,7 +7,10 @@ subtitle:
 
 ### In review
 
-<ol reversed start="106">
+<ol reversed start="107">
+
+<li><p> Missen, M. L., <b>De Kauwe M. G.</b> and Hovenden, M. J. (2023) Photosynthetic benefit increase with decreasing irrigation frequency in a temperate grassland
+exposed to elevated carbon dioxide. <i>In review</i>. </p></li>
 
 <li><p> Lipson M., Grimmond, S., Best, M., Abramowitz, G., Coutts, A., Tapper, N., Baik, J-J., Beyers, M., Blunn, L., Boussetta, S., Bou-Zeid, E., <b>De Kauwe M. G.</b>, De Munck, C., Demuzere, M, Fatichi, S., Fortuniak, K., Han, B-S., Hendry, M., Kikegawa, Y., Kondo, H., Lee, D-I., Lee, S-H., Lemonsu, A., Machado, T., Manoli, G., Martilli, A., Masson, V., McNorton, J., Meili, N., Meyer, D., Nice, K., Oleson, K., Park, S-B., Roth, M., Schietter, R., Simon-Moral, A., Steeneveld, G-J., Sun, T., Takane, Y., Thatcher, M., Tsiringakis, A., Varentsov, M., Wang, C., Wang, Z. and Pitman, A. (2023) Evaluation of 30 urban land surface models in the Urban-PLUMBER project: Phase 1 results. <i>In review</i>. </p></li>
 
