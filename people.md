@@ -32,18 +32,6 @@ Martin De Kauwe is an Associate Professor of Global Change Ecology at the <a hre
 
 ### Research group
 
-<img style="padding: 0px 10px 0px 0px; width: 20%; height: 50%; float: left;" align="middle" src="assets/img/Chunhui_Zhan.jpeg"/>
-
-Chunhui Zhan is a visiting PhD student from the Max Planck Institute for Biochemistry
-
-Chunhui is examining the role of rising carbon dioxide on land-atmosphere interactions.
-
-<a href="mailto:czhan@bgc-jena.mpg.de" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
-<a href="https://www.bgc-jena.mpg.de/person/czhan/4908500" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <img style="padding: 10px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/manon.jpeg"/>
 
@@ -74,9 +62,22 @@ Thesis: <span style="color:#16a085">*Lags and legacies: understanding the role o
 
 ## Alumni
 
+<img style="padding: 0px 10px 0px 0px; width: 20%; height: 50%; float: left;" align="middle" src="assets/img/Chunhui_Zhan.jpeg"/>
+
+Chunhui Zhan, visiting PhD student from the Max Planck Institute for Biochemistry
+
+Chunhui is examining the role of rising carbon dioxide on land-atmosphere interactions.
+
+<a href="mailto:czhan@bgc-jena.mpg.de" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
+<a href="https://www.bgc-jena.mpg.de/person/czhan/4908500" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/lina.jpeg"/>
 
-Lina Teckentrup,PhD student, Thesis: <span style="color:#16a085">*The Future of Terrestrial Carbon in Australia* </span>. Lina is now working as a Postdoc at the University of Western Sydney.
+Lina Teckentrup, PhD student, Thesis: <span style="color:#16a085">*The Future of Terrestrial Carbon in Australia* </span>. Lina is now working as a Postdoc at the University of Western Sydney.
 
 <a href="mailto:l.teckentrup@unsw.edu.au" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
 <a href="https://scholar.google.com.au/citations?hl=en&user=MzjKIsoAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
