@@ -18,18 +18,21 @@ exposed to elevated carbon dioxide. <i>In review</i>. </p></li>
 
 <li><p> Stephens, C. M., Band, L. E.,  Johnson, F. M., Marshall, L. A., Medlyn, B. E., <b>De Kauwe M. G.</b> and Ukkola, A. M. (2023) Changes in blue/green water partitioning under severe drought. <i>In review</i>. </p></li>
 
-<li><p> <sup>&#8224;</sup><u>Page, J. C.</u>, <b>De Kauwe M. G.</b>, Abramowitz, G. and Pitman, A. J. (2023) Non-Stationary Lags and Legacies in Ecosystem Flux Response to Antecedent Rainfall. <i>In review</i>. </p></li>
+
 
 
 <li><p> <sup>&#x02021;</sup><u>Rifai, S.</u>, <b>De Kauwe M. G.</b>, Gallagher, R., Cernusak, L., Meir, P., and Pitman, A. J. (2023) Bushfire recovery trajectories are structured by burn severity and the cessation of drought: predicting time-to-recover from recent Australian mega-fires. <i>In review</i>. </p></li>
 
-<li><p> Tong, J., Williams, C., <b>De Kauwe M. G.</b> and  Medlyn, B. E. (2023) Limited evidence of cumulative effects from recurrent droughts in vegetation responses to Australia's Millennium Drought. <i>In review</i>. </p></li>
 
 </ol>
 
 ### In print
 
 <ol reversed>
+
+<li><p> <sup>&#8224;</sup><u>Page, J. C.</u>, <b>De Kauwe M. G.</b>, Abramowitz, G. and Pitman, A. J. (2023) Non-Stationary Lags and Legacies in Ecosystem Flux Response to Antecedent Rainfall. <i>Journal of Geophysical Research: Biogeosciences</i>, accepted. </p></li>
+
+<li><p> Tong, J., Williams, C., <b>De Kauwe M. G.</b> and  Medlyn, B. E. (2023) Limited evidence of cumulative effects from recurrent droughts in vegetation responses to Australia’s Millennium Drought. <i>Journal of Geophysical Research: Biogeosciences</i>, accepted. </p></li>
 
 <li><p> <sup>&#8224;</sup><u>Teckentrup, L.</u>, <b>De Kauwe, M. G.</b>, Abramowitz, G., Pitman, A. J., Ukkola, A. M., François, B. and Smith, B. (2023) Opening Pandora’s box: Reducing GCM uncertainty in Australian simulations of the carbon cycle. <i>Earth System Dynamics</i>, accepted. </p></li>
 
