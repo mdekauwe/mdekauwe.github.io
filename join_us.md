@@ -4,23 +4,13 @@ title:
 subtitle:
 ---
 
-
-<a style="color:#f39c12">We are currently recruiting for a postdoc to work on our newly funded NERC grant...</a>
-
-
-### Current opportunities:
-
 <!--
-- <a href="https://www.bristol.ac.uk/jobs/find/details/?jobId=296624&jobTitle=Research%20Associate%20in%20terrestrial%20biosphere%20modelling" style="color:#000000">3-Year Postdoc: Terrestrial Biosphere Modelling</a>
-
-The Postdoctoral Research Associate will work on a new NERC-funded project: ‘Ghosts from summers past: quantifying the role of vegetation legacy to climatic extreme’. For more details, <a href="https://www.bristol.ac.uk/jobs/find/details/?jobId=296624&jobTitle=Research%20Associate%20in%20terrestrial%20biosphere%20modelling" style="color:#f39c12">please click me.</a>
-
-
+<a style="color:#f39c12">We are currently recruiting for a postdoc to work on our newly funded NERC grant...</a>
 -->
 
-- <a href="https://www.bristol.ac.uk/jobs/find/details/?jobId=296636&jobTitle=Research%20Associate%20in%20statistical%20machine%20learning" style="color:#000000">1.5-Year Postdoc: Statistical Machine Learning</a>
-
-The Postdoctoral Research Associate will work on a new NERC-funded project: ‘Ghosts from summers past: quantifying the role of vegetation legacy to climatic extreme’. For more details, <a href="https://www.bristol.ac.uk/jobs/find/details/?nPostingId=138854&nPostingTargetId=308900&id=Q50FK026203F3VBQBV7V77V83&LG=UK&mask=newuobext" style="color:#f39c12">please click me.</a> All applications received by the closing date (11:59pm on Sunday 16th April).
+<!--
+### Current opportunities:
+-->
 
 <!--
 - <a href="http://www.bristol.ac.uk/biology/courses/postgraduate/phdstudentships/" style="color:#000000">PhD: Unlocking the scaling puzzle in forest carbon and water fluxes</a>

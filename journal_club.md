@@ -7,6 +7,19 @@ subtitle:
 
 ### What we're reading
 
+#### 2023:
+
+- Gampe et al. (2021) Increasing impact of warm droughts on northern ecosystem productivity over recent decades. <a href="https://www.nature.com/articles/s41558-021-01112-8" style="color:#16a085">Nature Climate Change.</a>
+
+- Laughlin et al. (2021) Root traits explain plant species distributions along climatic gradients yet challenge the nature of ecological trade-offs. <a href="https://www.nature.com/articles/s41559-021-01471-7" style="color:#16a085">Nature Ecology & Evolution.</a>
+
+- Büntgen et al. (2022) Plants in the UK flower a month earlier under recent warming. <a href="https://royalsocietypublishing.org/doi/10.1098/rspb.2021.2456" style="color:#16a085">Proceedings of the Royal Society B.</a>
+
+- Malhi et al. (2023) Logged tropical forests have amplified and diverse ecosystem energetics. <a href="https://www.nature.com/articles/s41586-022-05523-1" style="color:#16a085">Nature.</a>
+
+- Mason et al. (2023) Evidence, causes, and consequences of declining nitrogen availability in terrestrial ecosystems. <a href="https://www-science-org.bris.idm.oclc.org/doi/10.1126/science.abh3767" style="color:#16a085">Science.</a>
+
+
 #### 2022:
 
 - Smith et al. (2020) Empirical evidence for resilience of tropical forest photosynthesis in a warmer world. <a href="https://www.nature.com/articles/s41477-020-00780-2/" style="color:#16a085">Nature Plants.</a>

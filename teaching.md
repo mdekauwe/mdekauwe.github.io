@@ -4,6 +4,11 @@ title:
 subtitle:
 ---
 
+<span style="color:#16a085"> *University of Bristol* </span>
+
+- BIOL20022: Animal and Plant Physiology
+- BIOL10007: Diversity of Life Part B
+
 <span style="color:#16a085"> *University of New South Wales Sydney* </span>
 
 - CLIM2001: Fundamentals of Atmospheric
