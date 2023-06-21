@@ -18,7 +18,7 @@ We tackle a diverse range of questions that connect terrestrial ecosystems with 
 - what acclimation potential do plants have to projected warming & drought?
 - what role does legacy to past environmental conditions play in our capacity to predict ecosystem resilience?
 - how does plant physiology affect land-atmosphere feedbacks during climate extremes?
-- what impact will plants have on the future hydrological cycle?
+- how will plant responses to environmental change affect the future hydrological cycle?
 - how resilient are species distributions to climate change & how will distributions shift in the future?
 - what role do urban trees play in mitigating climate-related warming & what species should we be planting in cities of the future?
 
