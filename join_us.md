@@ -61,6 +61,15 @@ Interested students should contact me directly to discuss the project. Student a
 - <a href="https://www.findaphd.com/phds/project/ecophysiology-of-inga-a-key-revolutionary-genus-in-tropical-forest-restoration-nerc-gw4-dtp-phd-studentship-for-2022-entry-phd-in-geography/?p135264" style="color:#16a085">Ecophysiology of Inga: a key revolutionary genus in tropical forest restoration</a>. PhD supervised at Exeter University by Lina Mercado.
 -->
 
+Potential students that have an interest in exploring research questions related to the response of the carbon and water cycles to global change are  encouraged to get in contact. Students should have a background in biology, mathematics, physics, atmospheric science, engineering or a similar quantitative sciences.
+
+I would also be very keen to welcome visitors so please get in contact!
+
+The city of Bristol is a great place to <a href="https://visitbristol.co.uk/inspire/all-about-bristol" style="color:#16a085">work and live.</a>
+
+<div class="floated_img">
+<center><img src="assets/img/UK.gif" style="width: 30%; height: 30%" alt="Aus NDVI" ></center>
+</div>
 
 ### Graduate
 
