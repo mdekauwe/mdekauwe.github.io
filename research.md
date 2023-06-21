@@ -4,19 +4,18 @@ title:
 subtitle:
 ---
 
-Our research focuses on understanding how plants respond to global environmental change: increasing CO<sub>2</sub>, temperature, and changing water availability. We integrate a range of observation streams (*e.g.*, manipulation experiments, eddy covariance, and satellite data) with vegetation models to improve our understanding and capacity to predict future ecosystem change.
+Our research group focuses on understanding how plants respond to global environmental change: increasing CO<sub>2</sub>, temperature, and changing water availability. We integrate a range of observation streams (*e.g.*, manipulation experiments, eddy covariance, and satellite data) with vegetation models to improve our understanding and capacity to predict future ecosystem change.
 
 We tackle a diverse range of questions that connect terrestrial ecosystems with climate, including:
 
 - how will plants respond to increasing atmospheric CO<sub>2</sub> concentration?
 - can we predict when & where trees might die of drought-induced mortality?
 - what acclimation potential do plants have to projected warming & drought?
-- what role does legacy to past environmental conditions play in our capacity to predict current  function?
-- how resilient are species distributions to climate change & how will distributions shift in the future?
-- how will novel future climate alter species competitiveness & what species should we plant in the future?
+- what role does legacy to past environmental conditions play in our capacity to predict ecosystem resilience?
 - how does plant physiology affect land-atmosphere feedbacks during climate extremes?
 - what impact will plants have on the future hydrological cycle?
-- what role do urban trees play in mitigating climate-related warming?
+- how resilient are species distributions to climate change & how will distributions shift in the future?
+- what role do urban trees play in mitigating climate-related warming & what species should we be planting in cities of the future?
 
 <div class="floated_img">
 <!-- <center><img src="assets/img/aus_ndvi.gif" alt="Aus NDVI" ></center> -->
