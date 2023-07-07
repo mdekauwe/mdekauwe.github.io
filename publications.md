@@ -7,7 +7,9 @@ subtitle:
 
 ### In review
 
-<ol reversed start="108">
+<ol reversed start="109">
+
+<li><p> Paschalis, A., <b>De Kauwe M. G.</b>, Sabot, M., and Fatichi, S. (2023) When do plant hydraulics matter in  terrestrial biosphere modelling?. <i>In review</i>. </p></li>
 
 <li><p> <sup>&#8224;</sup><u>Page, J. C.</u>, Abramowitz, G, <b>De Kauwe M. G.</b>, and Pitman, A. J. (2023) re Plant Functional Types Fit for Purpose? <i>In review</i>. </p></li>
 
