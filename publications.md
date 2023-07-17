@@ -7,7 +7,9 @@ subtitle:
 
 ### In review
 
-<ol reversed start="109">
+<ol reversed start="110">
+
+<li><p> <sup>&#8224;</sup><u>Teckentrup, L.</u>, <b>De Kauwe, M. G.</b>, Pitman, A. J., Ukkola, A. M., Wårlind, D. and Smith, B. (2023) Resolving uncertainty in the response of Australia's terrestrial carbon cycle to projected climate change. i>In review</i>. </p></li>
 
 <li><p> Paschalis, A., <b>De Kauwe M. G.</b>, Sabot, M., and Fatichi, S. (2023) When do plant hydraulics matter in  terrestrial biosphere modelling?. <i>In review</i>. </p></li>
 
