@@ -4,9 +4,13 @@ title:
 subtitle:
 ---
 
-<!--
-<a style="color:#f39c12">We are currently recruiting for a postdoc to work on our newly funded NERC grant...</a>
--->
+### Current opportunities:
+
+<a style="color:#f39c12">- We will be recruiting a Sri Lankan citizen for a 4-year PhD to identify and cultivate varieties of tea crop that exhibit resistance to drought conditions in the tea growing regions of in Sri Lanka (~January)
+
+<a style="color:#f39c12">- We will be recruiting for a 1.5-year postdoc to work on our newly funded NERC grant (~September)
+
+
 
 <!--
 ### Current opportunities:
@@ -71,7 +75,7 @@ The city of Bristol is a great place to <a href="https://visitbristol.co.uk/insp
 <center><img src="assets/img/UK.gif" style="width: 30%; height: 30%" alt="Aus NDVI" ></center>
 </div>
 
-### Graduate
+### Graduate:
 
 - <a href="https://www.bristol.ac.uk/study/postgraduate/2022/doctoral/phd-great-western-four-dtp/" style="color:#16a085">NERC-funded PhD studentships</a> primarily open to UK students with a limited number for international students
 
@@ -92,7 +96,7 @@ The city of Bristol is a great place to <a href="https://visitbristol.co.uk/insp
 - <a href="http://www.bristol.ac.uk/cabot/postgraduate-opportunities/cabot-masters/" style="color:#16a085">Master's by Research (MScR)</a> in Global Environmental Challenges
 
 
-### Fellowships
+### Fellowships:
 
 There are a number of fellowships available (this list is not exhaustive) and I would be extremely happy to act as mentor and support applicants interested in coming to Bristol, please get in touch!
 
