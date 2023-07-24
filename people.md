@@ -38,7 +38,7 @@ Cale Baguley is a Postdoctoral Researcher at the University of Bristol.
 
 Cale is working on UK Natural Environment Research Council (NERC) grant to characterise the timescale, spatial extent, and mechanisms that govern the ecosystem legacy to drought and heatwaves during European summers
 
-<a href="mailto:jb14389@bristol.ac.uk" class="social-links__entry" target="_blank"> 
+<a href="mailto:jb14389@bristol.ac.uk" class="social-links__entry" target="_blank">
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -94,7 +94,7 @@ Mengyuan Mu, PhD student, Thesis: <span style="color:#16a085">*How important is 
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/manon.jpeg"/>
 
-Manon Sabot, PhD student/Postdoc, Thesis: <span style="color:#16a085">*Trading water for carbon in a changing climate: Can optimality theory improve the predictability of land surface models?* </span> Following her PhD, Manon worked on our Australian Research Council grant exploring how vulnerable eucalypts are to future drought at the University of New South Wales / visting fellow at the University of Bristol. <a href="https://scholar.google.com.au/citations?hl=en&user=Pce-a8UAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
+Manon Sabot, PhD student/Postdoc, Thesis: <span style="color:#16a085">*Trading water for carbon in a changing climate: Can optimality theory improve the predictability of land surface models?* </span> Following her PhD, Manon worked on our Australian Research Council grant exploring how vulnerable eucalypts are to future drought at the University of New South Wales / visting fellow at the University of Bristol. Manon is off to the Max Planck Institute for Biogeochemistry next! <a href="https://scholar.google.com.au/citations?hl=en&user=Pce-a8UAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
