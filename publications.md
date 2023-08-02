@@ -7,7 +7,9 @@ subtitle:
 
 ### In review
 
-<ol reversed start="110">
+<ol reversed start="111">
+
+<li><p> Zhan, C., Orth, R., Yang, H, Reichstein, M., Zaehle, S., <b>De Kauwe, M. G.</b>, Rammig, A., Winkler, A. J., (2023) Estimating the CO<sub>2</sub> fertilization effect on extratropical forest productivity from Flux-tower Observations. <i>In review</i>. </p></li>
 
 <li><p> <sup>&#8224;</sup><u>Teckentrup, L.</u>, <b>De Kauwe, M. G.</b>, Pitman, A. J., Ukkola, A. M., Wårlind, D. and Smith, B. (2023) Resolving uncertainty in the response of Australia's terrestrial carbon cycle to projected climate change. <i>In review</i>. </p></li>
 
