@@ -56,7 +56,17 @@ Thesis: <span style="color:#16a085">*Lags and legacies: understanding the role o
 <p>&nbsp;</p>
 
 
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/melika.png"/>
 
+Melika Missen is a PhD student at the University of Tasmania.
+
+Thesis: <span style="color:#16a085">*Will rising CO2 concentrations save plants from drought stress?* </span>
+
+<a href="mailto:jmelika.missen@utas.edu.au" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Alumni
 
@@ -96,7 +106,6 @@ Mengyuan Mu, PhD student, Thesis: <span style="color:#16a085">*How important is 
 
 Manon Sabot, PhD student/Postdoc, Thesis: <span style="color:#16a085">*Trading water for carbon in a changing climate: Can optimality theory improve the predictability of land surface models?* </span> Following her PhD, Manon worked on our Australian Research Council grant exploring how vulnerable eucalypts are to future drought at the University of New South Wales / visting fellow at the University of Bristol. Manon is off to the Max Planck Institute for Biogeochemistry next! <a href="https://scholar.google.com.au/citations?hl=en&user=Pce-a8UAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/sami.jpg"/>
