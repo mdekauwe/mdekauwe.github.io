@@ -38,7 +38,8 @@ Cale Baguley is a Postdoctoral Researcher at the University of Bristol.
 
 Cale is working on UK Natural Environment Research Council (NERC) grant to characterise the timescale, spatial extent, and mechanisms that govern the ecosystem legacy to drought and heatwaves during European summers
 
-<a href="mailto:jb14389@bristol.ac.uk" class="social-links__entry" target="_blank">
+<a href="mailto:jb14389@bristol.ac.uk" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
+<a href="https://scholar.google.com/citations?user=kvGSPQYAAAAJ&hl=en" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
