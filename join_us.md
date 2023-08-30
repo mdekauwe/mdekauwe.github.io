@@ -10,6 +10,8 @@ subtitle:
 
 <a style="color:#f39c12">- We will be recruiting for a 1.5-year postdoc to work on our newly funded NERC grant (~September)
 
+<a style="color:#f39c12">- I am very happy to support PhD applicants interested in applying for a <a href="https://research.google/outreach/phd-fellowship/">Google PhD Fellowship</a>. <a style="color:#f39c12">Students interested in the application of machine learning to better understanding vegetation responses to heatwaves and droughts should please get in touch. Further information can be found at: <a href="https://research.google/outreach/faq/?category=phd">click me</a>. 
+
 
 
 <!--
