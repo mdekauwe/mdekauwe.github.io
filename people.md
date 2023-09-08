@@ -34,7 +34,7 @@ Martin De Kauwe is an Associate Professor of Global Change Ecology at the <a hre
 
 <img style="padding: 10px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/gabriel.jpg"/>
 
-Gabriel Banstarck Marandola is a visiting master's student from the State University of Campinas, under the supervision of Professor David Lapola. Gabriel has been measuring light and CO<sub>2</sub> response curves from understorey species in the Amazon Open-Top Chamber CO<sub>2</sub> experiment.
+Gabriel Banstarck Marandola is a visiting master's student from the State University of Campinas, under the supervision of Professor David Lapola. Gabriel has been measuring light and CO<sub>2</sub> response curves from understorey species in the Amazon Open-Top Chamber CO<sub>2</sub> experiment
 
 <a href="mailto:g171857@dac.unicamp.br" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
 
@@ -45,7 +45,7 @@ Gabriel Banstarck Marandola is a visiting master's student from the State Univer
 
 Cale Baguley is a Postdoctoral Researcher at the University of Bristol.
 
-Cale is working on UK Natural Environment Research Council (NERC) grant to characterise the timescale, spatial extent, and mechanisms that govern the ecosystem legacy to drought and heatwaves during European summers
+Cale is working on our UK Natural Environment Research Council (NERC) grant to characterise the timescale, spatial extent, and mechanisms that govern the ecosystem legacy to drought and heatwaves during European summers
 
 <a href="mailto:jb14389@bristol.ac.uk" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
 <a href="https://scholar.google.com/citations?user=kvGSPQYAAAAJ&hl=en" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
@@ -96,7 +96,9 @@ Chunhui is examining the role of rising carbon dioxide on land-atmosphere intera
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/lina.jpeg"/>
 
-Lina Teckentrup, PhD student, Thesis: <span style="color:#16a085">*The Future of Terrestrial Carbon in Australia* </span>. Lina is now working as a Postdoc at the University of Western Sydney.
+Lina Teckentrup, PhD student, Thesis: <span style="color:#16a085">*The Future of Terrestrial Carbon in Australia* </span>.
+
+Lina is now working as a Postdoc at the University of Western Sydney.
 
 <a href="mailto:l.teckentrup@unsw.edu.au" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
 <a href="https://scholar.google.com.au/citations?hl=en&user=MzjKIsoAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
@@ -106,7 +108,11 @@ Lina Teckentrup, PhD student, Thesis: <span style="color:#16a085">*The Future of
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/mengyuan.jpeg"/>
 
-Mengyuan Mu, PhD student, Thesis: <span style="color:#16a085">*How important is groundwater to the resilience of vegetation during drought?* </span>. Mengyuan is now working as a Postdoc at the University of New South Wales.
+Mengyuan Mu, PhD student, Thesis: <span style="color:#16a085">*How important is groundwater to the resilience of vegetation during drought?* </span>.
+
+Mengyuan is now working as a Postdoc at the University of New South Wales.
+
+<a href="mailto:mengyuan.mu@unsw.edu.au" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
 <a href="https://scholar.google.com.au/citations?hl=en&user=e5bnO9gAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
 <p>&nbsp;</p>
@@ -115,13 +121,24 @@ Mengyuan Mu, PhD student, Thesis: <span style="color:#16a085">*How important is 
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/manon.jpeg"/>
 
-Manon Sabot, PhD student/Postdoc, Thesis: <span style="color:#16a085">*Trading water for carbon in a changing climate: Can optimality theory improve the predictability of land surface models?* </span> Following her PhD, Manon worked on our Australian Research Council grant exploring how vulnerable eucalypts are to future drought at the University of New South Wales / visting fellow at the University of Bristol. Manon is off to the Max Planck Institute for Biogeochemistry next! <a href="https://scholar.google.com.au/citations?hl=en&user=Pce-a8UAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
+Manon Sabot, PhD student Thesis: <span style="color:#16a085">*Trading water for carbon in a changing climate: Can optimality theory improve the predictability of land surface models?* </span>
+
+Postdoctoral Researcher:
+Manon worked on our Australian Research Council grant exploring how vulnerable eucalypts are to future drought.
+
+Manon is a Minerva Fast Track fellow and group leader at the <a href="https://www.bgc-jena.mpg.de/person/msabot/4777702" style="color:#16a085;">Max Planck Institute for Biogeochemistry</a>.
+
+<a href="https://scholar.google.com.au/citations?hl=en&user=Pce-a8UAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
 <p>&nbsp;</p>
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/sami.jpg"/>
 
-Sami Rifai, Postdoctoral Researcher on the ARC Discovery: "How vulnerable are eucalypts to future droughts?". Sami now a lecturer in the School of Biological Sciences at the University of Adelaide. <a href="https://scholar.google.com.au/citations?hl=en&user=2GmEDKAAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
+Sami Rifai, Postdoctoral Researcher on the ARC Discovery: "How vulnerable are eucalypts to future droughts?".
+
+Sami now a lecturer in the School of Biological Sciences at the <a href="https://researchers.adelaide.edu.au/profile/sami.rifai" style="color:#16a085;">University of Adelaide</a>.
+
+<a href="https://scholar.google.com.au/citations?hl=en&user=2GmEDKAAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -129,7 +146,9 @@ Sami Rifai, Postdoctoral Researcher on the ARC Discovery: "How vulnerable are eu
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/jim.jpeg"/>
 
-Jinyan (Jim) Yang, PhD student, Thesis: <span style="color:#16a085">*Modelling the carbon uptake of Australian evergreen ecosystems under rising [CO<sub>2</sub>] and water limitations* </span>. Jim is now working as a Postdoc at Western Sydney University. <a href="https://scholar.google.com.au/citations?hl=en&user=6f7VyFoAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
+Jinyan (Jim) Yang, PhD student, Thesis: <span style="color:#16a085">*Modelling the carbon uptake of Australian evergreen ecosystems under rising [CO<sub>2</sub>] and water limitations* </span>. Jim is now working as a Postdoc at CSIRO Environment.
+
+<a href="https://scholar.google.com.au/citations?hl=en&user=6f7VyFoAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -139,7 +158,9 @@ Jinyan (Jim) Yang, PhD student, Thesis: <span style="color:#16a085">*Modelling t
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/ned.png"/>
 
-Ned Haughton, PhD student, Thesis: <span style="color:#16a085">*On the predictability of land surface fluxes* </span>. Ned is now working as a risk analyst at Climate Risk. <a href="https://scholar.google.com.au/citations?hl=en&user=iMq-xHEAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
+Ned Haughton, PhD student, Thesis: <span style="color:#16a085">*On the predictability of land surface fluxes* </span>.
+
+Ned is now working as a risk analyst at Climate Risk. <a href="https://scholar.google.com.au/citations?hl=en&user=iMq-xHEAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
