@@ -6,19 +6,21 @@ subtitle:
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/me.png"/>
 
-Martin De Kauwe is an Associate Professor of Global Change Ecology at the <a href="http://www.bristol.ac.uk/biology/" style="color:#16a085;">University of Bristol</a>. Martin's research group will continue to be split between Bristol and Sydney for the next few years. <a href="mailto:mdekauwe@gmail.com" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"></i></a> <a href="https://github.com/mdekauwe" class="social-links__entry" target="_blank"> <i class="fa fa fa-github fa-lg"></i></a> <a href="https://scholar.google.com.au/citations?user=ka3U7xcAAAAJ&hl=en" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a> <a href="https://twitter.com/mdekauwe82" class="social-links__entry" target="_blank"> <i class="fa fa-twitter fa-lg"></i></a>
+Martin De Kauwe is an Associate Professor of Global Change Ecology at the <a href="http://www.bristol.ac.uk/biology/" style="color:#16a085;">University of Bristol</a>. Martin's research group will continue to be split between Bristol and Sydney for the next few years.
 
 <p> Martin is the Co-Lead of the <a href="http://www.bristol.ac.uk/cabot/" style="color:#16a085;">Cabot Institute for the Environment's</a> Environmental Change theme. Martin is a member of the Scientific Steering Committee for the <a href="https://amazonface.inpa.gov.br/en/index.php" style="color:#16a085;">AmazonFACE</a> experiment. Martin is the former co-chair of the leadership committee for the <a href="https://trac.nci.org.au/trac/cable/wiki" style="color:#16a085;">CABLE</a> land surface model. Martin is also an Associate Editor for <a href="https://nph.onlinelibrary.wiley.com/journal/14698137" style="color:#16a085;">New Phytologist</a>, a former Associate Editor for <a href="https://www.biogeosciences.net/" style="color:#16a085;">Biogeosciences</a>, and a member of the Editorial Advisory Board for <a href="https://onlinelibrary.wiley.com/journal/13652486" style="color:#16a085;">Global Change Biology</a>.</p>
 
 ### Research Positions
 
-<span style="color:#16a085">2021–present:</span> Associate Professor, School of Biological Sciences, University of Bristol, England.
+<span style="color:#16a085">2021–present:</span> Associate Professor, School of Biological Sciences, University of Bristol, England
 
-<span style="color:#16a085">2017–2021:</span> Senior Lecturer, Climate Change Research Centre, University of New South Wales, Australia.
+<span style="color:#16a085">2017–2021:</span> Senior Lecturer, Climate Change Research Centre, University of New South Wales, Australia
 
-<span style="color:#16a085">2010–2017:</span> Research Fellow, Department of Biological Sciences, Macquarie University, Australia.
+<span style="color:#16a085">2010–2017:</span> Research Fellow, Department of Biological Sciences, Macquarie University, Australia
 
-<span style="color:#16a085">2008–2010:</span>  Earth Observation and Land Surface Modeller, Centre for Ecology and Hydrology, England.
+<span style="color:#16a085">2008–2010:</span>  Earth Observation and Land Surface Modeller, Centre for Ecology and Hydrology, England
+
+<a href="mailto:mdekauwe@gmail.com" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"></i></a> <a href="https://github.com/mdekauwe" class="social-links__entry" target="_blank"> <i class="fa fa fa-github fa-lg"></i></a> <a href="https://scholar.google.com.au/citations?user=ka3U7xcAAAAJ&hl=en" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a> <a href="https://twitter.com/mdekauwe82" class="social-links__entry" target="_blank"> <i class="fa fa-twitter fa-lg"></i></a>
 
 <!--
 ### Education
@@ -34,7 +36,9 @@ Martin De Kauwe is an Associate Professor of Global Change Ecology at the <a hre
 
 <img style="padding: 10px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/gabriel.jpg"/>
 
-Gabriel Banstarck Marandola is a visiting master's student from the State University of Campinas, under the supervision of Professor David Lapola. Gabriel has been measuring light and CO<sub>2</sub> response curves from understorey species in the Amazon Open-Top Chamber CO<sub>2</sub> experiment
+Gabriel Banstarck Marandola is a visiting master's student from the State University of Campinas, under the supervision of Professor David Lapola.
+
+Gabriel has been measuring light and CO<sub>2</sub> response curves from understorey species in the Amazon Open-Top Chamber CO<sub>2</sub> experiment
 
 <a href="mailto:g171857@dac.unicamp.br" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
 
@@ -84,7 +88,7 @@ Thesis: <span style="color:#16a085">*Will rising CO2 concentrations save plants 
 
 Chunhui Zhan, visiting PhD student from the Max Planck Institute for Biochemistry
 
-Chunhui is examining the role of rising carbon dioxide on land-atmosphere interactions.
+Chunhui is examining the role of rising carbon dioxide on land-atmosphere interactions
 
 <a href="mailto:czhan@bgc-jena.mpg.de" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
 <a href="https://www.bgc-jena.mpg.de/person/czhan/4908500" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
@@ -96,9 +100,9 @@ Chunhui is examining the role of rising carbon dioxide on land-atmosphere intera
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/lina.jpeg"/>
 
-Lina Teckentrup, PhD student, Thesis: <span style="color:#16a085">*The Future of Terrestrial Carbon in Australia* </span>.
+Lina Teckentrup, PhD student, Thesis: <span style="color:#16a085">*The Future of Terrestrial Carbon in Australia* </span>
 
-Lina is now working as a Postdoc at the University of Western Sydney.
+Lina is now working as a Postdoc at the University of Western Sydney
 
 <a href="mailto:l.teckentrup@unsw.edu.au" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
 <a href="https://scholar.google.com.au/citations?hl=en&user=MzjKIsoAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
@@ -108,9 +112,9 @@ Lina is now working as a Postdoc at the University of Western Sydney.
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/mengyuan.jpeg"/>
 
-Mengyuan Mu, PhD student, Thesis: <span style="color:#16a085">*How important is groundwater to the resilience of vegetation during drought?* </span>.
+Mengyuan Mu, PhD student, Thesis: <span style="color:#16a085">*How important is groundwater to the resilience of vegetation during drought?* </span>
 
-Mengyuan is now working as a Postdoc at the University of New South Wales.
+Mengyuan is now working as a Postdoc at the University of New South Wales
 
 <a href="mailto:mengyuan.mu@unsw.edu.au" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
 <a href="https://scholar.google.com.au/citations?hl=en&user=e5bnO9gAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
@@ -121,12 +125,9 @@ Mengyuan is now working as a Postdoc at the University of New South Wales.
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/manon.jpeg"/>
 
-Manon Sabot, PhD student Thesis: <span style="color:#16a085">*Trading water for carbon in a changing climate: Can optimality theory improve the predictability of land surface models?* </span>
+Manon Sabot, PhD student Thesis: <span style="color:#16a085">*Trading water for carbon in a changing climate: Can optimality theory improve the predictability of land surface models?* </span> Following her PhD, Manon worked as a Postdoctoral Researcher on our ARC grant exploring how vulnerable eucalypts are to future drought
 
-Postdoctoral Researcher:
-Manon worked on our Australian Research Council grant exploring how vulnerable eucalypts are to future drought.
-
-Manon is a Minerva Fast Track fellow and group leader at the <a href="https://www.bgc-jena.mpg.de/person/msabot/4777702" style="color:#16a085;">Max Planck Institute for Biogeochemistry</a>.
+Manon is a Minerva Fast Track fellow and group leader at the <a href="https://www.bgc-jena.mpg.de/person/msabot/4777702" style="color:#16a085;">Max Planck Institute for Biogeochemistry</a>
 
 <a href="https://scholar.google.com.au/citations?hl=en&user=Pce-a8UAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
@@ -134,9 +135,9 @@ Manon is a Minerva Fast Track fellow and group leader at the <a href="https://ww
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/sami.jpg"/>
 
-Sami Rifai, Postdoctoral Researcher on the ARC Discovery: "How vulnerable are eucalypts to future droughts?".
+Sami Rifai, Postdoctoral Researcher on the ARC Discovery: "How vulnerable are eucalypts to future droughts?"
 
-Sami now a lecturer in the School of Biological Sciences at the <a href="https://researchers.adelaide.edu.au/profile/sami.rifai" style="color:#16a085;">University of Adelaide</a>.
+Sami now a lecturer in the School of Biological Sciences at the <a href="https://researchers.adelaide.edu.au/profile/sami.rifai" style="color:#16a085;">University of Adelaide</a>
 
 <a href="https://scholar.google.com.au/citations?hl=en&user=2GmEDKAAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
@@ -146,7 +147,9 @@ Sami now a lecturer in the School of Biological Sciences at the <a href="https:/
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/jim.jpeg"/>
 
-Jinyan (Jim) Yang, PhD student, Thesis: <span style="color:#16a085">*Modelling the carbon uptake of Australian evergreen ecosystems under rising [CO<sub>2</sub>] and water limitations* </span>. Jim is now working as a Postdoc at CSIRO Environment.
+Jinyan (Jim) Yang, PhD student, Thesis: <span style="color:#16a085">*Modelling the carbon uptake of Australian evergreen ecosystems under rising [CO<sub>2</sub>] and water limitations* </span>.
+
+Jim is now working as a Postdoc at CSIRO Environment
 
 <a href="https://scholar.google.com.au/citations?hl=en&user=6f7VyFoAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
@@ -158,7 +161,7 @@ Jinyan (Jim) Yang, PhD student, Thesis: <span style="color:#16a085">*Modelling t
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/ned.png"/>
 
-Ned Haughton, PhD student, Thesis: <span style="color:#16a085">*On the predictability of land surface fluxes* </span>.
+Ned Haughton, PhD student, Thesis: <span style="color:#16a085">*On the predictability of land surface fluxes* </span>
 
 Ned is now working as a risk analyst at Climate Risk. <a href="https://scholar.google.com.au/citations?hl=en&user=iMq-xHEAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
