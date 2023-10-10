@@ -24,7 +24,7 @@ exposed to elevated carbon dioxide. <i>In review</i>. </p></li>
 
 <li><p> Damasceno, A., Garcia, S., Aleixo, I., Menezes, J., Pereira, I., Correa L. M., <b>De Kauwe M. G.</b>, Ferrer, V. R., Fleischer, K., Grams, T. E. E., Guedes, A., Hartley, I. P., Kruijt, B., Lugli, L. F., Martins, N. P., Norby, R. J., Pires-Santos, J. S., Portela, B., Rammig, A., Santana, F. D., Santos, Y., Souza, C. C., Ushida, G., Lapola, D. M., Quesada, C. A., and Domingues, T. F. (2023) In situ short-term responses of Amazonian understory plants to elevated CO<sub>2</sub>. <i>In review</i>. </p></li>
 
-<li><p> Stephens, C. M., Band, L. E.,  Johnson, F. M., Marshall, L. A., Medlyn, B. E., <b>De Kauwe M. G.</b> and Ukkola, A. M. (2023) Changes in blue/green water partitioning under severe drought. <i>In review</i>. </p></li>
+
 
 
 <li><p> <sup>&#x02021;</sup><u>Rifai, S.</u>, <b>De Kauwe M. G.</b>, Gallagher, R., Cernusak, L., Meir, P., and Pitman, A. J. (2023) Bushfire recovery trajectories are structured by burn severity and the cessation of drought: predicting time-to-recover from recent Australian mega-fires. <i>In review</i>. </p></li>
@@ -35,6 +35,8 @@ exposed to elevated carbon dioxide. <i>In review</i>. </p></li>
 ### In print
 
 <ol reversed>
+
+<li><p> Stephens, C. M., Band, L. E.,  Johnson, F. M., Marshall, L. A., Medlyn, B. E., <b>De Kauwe M. G.</b> and Ukkola, A. M. (2023) Changes in blue/green water partitioning under severe drought. <i>Water Resources Research</i>, accepted. </p></li>
 
 <li><p> Lipson M., Grimmond, S., Best, M., Abramowitz, G., Coutts, A., Tapper, N., Baik, J-J., Beyers, M., Blunn, L., Boussetta, S., Bou-Zeid, E., <b>De Kauwe M. G.</b>, De Munck, C., Demuzere, M, Fatichi, S., Fortuniak, K., Han, B-S., Hendry, M., Kikegawa, Y., Kondo, H., Lee, D-I., Lee, S-H., Lemonsu, A., Machado, T., Manoli, G., Martilli, A., Masson, V., McNorton, J., Meili, N., Meyer, D., Nice, K., Oleson, K., Park, S-B., Roth, M., Schietter, R., Simon-Moral, A., Steeneveld, G-J., Sun, T., Takane, Y., Thatcher, M., Tsiringakis, A., Varentsov, M., Wang, C., Wang, Z. and Pitman, A. (2023) Evaluation of 30 urban land surface models in the Urban-PLUMBER project: Phase 1 results. <i>Quarterly Journal of the Royal Meteorological Society</i>, accepted. </p></li>
 
