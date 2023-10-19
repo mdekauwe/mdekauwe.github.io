@@ -75,11 +75,13 @@ The city of Bristol is a great place to <a href="https://visitbristol.co.uk/insp
 
 ### Current opportunities:
 
+- We are recruiting a NERC PhD student to work on a: <a href="https://www.bristol.ac.uk/biology/courses/postgraduate/phdstudentships/" style="color:#16a085">Forests on the edge: examining the vegetation’s recovery following climate extremess</a>. This PhD is co-supervised by Prof. Lina Mercado at Exeter University and Dr Eddy Robertson at the UK Met Office. The deadline to apply is: Tuesday 9 January, 2024.
+
 - We will be recruiting a Sri Lankan citizen for a 4-year PhD to identify and cultivate varieties of tea crop that exhibit resistance to drought conditions in the tea growing regions of in Sri Lanka (~January)
 
 - We will be recruiting for a 1.5-year postdoc to work on our newly funded NERC grant (~September)
 
-- I am very happy to support PhD applicants interested in applying for a <a href="https://research.google/outreach/phd-fellowship/" style="color:#16a085"> Google PhD Fellowship</a>. Students interested in the application of machine learning to better understanding vegetation responses to heatwaves and droughts should please get in touch. Further information can be found at: <a href="https://research.google/outreach/faq/?category=phd" style="color:#16a085">click me</a>.
+
 
 ### Graduate:
 
