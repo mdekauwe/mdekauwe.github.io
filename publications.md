@@ -13,8 +13,6 @@ subtitle:
 
 <li><p> <sup>&#8224;</sup><u>Teckentrup, L.</u>, <b>De Kauwe, M. G.</b>, Pitman, A. J., Ukkola, A. M., Wårlind, D. and Smith, B. (2023) Resolving uncertainty in the response of Australia's terrestrial carbon cycle to projected climate change. <i>In review</i>. </p></li>
 
-<li><p> Paschalis, A., <b>De Kauwe M. G.</b>, Sabot, M., and Fatichi, S. (2023) When do plant hydraulics matter in  terrestrial biosphere modelling?. <i>In review</i>. </p></li>
-
 <li><p> <sup>&#8224;</sup><u>Page, J. C.</u>, Abramowitz, G, <b>De Kauwe M. G.</b>, and Pitman, A. J. (2023) re Plant Functional Types Fit for Purpose? <i>In review</i>. </p></li>
 
 <li><p> Missen, M. L., <b>De Kauwe M. G.</b> and Hovenden, M. J. (2023) Photosynthetic benefit increase with decreasing irrigation frequency in a temperate grassland
@@ -35,6 +33,8 @@ exposed to elevated carbon dioxide. <i>In review</i>. </p></li>
 ### In print
 
 <ol reversed>
+
+<li><p> Paschalis, A., <b>De Kauwe M. G.</b>, Sabot, M., and Fatichi, S. (2023) When do plant hydraulics matter in  terrestrial biosphere modelling? <i>Global Change Biology</i>, accepted. </p></li>
 
 <li><p> Keenan, T. F., Luo, X., Stocker, B. D., <b>De Kauwe M. G.</b>, Medlyn, B. E. and Prentice, I. C. (2023) A constraint on historic growth in global photosynthesis due to rising CO<sub>2</sub>. <i>Nature Climate Change</i>, accepted. </p></li>
 
