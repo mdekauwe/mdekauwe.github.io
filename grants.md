@@ -4,9 +4,13 @@ title:
 subtitle:
 ---
 
+<span style="color:#16a085"> 2024--2026: Australian Research Council Discovery  </span>
+<br><i> &ndash; Australian tropical rainforests in the face of climate change</i>
+<br> Cernusak, L., Rifai, S., <b>De Kauwe, M.</b>, Grossiord, C. and Slot, M.
+
 <span style="color:#16a085"> 2023--2025: Natural Environment Research Council (NERC) Standard Grant. </span>
 <br><i> &ndash; Ghosts from summers past: quantifying the role of vegetation legacy to climatic extremes</i>
-<br> <b>De Kauwe, M.</b>, Quaife, T., Meir, P., Rowland, L., Zaehle, S., Bastos, A., Ruehr, N., Peñuelas, J., Pitman, A., Medlyn, B., Walker, A. and Lu, D. 
+<br> <b>De Kauwe, M.</b>, Quaife, T., Meir, P., Rowland, L., Zaehle, S., Bastos, A., Ruehr, N., Peñuelas, J., Pitman, A., Medlyn, B., Walker, A. and Lu, D.
 
 <span style="color:#16a085"> 2022--2024: Australian Research Council Discovery  </span>
 <br><i> &ndash; Carbon in - carbon out: can carbon inputs keep up with losses in peatland?</i>
