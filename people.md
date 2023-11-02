@@ -34,17 +34,6 @@ Martin De Kauwe is an Associate Professor of Global Change Ecology at the <a hre
 
 ### Research group
 
-<img style="padding: 10px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/gabriel.jpg"/>
-
-Gabriel Banstarck Marandola is a visiting master's student from the State University of Campinas, under the supervision of Professor David Lapola.
-
-Gabriel has been measuring light and CO<sub>2</sub> response curves from understorey species in the Amazon Open-Top Chamber CO<sub>2</sub> experiment.
-
-<a href="mailto:g171857@dac.unicamp.br" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
 <img style="padding: 10px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/cale.jpeg"/>
 
 Cale Baguley is a Postdoctoral Researcher at the University of Bristol.
@@ -84,6 +73,16 @@ Thesis: <span style="color:#16a085">*Will rising CO2 concentrations save plants 
 
 ## Alumni
 
+<img style="padding: 00px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/gabriel.jpg"/>
+
+Gabriel Banstarck Marandola, visiting master's student from the State University of Campinas.
+
+Gabriel has been measuring light and CO<sub>2</sub> response curves from understorey species in the Amazon Open-Top Chamber CO<sub>2</sub> experiment.
+
+<a href="mailto:g171857@dac.unicamp.br" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
+
+<p>&nbsp;</p>
+
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/Chunhui_Zhan.jpeg"/>
 
 Chunhui Zhan, visiting PhD student from the Max Planck Institute for Biochemistry.
@@ -121,7 +120,6 @@ Mengyuan is now working as a Postdoc at the University of New South Wales.
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/manon.jpeg"/>
 
@@ -132,7 +130,6 @@ Manon is a Minerva Fast Track fellow and group leader at the <a href="https://ww
 <a href="mailto:msabot@bgc-jena.mpg.de" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
 <a href="https://scholar.google.com.au/citations?hl=en&user=Pce-a8UAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
-<p>&nbsp;</p>
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/sami.jpg"/>
 
@@ -142,7 +139,6 @@ Sami now a lecturer in the School of Biological Sciences at the <a href="https:/
 
 <a href="https://scholar.google.com.au/citations?hl=en&user=2GmEDKAAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -157,8 +153,6 @@ Jim is now working as a Postdoc at CSIRO Environment.
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/ned.png"/>
 
@@ -170,9 +164,8 @@ Ned is now working as a risk analyst at Climate Risk.
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
-#### Mini reunion in Bristol, 2022
+### Mini reunion in Bristol, 2022
 <img style="padding: 0px 10px 50px 0px; width: 80%; height: 80%; float: left;" align="middle" src="assets/img/bristol_reunion.jpg"/>
 
 
