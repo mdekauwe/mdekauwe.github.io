@@ -7,7 +7,9 @@ subtitle:
 
 ### In review
 
-<ol reversed start="112">
+<ol reversed start="113">
+
+<li><p> Mu, M., Sabot, M. E., Ukkola, A. M., Rifai, S. W., <b>De Kauwe, M. G.</b>, Hobeichi, S. and Pitman, A. J. (2023) Examining the role of biophysical feedback on simulated temperature extremes during the Tinderbox Drought and Black Summer bushfires in Southeast Australia.  <i>In review</i>. </p></li>
 
 <li><p> Zhan, C., Orth, R., Yang, H, Reichstein, M., Zaehle, S., <b>De Kauwe, M. G.</b>, Rammig, A., Winkler, A. J., (2023) Estimating the CO<sub>2</sub> fertilization effect on extratropical forest productivity from Flux-tower Observations. <i>In review</i>. </p></li>
 
