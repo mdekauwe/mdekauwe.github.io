@@ -7,7 +7,9 @@ subtitle:
 
 ### In review
 
-<ol reversed start="113">
+<ol reversed start="114">
+
+<li><p> Abramowitz, G., Ukkola, A., Hobeichi, S., Cranko Page, J., Lipson, M., <b>De Kauwe, M. G.</b>, Green, S., Brenner, C., Frame, J., Nearing, G., Clark, M., Best, M., Anthoni, P., Arduini, G., Boussetta, S., Caldararu, S., Cho, K., Cuntz, M., Fairbairn, D., Ferguson, C., Kim, H., Kim, Y., Knauer, J., Lawrence, D., Luo, X., Malyshev, S., Nitta, T., Ogee, J., Oleson, K., Ottlé, C., Peylin, P., de Rosnay, P., Rumbold, H., Su, B., Vuichard, N., Walker, A., Wang-Faivre, X., Wang, Y., and Zeng, Y. (2023) On the predictability of turbulent fluxes from land: PLUMBER2 MIP experimental description and preliminary results.  <i>In review</i>. </p></li>
 
 <li><p> Mu, M., Sabot, M. E., Ukkola, A. M., Rifai, S. W., <b>De Kauwe, M. G.</b>, Hobeichi, S. and Pitman, A. J. (2023) Examining the role of biophysical feedback on simulated temperature extremes during the Tinderbox Drought and Black Summer bushfires in Southeast Australia.  <i>In review</i>. </p></li>
 
