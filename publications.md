@@ -9,22 +9,22 @@ subtitle:
 
 <ol reversed start="114">
 
-<li><p> Abramowitz, G., Ukkola, A., Hobeichi, S., Cranko Page, J., Lipson, M., <b>De Kauwe, M. G.</b>, Green, S., Brenner, C., Frame, J., Nearing, G., Clark, M., Best, M., Anthoni, P., Arduini, G., Boussetta, S., Caldararu, S., Cho, K., Cuntz, M., Fairbairn, D., Ferguson, C., Kim, H., Kim, Y., Knauer, J., Lawrence, D., Luo, X., Malyshev, S., Nitta, T., Ogee, J., Oleson, K., Ottlé, C., Peylin, P., de Rosnay, P., Rumbold, H., Su, B., Vuichard, N., Walker, A., Wang-Faivre, X., Wang, Y., and Zeng, Y. (2023) On the predictability of turbulent fluxes from land: PLUMBER2 MIP experimental description and preliminary results.  <i>In review</i>. </p></li>
+<li><p> Abramowitz, G., Ukkola, A., Hobeichi, S., Cranko Page, J., Lipson, M., <b>De Kauwe, M. G.</b>, Green, S., Brenner, C., Frame, J., Nearing, G., Clark, M., Best, M., Anthoni, P., Arduini, G., Boussetta, S., Caldararu, S., Cho, K., Cuntz, M., Fairbairn, D., Ferguson, C., Kim, H., Kim, Y., Knauer, J., Lawrence, D., Luo, X., Malyshev, S., Nitta, T., Ogee, J., Oleson, K., Ottlé, C., Peylin, P., de Rosnay, P., Rumbold, H., Su, B., Vuichard, N., Walker, A., Wang-Faivre, X., Wang, Y., and Zeng, Y. (2024) On the predictability of turbulent fluxes from land: PLUMBER2 MIP experimental description and preliminary results.  <i>In review</i>. </p></li>
 
-<li><p> Mu, M., Sabot, M. E., Ukkola, A. M., Rifai, S. W., <b>De Kauwe, M. G.</b>, Hobeichi, S. and Pitman, A. J. (2023) Examining the role of biophysical feedback on simulated temperature extremes during the Tinderbox Drought and Black Summer bushfires in Southeast Australia.  <i>In review</i>. </p></li>
+<li><p> Mu, M., Sabot, M. E., Ukkola, A. M., Rifai, S. W., <b>De Kauwe, M. G.</b>, Hobeichi, S. and Pitman, A. J. (2024) Examining the role of biophysical feedback on simulated temperature extremes during the Tinderbox Drought and Black Summer bushfires in Southeast Australia.  <i>In review</i>. </p></li>
 
-<li><p> Zhan, C., Orth, R., Yang, H, Reichstein, M., Zaehle, S., <b>De Kauwe, M. G.</b>, Rammig, A., Winkler, A. J., (2023) Estimating the CO<sub>2</sub> fertilization effect on extratropical forest productivity from Flux-tower Observations. <i>In review</i>. </p></li>
+<li><p> Zhan, C., Orth, R., Yang, H, Reichstein, M., Zaehle, S., <b>De Kauwe, M. G.</b>, Rammig, A., Winkler, A. J., (2024) Estimating the CO<sub>2</sub> fertilization effect on extratropical forest productivity from Flux-tower Observations. <i>In review</i>. </p></li>
 
-<li><p> <sup>&#8224;</sup><u>Teckentrup, L.</u>, <b>De Kauwe, M. G.</b>, Pitman, A. J., Ukkola, A. M., Wårlind, D. and Smith, B. (2023) Resolving uncertainty in the response of Australia's terrestrial carbon cycle to projected climate change. <i>In review</i>. </p></li>
+<li><p> <sup>&#8224;</sup><u>Teckentrup, L.</u>, <b>De Kauwe, M. G.</b>, Pitman, A. J., Ukkola, A. M., Wårlind, D. and Smith, B. (2024) Resolving uncertainty in the response of Australia's terrestrial carbon cycle to projected climate change. <i>In review</i>. </p></li>
 
 
-<li><p> Missen, M. L., <b>De Kauwe M. G.</b> and Hovenden, M. J. (2023) Photosynthetic benefit increase with decreasing irrigation frequency in a temperate grassland
+<li><p> Missen, M. L., <b>De Kauwe M. G.</b> and Hovenden, M. J. (2024) Photosynthetic benefit increase with decreasing irrigation frequency in a temperate grassland
 exposed to elevated carbon dioxide. <i>In review</i>. </p></li>
 
-<li><p> Damasceno, A., Garcia, S., Aleixo, I., Menezes, J., Pereira, I., Correa L. M., <b>De Kauwe M. G.</b>, Ferrer, V. R., Fleischer, K., Grams, T. E. E., Guedes, A., Hartley, I. P., Kruijt, B., Lugli, L. F., Martins, N. P., Norby, R. J., Pires-Santos, J. S., Portela, B., Rammig, A., Santana, F. D., Santos, Y., Souza, C. C., Ushida, G., Lapola, D. M., Quesada, C. A., and Domingues, T. F. (2023) In situ short-term responses of Amazonian understory plants to elevated CO<sub>2</sub>. <i>In review</i>. </p></li>
+<li><p> Damasceno, A., Garcia, S., Aleixo, I., Menezes, J., Pereira, I., Correa L. M., <b>De Kauwe M. G.</b>, Ferrer, V. R., Fleischer, K., Grams, T. E. E., Guedes, A., Hartley, I. P., Kruijt, B., Lugli, L. F., Martins, N. P., Norby, R. J., Pires-Santos, J. S., Portela, B., Rammig, A., Santana, F. D., Santos, Y., Souza, C. C., Ushida, G., Lapola, D. M., Quesada, C. A., and Domingues, T. F. (2024) In situ short-term responses of Amazonian understory plants to elevated CO<sub>2</sub>. <i>In review</i>. </p></li>
 
 
-<li><p> <sup>&#x02021;</sup><u>Rifai, S.</u>, <b>De Kauwe M. G.</b>, Gallagher, R., Cernusak, L., Meir, P., and Pitman, A. J. (2023) Bushfire recovery trajectories are structured by burn severity and the cessation of drought: predicting time-to-recover from recent Australian mega-fires. <i>In review</i>. </p></li>
+<li><p> <sup>&#x02021;</sup><u>Rifai, S.</u>, <b>De Kauwe M. G.</b>, Gallagher, R., Cernusak, L., Meir, P., and Pitman, A. J. (2024) Bushfire recovery trajectories are structured by burn severity and the cessation of drought: predicting time-to-recover from recent Australian mega-fires. <i>In review</i>. </p></li>
 
 
 </ol>
@@ -33,7 +33,7 @@ exposed to elevated carbon dioxide. <i>In review</i>. </p></li>
 
 <ol reversed>
 
-<li><p> <sup>&#8224;</sup><u>Page, J. C.</u>, Abramowitz, G, <b>De Kauwe M. G.</b>, and Pitman, A. J. (2023) Are Plant Functional Types Fit for Purpose? <i>Geophysical Research Letters</i>, accepted. </p></li>
+<li><p> <sup>&#8224;</sup><u>Page, J. C.</u>, Abramowitz, G, <b>De Kauwe M. G.</b>, and Pitman, A. J. (2024) Are Plant Functional Types Fit for Purpose? <i>Geophysical Research Letters</i>, 51, e2023GL104962.
 
 <li><p> Paschalis, A., <b>De Kauwe M. G.</b>, Sabot, M., and Fatichi, S. (2023) When do plant hydraulics matter in  terrestrial biosphere modelling? <i>Global Change Biology</i>, accepted. </p></li>
 
