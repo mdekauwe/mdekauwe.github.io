@@ -20,6 +20,8 @@ The city of Bristol is a great place to <a href="https://visitbristol.co.uk/insp
 - We are recruiting a NERC PhD student to work on a: <a href="https://www.bristol.ac.uk/biology/courses/postgraduate/phdstudentships/" style="color:#16a085">Forests on the edge: examining the vegetation’s recovery following climate extremess</a>. This PhD is co-supervised by Prof. Lina Mercado at Exeter University and Dr Eddy Robertson at the UK Met Office. The deadline to apply is: Tuesday 9 January, 2024. To apply, it is important that you've read through the <a href="https://www.bristol.ac.uk/study/postgraduate/research/great-western-four-doctoral-training-partnership-nerc/" style="color:#16a085">prospectus</a> as well as the advert. The prospectus helps explain the application process.
 -->
 
+### Current opportunities:
+- <a href="https://research.google/outreach/phd-fellowship/" style="color:#16a085">Google PhD Fellowships 2024:</a> Student's interested in applying machine learning to understanding ecosystem responses to climate extremes, please get in touch. The deadline is Wednesday 28th February 2024.
 
 
 
