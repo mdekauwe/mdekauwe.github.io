@@ -23,7 +23,7 @@ We tackle a diverse range of questions that connect terrestrial ecosystems with 
 - what role do urban trees play in mitigating climate-related warming & what species should we be planting in cities of the future?
 
 <div class="floated_img">
-<img src="assets/img/wordcloud.svg" alt="Some image" >
+<img src="assets/img/wordcloud.png" alt="Some image" >
 </div>
 
 <p> Modelling is central tool used by our research group to understand, disentangle and project how climate and climate change will shape future vegetation-atmosphere dynamics. Our group employs models of varying complexity, from simple (<a href="https://github.com/mdekauwe/GDAY" style="color:#16a085">GDAY</a>), to the more complex: stand (<a href="http://maespa.github.io/" style="color:#16a085;">MAESPA</a>), land surface (<a href="https://trac.nci.org.au/trac/cable/wiki" style="color:#16a085;">CABLE</a>, <a href="https://jules.jchmr.org/" style="color:#16a085;">JULES</a>), dynamic vegetation (<a href="http://iis4.nateko.lu.se/lpj-guess/" style="color:#16a085;">LPJ-GUESS</a>; SDGVM) and coupled-climate (<a href="https://www.csiro.au/en/Research/OandA/Areas/Assessing-our-climate/CAWCR/ACCESS" style="color:#16a085;">ACCESS</a>) models. </p>
