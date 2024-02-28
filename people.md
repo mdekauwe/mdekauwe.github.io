@@ -47,17 +47,6 @@ Cale is working on our UK Natural Environment Research Council (NERC) grant to c
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<img style="padding: 10px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/jon.jpeg"/>
-
-Jonathan Page is a PhD student at the University of New South Wales.
-
-Thesis: <span style="color:#16a085">*Lags and legacies: understanding the role of antecedent effects on grassland biomass responses to rising CO2* </span>
-
-<a href="mailto:jon.page@unsw.edu.au" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
-<a href="https://scholar.google.com.au/citations?hl=en&user=yEtrmdMAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
-
-<p>&nbsp;</p>
-
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/melika.png"/>
 
@@ -72,6 +61,17 @@ Thesis: <span style="color:#16a085">*Will rising CO2 concentrations save plants 
 <p>&nbsp;</p>
 
 ## Alumni
+
+<img style="padding: 10px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/jon.jpeg"/>
+
+Jonathan Page, PhD student, Thesis: <span style="color:#16a085">*Lags and legacies: understanding the role of antecedent effects on grassland biomass responses to rising CO2* </span>
+
+John is now working as a postdoc at the University of New South Wales.
+
+<a href="mailto:jon.page@unsw.edu.au" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
+<a href="https://scholar.google.com.au/citations?hl=en&user=yEtrmdMAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
+
+<p>&nbsp;</p>
 
 <img style="padding: 00px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/gabriel.jpg"/>
 
