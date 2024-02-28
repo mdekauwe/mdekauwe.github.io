@@ -34,6 +34,17 @@ Martin De Kauwe is an Associate Professor of Global Change Ecology at the <a hre
 
 ### Research group
 
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/ying.png"/>
+
+Ying Hu, visiting PhD student from the Research Center for Eco-environmental Sciences, Chinese Academy of Sciences.
+
+Ying Hu is exploring the impact of climate change on ecosystems, including ecosystem functions (ecosystem resilience, ecosystem water use efficiency, etc.) and ecosystem processes.
+
+<a href="mailto:huying20@mails.ucas.ac.cn" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
+<a href="https://scholar.google.com.au/citations?hl=en&user=oo7FaoYAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
+
+<p>&nbsp;</p>
+
 <img style="padding: 10px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/cale.jpeg"/>
 
 Cale Baguley is a Postdoctoral Researcher at the University of Bristol.
