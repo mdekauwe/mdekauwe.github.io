@@ -45,7 +45,7 @@ Ying Hu is exploring the impact of climate change on ecosystems, including ecosy
 
 <p>&nbsp;</p>
 
-<img style="padding: 10px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/cale.jpeg"/>
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/cale.jpeg"/>
 
 Cale Baguley is a Postdoctoral Researcher at the University of Bristol.
 
