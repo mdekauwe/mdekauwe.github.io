@@ -24,14 +24,13 @@ subtitle:
 exposed to elevated carbon dioxide. <i>In review</i>. </p></li>
 
 
-<li><p> <sup>&#x02021;</sup><u>Rifai, S.</u>, <b>De Kauwe M. G.</b>, Gallagher, R., Cernusak, L., Meir, P., and Pitman, A. J. (2024) Bushfire recovery trajectories are structured by burn severity and the cessation of drought: predicting time-to-recover from recent Australian mega-fires. <i>In review</i>. </p></li>
-
-
 </ol>
 
 ### In print
 
 <ol reversed>
+
+<li><p> <sup>&#x02021;</sup><u>Rifai, S.</u>, <b>De Kauwe M. G.</b>, Gallagher, R., Cernusak, L., Meir, P., and Pitman, A. J. (2024) Burn severity and post-fire weather are key to predicting time-to-recover from Australian forest fires. <i>Earth's Future</i>, accepted. </p></li>
 
 <li><p> Domingues, T. F., Damasceno, A., Garcia, S., Aleixo, I., Fonseca, I., Menezes, J., Gomes, J. C., Pereira, I., <b>De Kauwe M. G.</b>, Ferrer, V. R., Fleischer, K., Grams, T., Erhard E., Guedes, A. V., Hartley, I. P., Kruijt, B., Lugli, L. F., Martins, N. P., Norby, R. J., Pires-Santos, J. S., Portela, B. T. T., Rammig, A., Oliverira, L. R d., Santana, F. D., Santos, Y., Souza, C. C., Ushida, G., Lapola, D. M., Quesada, C. A. and Nobre, C. A. (2024) In situ short-term responses of Amazonian understory plants to elevated CO<sub>2</sub>. <i>Plant, Cell & Environment</i>, accepted. </p></li>
 
