@@ -59,21 +59,21 @@ Cale is working on our UK Natural Environment Research Council (NERC) grant to c
 <p>&nbsp;</p>
 
 
-<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/melika.png"/>
-
-Melika Missen is a PhD student at the University of Tasmania.
-
-Thesis: <span style="color:#16a085">*Will rising CO2 concentrations save plants from drought stress?* </span>
-
-<a href="mailto:jmelika.missen@utas.edu.au" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
 ## Alumni
 
-<img style="padding: 10px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/jon.jpeg"/>
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/melika.png"/>
+
+Melika Missen, PhD student, Thesis: <span style="color:#16a085">*Will rising CO2 concentrations save plants from drought stress?* </span>
+
+Melika has just passed her PhD!
+
+<a href="mailto:jmelika.missen@utas.edu.au" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
+<a href="https://scholar.google.com/citations?user=RJHRL60AAAAJ&hl=en" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/jon.jpeg"/>
 
 Jonathan Page, PhD student, Thesis: <span style="color:#16a085">*Lags and legacies: understanding the role of antecedent effects on grassland biomass responses to rising CO2* </span>
 
@@ -84,7 +84,7 @@ John is now working as a postdoc at the University of New South Wales.
 
 <p>&nbsp;</p>
 
-<img style="padding: 00px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/gabriel.jpg"/>
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/gabriel.jpg"/>
 
 Gabriel Banstarck Marandola, visiting master's student from the State University of Campinas.
 
