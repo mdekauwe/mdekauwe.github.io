@@ -34,6 +34,17 @@ Martin De Kauwe is an Associate Professor of Global Change Ecology at the <a hre
 
 ### Research group
 
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/ziqi.jpeg"/>
+
+Ziqi Zhu, visiting PhD student from Tsinghua Univerisity.
+
+Ziqi Zhu is applying eco-evolutionary optimality principles to understand trends in seasonal dynamics in leaf growth and the sensitivity of leaf biomass to future climate change.
+
+<a href="mailto:zq-zhu20@mails.tsinghua.edu.cn" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
+<a href="https://www.researchgate.net/profile/Ziqi-Zhu-10/publications" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
+
+<p>&nbsp;</p>
+
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/ying.png"/>
 
 Ying Hu, visiting PhD student from the Research Center for Eco-environmental Sciences, Chinese Academy of Sciences.
