@@ -18,7 +18,6 @@ subtitle:
 
 <li><p> Abramowitz, G., Ukkola, A., Hobeichi, S., Cranko Page, J., Lipson, M., <b>De Kauwe, M. G.</b>, Green, S., Brenner, C., Frame, J., Nearing, G., Clark, M., Best, M., Anthoni, P., Arduini, G., Boussetta, S., Caldararu, S., Cho, K., Cuntz, M., Fairbairn, D., Ferguson, C., Kim, H., Kim, Y., Knauer, J., Lawrence, D., Luo, X., Malyshev, S., Nitta, T., Ogee, J., Oleson, K., Ottlé, C., Peylin, P., de Rosnay, P., Rumbold, H., Su, B., Vuichard, N., Walker, A., Wang-Faivre, X., Wang, Y., and Zeng, Y. (2024) On the predictability of turbulent fluxes from land: PLUMBER2 MIP experimental description and preliminary results.  <i>In review</i>. </p></li>
 
-<li><p> Mu, M., Sabot, M. E., Ukkola, A. M., Rifai, S. W., <b>De Kauwe, M. G.</b>, Hobeichi, S. and Pitman, A. J. (2024) Examining the role of biophysical feedback on simulated temperature extremes during the Tinderbox Drought and Black Summer bushfires in Southeast Australia.  <i>In review</i>. </p></li>
 
 <li><p> <sup>&#8224;</sup><u>Teckentrup, L.</u>, <b>De Kauwe, M. G.</b>, Pitman, A. J., Ukkola, A. M., Wårlind, D. and Smith, B. (2024) Resolving uncertainty in the response of Australia's terrestrial carbon cycle to projected climate change. <i>In review</i>. </p></li>
 
@@ -31,6 +30,8 @@ subtitle:
 ### In print
 
 <ol reversed>
+
+<li><p> Mu, M., Sabot, M. E., Ukkola, A. M., Rifai, S. W., <b>De Kauwe, M. G.</b>, Hobeichi, S. and Pitman, A. J. (2024) Examining the role of biophysical feedback on simulated temperature extremes during the Tinderbox Drought and Black Summer bushfires in Southeast Australia.  Weather and Climate Extremes, accepted. </p></li>
 
 <li><p> Zhan, C., Orth, R., Yang, H, Reichstein, M., Zaehle, S., <b>De Kauwe, M. G.</b>, Rammig, A., Winkler, A. J., (2024) Estimating the CO<sub>2</sub> fertilization effect on extratropical forest productivity from Flux-tower Observations. <i>Journal of Geophysical Research - Biogeosciences</i>, accepted. </p></li>
 
