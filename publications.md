@@ -7,8 +7,9 @@ subtitle:
 
 ### In review
 
-<ol reversed start="117">
+<ol reversed start="118">
 
+<li><p> Missen, M. L., <b>De Kauwe M. G.</b> and Hovenden, M. J. (2024) Elevated CO<sub>2</sub> reduces leaf elongation rates and leaf length in perennial ryegrass in Southern Tasmania. <i>In review</i>. </p></li>
 
 <li><p> Kumarathunge, D. P., Medlyn, B. E., Drake, J. E., <b>De Kauwe, M. G.</b>, Tjoelker, M. G., Aspinwall, M. J., Barton, C. V. M., Campany, C. E., Crous, K. Y., Yang, J., and Jiang, M. (2024) Determinants of the temperature response of canopy photosynthesis.  <i>In review</i>. </p></li>
 
@@ -23,6 +24,8 @@ subtitle:
 
 
 <li><p> Missen, M. L., <b>De Kauwe M. G.</b> and Hovenden, M. J. (2024) Increasing photosynthetic benefit with decreasing irrigation frequency in an Australian temperate grassland exposed to elevated carbon dioxide. <i>In review</i>. </p></li>
+
+
 
 
 </ol>
