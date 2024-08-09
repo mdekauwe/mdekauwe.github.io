@@ -46,7 +46,7 @@ subtitle:
 
 <li><p> Domingues, T. F., Damasceno, A., Garcia, S., Aleixo, I., Fonseca, I., Menezes, J., Gomes, J. C., Pereira, I., <b>De Kauwe M. G.</b>, Ferrer, V. R., Fleischer, K., Grams, T., Erhard E., Guedes, A. V., Hartley, I. P., Kruijt, B., Lugli, L. F., Martins, N. P., Norby, R. J., Pires-Santos, J. S., Portela, B. T. T., Rammig, A., Oliverira, L. R d., Santana, F. D., Santos, Y., Souza, C. C., Ushida, G., Lapola, D. M., Quesada, C. A. and Nobre, C. A. (2024) In situ short-term responses of Amazonian understory plants to elevated CO<sub>2</sub>. <i>Plant, Cell & Environment</i>, accepted. </p></li>
 
-<li><p> <sup>&#8224;</sup><u>Page, J. C.</u>, Abramowitz, G, <b>De Kauwe M. G.</b>, and Pitman, A. J. (2024) Are Plant Functional Types Fit for Purpose? <i>Geophysical Research Letters</i>, 51, e2023GL104962.
+<li><p> <sup>&#8224;</sup><u>Page, J. C.</u>, Abramowitz, G, <b>De Kauwe M. G.</b>, and Pitman, A. J. (2024) Are Plant Functional Types Fit for Purpose? <i>Geophysical Research Letters</i>, 51, e2023GL104962.</p></li>
 
 <li><p> Paschalis, A., <b>De Kauwe M. G.</b>, Sabot, M., and Fatichi, S. (2023) When do plant hydraulics matter in  terrestrial biosphere modelling? <i>Global Change Biology</i>, accepted. </p></li>
 
@@ -267,6 +267,8 @@ subtitle:
 ### Reports
 
 <ol reversed>
+
+
 
 <li><p> Duncanson, L., Armston, J., Disney, M., Avitabile, V., Barbier, N., Calders, K., Carter, S., Chave, J., Herold, M., MacBean, N., McRoberts, R., Minor, D., Paul, K., Réjou-Méchain, M., Roxburgh, S., Williams, M., Albinet, C., Baker, T., Bartholomeus, H., Bastin, J.F., Coomes, D., Crowther, T., Davies, S., de Bruin, S., <b>De Kauwe, M.</b>, Domke, G., Dubayah, R., Falkowski, M., Fatoyinbo, L., Goetz, S., Jantz, P., Jonckheere, I., Jucker, T., Kay, H., Kellner, J., Labriere, N., Lucas, R., Mitchard, E., Morsdorf, F., Naesset, E., Park, T., Phillips, O.L., Ploton, P., Quegan, S., Saatchi, S., Schaaf, C., Schepaschenko, D., Scipal, K., Stovall, A., Thiel, C., Wulder, M.A., Camacho, F., Nickeson, J., Román, M., Margolis, H. (2021). Aboveground Woody Biomass Product Validation Good Practices Protocol. Version 1.0. In L. Duncanson, M. Disney, J. Armston, J. Nickeson, D. Minor, and F. Camacho (Eds.), Good Practicesfor Satellite Derived Land Product Validation, (p. 238): Land Product Validation Subgroup (WGCV/CEOS), doi:10.5067/doc/ceoswgcv/lpv/agb.001.  </p></li>
 
