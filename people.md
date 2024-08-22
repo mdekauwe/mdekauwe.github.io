@@ -18,7 +18,7 @@ Martin De Kauwe is an Associate Professor of Global Change Ecology at the <a hre
 
 <span style="color:#16a085">2010–2017:</span> Research Fellow, Department of Biological Sciences, Macquarie University, Australia
 
-<span style="color:#16a085">2008–2010:</span>  Earth Observation and Land Surface Modeller, Centre for Ecology and Hydrology, England
+<span style="color:#16a085">2008–2010:</span> Land Surface Modeller, Centre for Ecology and Hydrology, England
 
 <a href="mailto:mdekauwe@gmail.com" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"></i></a> <a href="https://github.com/mdekauwe" class="social-links__entry" target="_blank"> <i class="fa fa fa-github fa-lg"></i></a> <a href="https://scholar.google.com.au/citations?user=ka3U7xcAAAAJ&hl=en" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a> <a href="https://twitter.com/mdekauwe82" class="social-links__entry" target="_blank"> <i class="fa fa-twitter fa-lg"></i></a>
 
@@ -34,27 +34,8 @@ Martin De Kauwe is an Associate Professor of Global Change Ecology at the <a hre
 
 ### Research group
 
-<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/ziqi.jpeg"/>
 
-Ziqi Zhu, visiting PhD student from Tsinghua Univerisity.
 
-Ziqi Zhu is applying eco-evolutionary optimality principles to understand trends in seasonal dynamics in leaf growth and the sensitivity of leaf biomass to future climate change.
-
-<a href="mailto:zq-zhu20@mails.tsinghua.edu.cn" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
-<a href="https://www.researchgate.net/profile/Ziqi-Zhu-10/publications" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
-
-<p>&nbsp;</p>
-
-<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/ying.png"/>
-
-Ying Hu, visiting PhD student from the Research Center for Eco-environmental Sciences, Chinese Academy of Sciences.
-
-Ying Hu is exploring the impact of climate change on ecosystems, including ecosystem functions (ecosystem resilience, ecosystem water use efficiency, etc.) and ecosystem processes.
-
-<a href="mailto:huying20@mails.ucas.ac.cn" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
-<a href="https://scholar.google.com.au/citations?hl=en&user=oo7FaoYAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
-
-<p>&nbsp;</p>
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/cale.jpeg"/>
 
@@ -71,6 +52,26 @@ Cale is working on our UK Natural Environment Research Council (NERC) grant to c
 
 
 ## Alumni
+
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/ziqi.jpeg"/>
+
+Ziqi Zhu, visiting PhD student from Tsinghua Univerisity. Ziqi is applying eco-evolutionary optimality principles to understand trends in seasonal dynamics in leaf growth.
+
+<a href="mailto:zq-zhu20@mails.tsinghua.edu.cn" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
+<a href="https://www.researchgate.net/profile/Ziqi-Zhu-10/publications" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/ying.png"/>
+
+Ying Hu, visiting PhD student from the Research Center for Eco-environmental Sciences, Chinese Academy of Sciences. Ying is exploring the impact of climate change on Chinese terrestrial ecosystems.
+
+<a href="mailto:huying20@mails.ucas.ac.cn" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
+<a href="https://scholar.google.com.au/citations?hl=en&user=oo7FaoYAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/melika.png"/>
 
@@ -123,7 +124,7 @@ Chunhui is examining the role of rising carbon dioxide on land-atmosphere intera
 
 Lina Teckentrup, PhD student, Thesis: <span style="color:#16a085">*The Future of Terrestrial Carbon in Australia* </span>
 
-Lina is now working as a Postdoc at the University of Western Sydney.
+Lina is now working as a research scientist at the Barcelona Supercomputer Center.
 
 <a href="mailto:l.teckentrup@unsw.edu.au" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
 <a href="https://scholar.google.com.au/citations?hl=en&user=MzjKIsoAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
