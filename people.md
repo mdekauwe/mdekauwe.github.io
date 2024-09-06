@@ -6,9 +6,9 @@ subtitle:
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/me.png"/>
 
-Martin De Kauwe is an Associate Professor of Global Change Ecology at the <a href="http://www.bristol.ac.uk/biology/" style="color:#16a085;">University of Bristol</a>. Martin's research group will continue to be split between Bristol and Sydney for the next few years.
+Martin De Kauwe is an Associate Professor of Global Change Ecology at the <a href="http://www.bristol.ac.uk/biology/" style="color:#16a085;">University of Bristol</a>.
 
-<p> Martin is the Co-Lead of the <a href="http://www.bristol.ac.uk/cabot/" style="color:#16a085;">Cabot Institute for the Environment's</a> Environmental Change theme. Martin is a member of the Scientific Steering Committee for the <a href="https://amazonface.inpa.gov.br/en/index.php" style="color:#16a085;">AmazonFACE</a> experiment. Martin is the former co-chair of the leadership committee for the <a href="https://trac.nci.org.au/trac/cable/wiki" style="color:#16a085;">CABLE</a> land surface model. Martin is also an Associate Editor for <a href="https://nph.onlinelibrary.wiley.com/journal/14698137" style="color:#16a085;">New Phytologist</a>, a former Associate Editor for <a href="https://www.biogeosciences.net/" style="color:#16a085;">Biogeosciences</a>, and a member of the Editorial Advisory Board for <a href="https://onlinelibrary.wiley.com/journal/13652486" style="color:#16a085;">Global Change Biology</a>.</p>
+<p> Martin serves as the Co-Lead of the <a href="http://www.bristol.ac.uk/cabot/" style="color:#16a085;">Cabot Institute for the Environment's</a> Environmental Change theme. He is also a member of the Scientific Steering Committee for the <a href="https://amazonface.inpa.gov.br/en/index.php" style="color:#16a085;">AmazonFACE</a> experiment and part of the senior management team for <a href="https://jules.jchmr.org/" style="color:#16a085;">JULES</a> (the UK land surface model) under the Joint Land Modelling Programme (JLMP). Additionally, Martin previously co-chaired the leadership committee for <a href="https://trac.nci.org.au/trac/cable/wiki" style="color:#16a085;">CABLE</a>, Australia's land surface model. Finally, Martin is an Associate Editor at <a href="https://nph.onlinelibrary.wiley.com/journal/14698137" style="color:#16a085;">New Phytologist</a>.</p>
 
 ### Research Positions
 
@@ -34,8 +34,17 @@ Martin De Kauwe is an Associate Professor of Global Change Ecology at the <a hre
 
 ### Research group
 
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/no_image.png"/>
 
+Thamali Kariyawasam is a PhD student at the University of Bristol. Her PhD will explore tea varieties optimised for cultivation with improved water-use efficiency and greater resilience to drought.
 
+Her PhD scholarship is a partnership between Bristol, the <a href="https://www.kew.org/" style="color:#16a085;">Royal Botanic Gardens, Kew</a>, the <a href="https://www.pdn.ac.lk/" style="color:#16a085;">University of Peradeniya in Sri Lanka</a>, and the
+<a href="https://www.tri.lk/" style="color:#16a085;">Tea Research Institute of Sri Lanka</a>, with generous funding from <a href="https://www.ahmadtea.com/" style="color:#16a085;">Ahmad Tea</a>.
+
+<a href="mailto:thamalik@agri.pdn.ac.lk" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg">
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/cale.jpeg"/>
 
