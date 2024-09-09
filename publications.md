@@ -32,7 +32,7 @@ subtitle:
 
 <ol reversed>
 
-<li><p> Rigatti, E., McDermid, S. S., Cook, B. I., <b>De Kauwe, M. G.</b> (2024) The Impact of Drought on Terrestrial Carbon in the West African Sahel: Implications for Natural Climate Solutions.  Journal of Geophysical Research - Biogeosciences, accepted. </p></li>
+<li><p> Rigatti, E., McDermid, S. S., Cook, B. I. and <b>De Kauwe, M. G.</b> (2024) The Impact of Drought on Terrestrial Carbon in the West African Sahel: Implications for Natural Climate Solutions.  Journal of Geophysical Research - Biogeosciences, accepted. </p></li>
 
 <li><p> Jongen, H.J., Lipson, M., Teuling, A.J., Grimmond, C.S.B., Baik, J.-J., Best, M., Demuzere, M., Fortuniak, K., Huang, Y., <b>De Kauwe, M. G.</b>, Li, R., McNorton, J., Meili, N., Oleson, K., Park, S.-B., Sun, T., Tsiringakis, A., Varentsov, M., Wang, C., Wang, Z.-H. and Steeneveld, G.J. (2024) The water balance representation in Urban-PLUMBER land surface models. Journal of Advances in Modeling Earth Systems, accepted. </p></li>
 
