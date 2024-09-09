@@ -17,7 +17,6 @@ subtitle:
 
 <li><p> Kumarathunge, D. P., Medlyn, B. E., Drake, J. E., <b>De Kauwe, M. G.</b>, Tjoelker, M. G., Aspinwall, M. J., Barton, C. V. M., Campany, C. E., Crous, K. Y., Yang, J., and Jiang, M. (2024) Determinants of the temperature response of canopy photosynthesis.  <i>In review</i>. </p></li>
 
-<li><p> Rigatti, E., McDermid, S. S., Cook, B. I., <b>De Kauwe, M. G.</b> (2024) The Impact of Drought on Terrestrial Carbon in the West African Sahel: Implications for Natural Climate Solutions.  <i>In review</i>. </p></li>
 
 <li><p> Abramowitz, G., Ukkola, A., Hobeichi, S., Cranko Page, J., Lipson, M., <b>De Kauwe, M. G.</b>, Green, S., Brenner, C., Frame, J., Nearing, G., Clark, M., Best, M., Anthoni, P., Arduini, G., Boussetta, S., Caldararu, S., Cho, K., Cuntz, M., Fairbairn, D., Ferguson, C., Kim, H., Kim, Y., Knauer, J., Lawrence, D., Luo, X., Malyshev, S., Nitta, T., Ogee, J., Oleson, K., Ottlé, C., Peylin, P., de Rosnay, P., Rumbold, H., Su, B., Vuichard, N., Walker, A., Wang-Faivre, X., Wang, Y., and Zeng, Y. (2024) On the predictability of turbulent fluxes from land: PLUMBER2 MIP experimental description and preliminary results.  <i>In review</i>. </p></li>
 
@@ -32,6 +31,8 @@ subtitle:
 ### In print
 
 <ol reversed>
+
+<li><p> Rigatti, E., McDermid, S. S., Cook, B. I., <b>De Kauwe, M. G.</b> (2024) The Impact of Drought on Terrestrial Carbon in the West African Sahel: Implications for Natural Climate Solutions.  Journal of Geophysical Research - Biogeosciences, accepted. </p></li>
 
 <li><p> Jongen, H.J., Lipson, M., Teuling, A.J., Grimmond, C.S.B., Baik, J.-J., Best, M., Demuzere, M., Fortuniak, K., Huang, Y., <b>De Kauwe, M. G.</b>, Li, R., McNorton, J., Meili, N., Oleson, K., Park, S.-B., Sun, T., Tsiringakis, A., Varentsov, M., Wang, C., Wang, Z.-H. and Steeneveld, G.J. (2024) The water balance representation in Urban-PLUMBER land surface models. Journal of Advances in Modeling Earth Systems, accepted. </p></li>
 
