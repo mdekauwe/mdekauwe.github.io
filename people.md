@@ -39,7 +39,7 @@ Martin De Kauwe is an Associate Professor of Global Change Ecology at the <a hre
 Thamali Kariyawasam Idippilige is a PhD student at the University of Bristol. Her PhD will explore tea varieties optimised for cultivation with improved water-use efficiency and greater resilience to drought.
 
 Her PhD scholarship is a partnership between Bristol, the <a href="https://www.kew.org/" style="color:#16a085;">Royal Botanic Gardens, Kew</a>, the <a href="https://www.pdn.ac.lk/" style="color:#16a085;">University of Peradeniya in Sri Lanka</a>, and the
-<a href="https://www.tri.lk/" style="color:#16a085;">Tea Research Institute of Sri Lanka</a>, with generous funding from <a href="https://www.ahmadtea.com/" style="color:#16a085;">Ahmad Tea</a>.
+<a href="https://www.tri.lk/" style="color:#16a085;">Tea Research Institute of Sri Lanka</a>, with funding from <a href="https://www.ahmadtea.com/" style="color:#16a085;">Ahmad Tea</a>.
 
 <a href="mailto:thamalik@agri.pdn.ac.lk" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg">
 
