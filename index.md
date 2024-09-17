@@ -34,6 +34,11 @@ sitemap:
   <p>Grassland elevated CO<sub>2</sub> experiment. Tasmania, Australia.</p>
 </div>
 
+<div class="floated_img">
+  <img src="assets/img/landsat.png" style="width: 100%; height: 100%" />
+  <p></p>
+  <p></p>
+</div>
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=ucht&d=aPco3MWa80OUX4PipZdxfDGoBfQziq50CLbq759xSls"></script>
 
