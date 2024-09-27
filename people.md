@@ -34,15 +34,27 @@ Martin De Kauwe is an Associate Professor of Global Change Ecology at the <a hre
 
 ### Research group
 
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/julia.jpg"/>
+
+Julia Hall is a PhD student at the University of Bristol in the <a href="https://www.selvalab.org/" style="color:#16a085;">Selva lab </a>. Julia's PhD will use manipulative experiments to advance our understanding of how tress respond to drought and heat stress.
+
+<a href="mailto:julia.hall.2021@bristol.ac.uk" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg">
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/Thamali.jpeg"/>
 
-Thamali Kariyawasam Idippilige is a PhD student at the University of Bristol. Her PhD will explore tea varieties optimised for cultivation with improved water-use efficiency and greater resilience to drought.
+Thamali Kariyawasam Idippilige is a PhD student at the University of Bristol. Thamali's PhD will explore tea varieties optimised for cultivation with improved water-use efficiency and greater resilience to drought.
 
-Her PhD scholarship is a partnership between Bristol, the <a href="https://www.kew.org/" style="color:#16a085;">Royal Botanic Gardens, Kew</a>, the <a href="https://www.pdn.ac.lk/" style="color:#16a085;">University of Peradeniya in Sri Lanka</a>, and the
+Thamali's PhD scholarship is a partnership between Bristol, the <a href="https://www.kew.org/" style="color:#16a085;">Royal Botanic Gardens, Kew</a>, the <a href="https://www.pdn.ac.lk/" style="color:#16a085;">University of Peradeniya in Sri Lanka</a>, and the
 <a href="https://www.tri.lk/" style="color:#16a085;">Tea Research Institute of Sri Lanka</a>, with funding from <a href="https://www.ahmadtea.com/" style="color:#16a085;">Ahmad Tea</a>.
 
-<a href="mailto:thamalik@agri.pdn.ac.lk" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg">
+<a href="mailto:er24915@bristol.ac.uk" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg">
 
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/cale.jpeg"/>
