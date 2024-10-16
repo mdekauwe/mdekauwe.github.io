@@ -118,9 +118,9 @@ John is now working as a postdoc at the University of New South Wales.
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/gabriel.jpg"/>
 
-Gabriel Banstarck Marandola, visiting master's student from the State University of Campinas.
+Gabriel Banstarck Marandola, visiting master's student from the State University of Campinas. Gabriel completed his MSc in Ecology in 2024.
 
-Gabriel has been measuring light and CO<sub>2</sub> response curves from understorey species in the Amazon Open-Top Chamber CO<sub>2</sub> experiment.
+Gabriel's thesis evaluated the effects of elevated CO<sub>2</sub> on the physiology of understory species in Central Amazonia.
 
 <a href="mailto:g171857@dac.unicamp.br" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
 
