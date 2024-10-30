@@ -14,11 +14,23 @@ The city of Bristol is a great place to <a href="https://visitbristol.co.uk/insp
 <center><img src="assets/img/UK.gif" style="width: 30%; height: 30%" alt="Aus NDVI" ></center>
 </div>
 
+
+
+
+
+
 <!--
 ### Current opportunities:
 
 - We are recruiting a NERC PhD student to work on a: <a href="https://www.bristol.ac.uk/biology/courses/postgraduate/phdstudentships/" style="color:#16a085">Forests on the edge: examining the vegetation’s recovery following climate extremess</a>. This PhD is co-supervised by Prof. Lina Mercado at Exeter University and Dr Eddy Robertson at the UK Met Office. The deadline to apply is: Tuesday 9 January, 2024. To apply, it is important that you've read through the <a href="https://www.bristol.ac.uk/study/postgraduate/research/great-western-four-doctoral-training-partnership-nerc/" style="color:#16a085">prospectus</a> as well as the advert. The prospectus helps explain the application process.
 -->
+
+### Current opportunities:
+
+- We are recruiting a funded PhD on <a href="https://www.findaphd.com/phds/project/funded-phd-open-to-uk-domiciled-home-fee-applicants-of-black-african-black-caribbean-or-other-black-or-mixed-black-heritage-forests-on-the-edge-examining-the-legacy-of-summer-climate-extremes/?p176173" style="color:#16a085">"Forests on the edge: examining the legacy of summer climate extremes"</a>. The PhD is open to UK-domiciled, home fee applicants of Black African, Black Caribbean or other Black or mixed Black heritage. Details can be found: <a href="https://www.findaphd.com/phds/project/funded-phd-open-to-uk-domiciled-home-fee-applicants-of-black-african-black-caribbean-or-other-black-or-mixed-black-heritage-forests-on-the-edge-examining-the-legacy-of-summer-climate-extremes/?p176173" style="color:#16a085">by clicking here</a>.
+
+
+
 
 
 ### Graduate:
