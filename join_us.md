@@ -28,7 +28,7 @@ The city of Bristol is a great place to <a href="https://visitbristol.co.uk/insp
 ### Current opportunities:
 
 - We are recruiting a funded PhD on <a href="https://www.findaphd.com/phds/project/funded-phd-open-to-uk-domiciled-home-fee-applicants-of-black-african-black-caribbean-or-other-black-or-mixed-black-heritage-forests-on-the-edge-examining-the-legacy-of-summer-climate-extremes/?p176173" style="color:#16a085">"Forests on the edge: examining the legacy of summer climate extremes"</a>. The PhD is open to UK-domiciled, home fee applicants of Black African, Black Caribbean or other Black or mixed Black heritage. Details can be found: <a href="https://www.findaphd.com/phds/project/funded-phd-open-to-uk-domiciled-home-fee-applicants-of-black-african-black-caribbean-or-other-black-or-mixed-black-heritage-forests-on-the-edge-examining-the-legacy-of-summer-climate-extremes/?p176173" style="color:#16a085">by clicking here</a>.
-
+- We are recruiting a funded PhD opportunity on <a href="https://exeter.ac.uk/study/funding/award/?id=5421" style="color:#16a085">social behaviour in the context of ecological disturbance</a>. The Phd is supervised by Lauren Brent, Joah Madden (both at Exeter) and me (Bristol). September 2025 start, please apply by Jan 13.
 
 
 
