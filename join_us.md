@@ -19,17 +19,9 @@ The city of Bristol is a great place to <a href="https://visitbristol.co.uk/insp
 
 
 
-<!--
 ### Current opportunities:
 
 - We are recruiting an 18-month Postdoctoral researcher with expertise in either: land surface model development or machine learning approaches. The role will focus on advancing our ability to forecast the legacy effects of drought and heat extremes. The role should be advertsied very soon...
-
-- We are recruiting a NERC GW4+ DLTP PhD student to work on a: <a href="https://www.bristol.ac.uk/biology/courses/postgraduate/phdstudentships/" style="color:#16a085">Forests on the edge: examining the vegetation’s recovery following climate extremess</a>. This PhD is co-supervised by Prof. Lina Mercado at Exeter University and Dr Eddy Robertson at the UK Met Office. The deadline to apply is: Monday 13th January, 2025. To apply, it is important that you've read through the application process at the <a href="https://www.nercgw4plus.ac.uk/how-to-apply" style="color:#16a085">how to apply link (click me) </a>.
--->
-
-### Current opportunities:
-
-
 
 - We are recruiting a NERC PhD student to work on a: <a href="https://www.findaphd.com/phds/project/funded-phd-nerc-gw4-dltp-forests-on-the-edge-examining-vegetation-recovery-following-climate-extremes/?p177600" style="color:#16a085">Forests on the edge: examining vegetation recovery following climate extremes</a>. This PhD is co-supervised by Prof. Lina Mercado at the University of Exeter and Dr Eddy Robertson at the UK Met Office. The deadline to apply is: Monday 13 January, 2025. Application details can be found: <a href="https://www.findaphd.com/phds/project/funded-phd-nerc-gw4-dltp-forests-on-the-edge-examining-vegetation-recovery-following-climate-extremes/?p177600" style="color:#16a085"> by clicking here </a>.
 
