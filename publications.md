@@ -15,7 +15,7 @@ subtitle:
 
 <li><p> <sup>&#8224;</sup><u>Missen, M. L.</u>, <b>De Kauwe M. G.</b> and Hovenden, M. J. (2024) Elevated CO<sub>2</sub> reduces leaf elongation rates and leaf length in perennial ryegrass in Southern Tasmania. <i>In review</i>. </p></li>
 
-<li><p> <sup>&#8224;</sup><u>Missen, M. L.</u>, <b>De Kauwe M. G.</b> and Hovenden, M. J. (2024) Increasing photosynthetic benefit with decreasing irrigation frequency in an Australian temperate grassland exposed to elevated carbon dioxide. <i>In review</i>. </p></li>
+
 
 
 </ol>
@@ -23,6 +23,8 @@ subtitle:
 ### In print
 
 <ol reversed>
+
+<li><p> <sup>&#8224;</sup><u>Missen, M. L.</u>, <b>De Kauwe M. G.</b> and Hovenden, M. J. (2024) Increasing photosynthetic benefit with decreasing irrigation frequency in an Australian temperate pasture exposed to elevated carbon dioxide. Journal of Experimental Botany, accepted. </p></li>
 
 <li><p> Abramowitz, G., Ukkola, A., Hobeichi, S., Cranko Page, J., Lipson, M., <b>De Kauwe, M. G.</b>, Green, S., Brenner, C., Frame, J., Nearing, G., Clark, M., Best, M., Anthoni, P., Arduini, G., Boussetta, S., Caldararu, S., Cho, K., Cuntz, M., Fairbairn, D., Ferguson, C., Kim, H., Kim, Y., Knauer, J., Lawrence, D., Luo, X., Malyshev, S., Nitta, T., Ogee, J., Oleson, K., Ottlé, C., Peylin, P., de Rosnay, P., Rumbold, H., Su, B., Vuichard, N., Walker, A., Wang-Faivre, X., Wang, Y., and Zeng, Y. (2024) On the predictability of turbulent fluxes from land: PLUMBER2 MIP experimental description and preliminary results. Biogeosciences, accepted. </p></li>
 
