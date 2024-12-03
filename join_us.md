@@ -21,7 +21,7 @@ The city of Bristol is a great place to <a href="https://visitbristol.co.uk/insp
 
 ### Current opportunities:
 
-- We are recruiting an 18-month Postdoctoral researcher with expertise in either: land surface model development or machine learning approaches. The role will focus on advancing our ability to forecast the legacy effects of drought and heat extremes. The role should be advertsied very soon...
+- We are recruiting an 18-month Postdoctoral researcher with expertise in either: land surface model development or machine learning approaches. The role will focus on advancing our ability to forecast the legacy effects of drought and heat extremes. The role should be advertised very soon...and close on the 16/01/2025.
 
 - We are recruiting a NERC PhD student to work on a: <a href="https://www.findaphd.com/phds/project/funded-phd-nerc-gw4-dltp-forests-on-the-edge-examining-vegetation-recovery-following-climate-extremes/?p177600" style="color:#16a085">Forests on the edge: examining vegetation recovery following climate extremes</a>. This PhD is co-supervised by Prof. Lina Mercado at the University of Exeter and Dr Eddy Robertson at the UK Met Office. The deadline to apply is: Monday 13 January, 2025. Application details can be found: <a href="https://www.findaphd.com/phds/project/funded-phd-nerc-gw4-dltp-forests-on-the-edge-examining-vegetation-recovery-following-climate-extremes/?p177600" style="color:#16a085"> by clicking here </a>.
 
