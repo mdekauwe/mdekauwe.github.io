@@ -29,6 +29,8 @@ The city of Bristol is a great place to <a href="https://visitbristol.co.uk/insp
 
 - We are recruiting a funded PhD on <a href="https://www.findaphd.com/phds/project/funded-phd-open-to-uk-domiciled-home-fee-applicants-of-black-african-black-caribbean-or-other-black-or-mixed-black-heritage-forests-on-the-edge-examining-the-legacy-of-summer-climate-extremes/?p176173" style="color:#16a085">"Forests on the edge: examining the legacy of summer climate extremes"</a>. The PhD is open to UK-domiciled, home fee applicants of Black African, Black Caribbean or other Black or mixed Black heritage. Details can be found: <a href="https://www.findaphd.com/phds/project/funded-phd-open-to-uk-domiciled-home-fee-applicants-of-black-african-black-caribbean-or-other-black-or-mixed-black-heritage-forests-on-the-edge-examining-the-legacy-of-summer-climate-extremes/?p176173" style="color:#16a085">by clicking here</a>.
 
+- We are recruiting a funded PhD <a href="https://www.findaphd.com/phds/project/agroforestry-trees-for-soil-health-climate-resilience-and-food-security/?p179106" style="color:#16a085">"Agroforestry trees for soil health, climate resilience, and food security"</a>. The PhD will be based at the University of Reading, supervised by Dr Amelia Hood and me. Details can be found: <a href="https://www.findaphd.com/phds/project/agroforestry-trees-for-soil-health-climate-resilience-and-food-security/?p179106" style="color:#16a085">by clicking here</a>
+
 
 
 ### Graduate:
