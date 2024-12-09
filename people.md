@@ -107,7 +107,7 @@ Melika has just passed her PhD!
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/jon.jpeg"/>
 
-Jonathan Page, PhD student, Thesis: <span style="color:#16a085">*Lags and legacies: understanding the role of antecedent effects on grassland biomass responses to rising CO2* </span>
+Jonathan Page, PhD student, Thesis: <span style="color:#16a085">*Lags and legacies: understanding the role of antecedent effects on grassland biomass responses to rising CO2* </span>. Jon recieved the Dean’s Award for an outstanding PhD thesis.
 
 John is now working as a postdoc at the University of New South Wales.
 
@@ -166,7 +166,7 @@ Mengyuan is now working as a Postdoc at the University of New South Wales.
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/manon.jpeg"/>
 
-Manon Sabot, PhD student Thesis: <span style="color:#16a085">*Trading water for carbon in a changing climate: Can optimality theory improve the predictability of land surface models?* </span> Following her PhD, Manon worked as a Postdoctoral Researcher on our ARC grant exploring how vulnerable eucalypts are to future drought.
+Manon Sabot, PhD student Thesis: <span style="color:#16a085">*Trading water for carbon in a changing climate: Can optimality theory improve the predictability of land surface models?* </span> Manon recieved the Dean’s Award for an outstanding PhD thesis. Following her PhD, Manon worked as a Postdoctoral Researcher on our ARC grant exploring how vulnerable eucalypts are to future drought.
 
 Manon is a Minerva Fast Track fellow and group leader at the <a href="https://www.bgc-jena.mpg.de/person/msabot/4777702" style="color:#16a085;">Max Planck Institute for Biogeochemistry</a>.
 
