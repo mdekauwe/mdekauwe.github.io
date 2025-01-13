@@ -7,15 +7,17 @@ subtitle:
 
 ### In review
 
-<ol reversed start="121">
+<ol reversed start="122">
 
-<li><p> Eckes-Shephard, A. H., Argles, A., Brzeziecki, B., Cox, P., <b>De Kauwe, M. G.</b>, Esquivel-Muelbert, A., Fisher, R., Hurtt, G., Knauer, J., Koven, C., Lehtonen, A., Luyssaert, S., Marques, L., Ma, L., Marie, G., Moore, J., Needham, J., Olin, S., Peltoniemi, M., Sato, H., Sitch, S., Stocker, B., Weng, E., Zuleta, D., and Pugh, T. (2024) Demography, Dynamics and Data: Building Confidence for Simulating Changes in the World’s Forests.  <i>In review</i>. </p></li>
+<li><p> Zhu, Z., Wang, H., Zhou, B., Harrison, S. P., <b>De Kauwe, M. G.</b>, and Prentice, I. C. (2025) Optimal light use strategy explains seasonal dynamics and trends in vegetation greenness.  <i>In review</i>. </p></li>
 
-<li><p> Hu, Y., Fu, B., Michaelides, K., <b>De Kauwe, M. G.</b>, Wang, J., Zhang, W., Wang, Y., Shen, M., Xiao, X., Qin, Y., Feng, X., Wu, C., Chen, Y., Wang, Z. and Wan, L. (2024) Divergent trends in onset of spring green-up of grass and woody vegetation across China.  <i>In review</i>. </p></li>
+<li><p> Eckes-Shephard, A. H., Argles, A., Brzeziecki, B., Cox, P., <b>De Kauwe, M. G.</b>, Esquivel-Muelbert, A., Fisher, R., Hurtt, G., Knauer, J., Koven, C., Lehtonen, A., Luyssaert, S., Marques, L., Ma, L., Marie, G., Moore, J., Needham, J., Olin, S., Peltoniemi, M., Sato, H., Sitch, S., Stocker, B., Weng, E., Zuleta, D., and Pugh, T. (2025) Demography, Dynamics and Data: Building Confidence for Simulating Changes in the World’s Forests.  <i>In review</i>. </p></li>
 
-<li><p> <sup>&#8224;</sup><u>Missen, M. L.</u>, <b>De Kauwe M. G.</b> and Hovenden, M. J. (2024) Elevated carbon dioxide reduces the relationship between grassland biomass production in consecutive years. <i>In review</i>. </p></li>
+<li><p> Hu, Y., Fu, B., Michaelides, K., <b>De Kauwe, M. G.</b>, Wang, J., Zhang, W., Wang, Y., Shen, M., Xiao, X., Qin, Y., Feng, X., Wu, C., Chen, Y., Wang, Z. and Wan, L. (2025) Divergent trends in onset of spring green-up of grass and woody vegetation across China.  <i>In review</i>. </p></li>
 
-<li><p> <sup>&#8224;</sup><u>Missen, M. L.</u>, <b>De Kauwe M. G.</b> and Hovenden, M. J. (2024) Elevated CO<sub>2</sub> reduces leaf elongation rates and leaf length in perennial ryegrass in Southern Tasmania. <i>In review</i>. </p></li>
+<li><p> <sup>&#8224;</sup><u>Missen, M. L.</u>, <b>De Kauwe M. G.</b> and Hovenden, M. J. (2025) Elevated carbon dioxide reduces the relationship between grassland biomass production in consecutive years. <i>In review</i>. </p></li>
+
+<li><p> <sup>&#8224;</sup><u>Missen, M. L.</u>, <b>De Kauwe M. G.</b> and Hovenden, M. J. (2025) Elevated CO<sub>2</sub> reduces leaf elongation rates and leaf length in perennial ryegrass in Southern Tasmania. <i>In review</i>. </p></li>
 
 
 
