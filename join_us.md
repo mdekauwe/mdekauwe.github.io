@@ -56,7 +56,7 @@ The city of Bristol is a great place to <a href="https://visitbristol.co.uk/insp
 
 ### Fellowships:
 
-There are a number of fellowships available (this list is not exhaustive) and I would be extremely happy to act as mentor and support applicants interested in coming to Bristol, please get in touch!
+There are a number of fellowships available, the list below is not exhaustive (take a look at our <a href="https://www.bristol.ac.uk/biology/research/opportunities/" style="color:#16a085">department's website</a> for more details). I would be extremely happy to act as mentor and support applicants interested in coming to Bristol, please get in touch!
 
 - <a href="https://royalsociety.org/grants-schemes-awards/grants/newton-international/" style="color:#16a085">Newton International Fellowships</a> scheme is open to non-UK early career scientists
 
@@ -67,6 +67,8 @@ There are a number of fellowships available (this list is not exhaustive) and I 
 - <a href="https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/" style="color:#16a085">EMBO Postdoctoral Fellowships</a>
 
 - <a href="https://lsrf.org/apply/" style="color:#16a085">Life Sciences Research Foundation postdoctoral scheme</a>
+
+
 
 
 
