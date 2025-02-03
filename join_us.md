@@ -19,20 +19,6 @@ The city of Bristol is a great place to <a href="https://visitbristol.co.uk/insp
 
 
 
-### Current opportunities:
-
-- We are recruiting an 18-month Postdoctoral Research Associate with expertise in either: land surface model development or machine learning approaches. The role will focus on advancing our ability to forecast the legacy effects of drought and heat extremes. Application details can be found: <a href="https://www.bristol.ac.uk/jobs/find/details/?nPostingId=186476&nPostingTargetId=370101&id=Q50FK026203F3VBQBV7V77V83&LG=UK&languageSelect=UK&mask=newuobext" style="color:#16a085"> by clicking here </a>. The position closes on the 16/01/2025.
-
-- We are recruiting a NERC PhD student to work on a: <a href="https://www.findaphd.com/phds/project/funded-phd-nerc-gw4-dltp-forests-on-the-edge-examining-vegetation-recovery-following-climate-extremes/?p177600" style="color:#16a085">Forests on the edge: examining vegetation recovery following climate extremes</a>. This PhD is co-supervised by Prof. Lina Mercado at the University of Exeter and Dr Eddy Robertson at the UK Met Office. The deadline to apply is: Monday 13 January, 2025. Application details can be found: <a href="https://www.findaphd.com/phds/project/funded-phd-nerc-gw4-dltp-forests-on-the-edge-examining-vegetation-recovery-following-climate-extremes/?p177600" style="color:#16a085"> by clicking here </a>.
-
-- We are recruiting a funded PhD opportunity on <a href="https://exeter.ac.uk/study/funding/award/?id=5421" style="color:#16a085">social behaviour in the context of ecological disturbance</a>. The Phd is supervised by Lauren Brent, Joah Madden (both at Exeter) and me (Bristol). September 2025 start, please apply by Jan 13. Details can be found: <a href="https://exeter.ac.uk/study/funding/award/?id=5421" style="color:#16a085">by clicking here</a>
-
-- We are recruiting a funded PhD on <a href="https://www.findaphd.com/phds/project/funded-phd-open-to-uk-domiciled-home-fee-applicants-of-black-african-black-caribbean-or-other-black-or-mixed-black-heritage-forests-on-the-edge-examining-the-legacy-of-summer-climate-extremes/?p176173" style="color:#16a085">"Forests on the edge: examining the legacy of summer climate extremes"</a>. The PhD is open to UK-domiciled, home fee applicants of Black African, Black Caribbean or other Black or mixed Black heritage. Details can be found: <a href="https://www.findaphd.com/phds/project/funded-phd-open-to-uk-domiciled-home-fee-applicants-of-black-african-black-caribbean-or-other-black-or-mixed-black-heritage-forests-on-the-edge-examining-the-legacy-of-summer-climate-extremes/?p176173" style="color:#16a085">by clicking here</a>.
-
-- We are recruiting a funded PhD <a href="https://www.findaphd.com/phds/project/agroforestry-trees-for-soil-health-climate-resilience-and-food-security/?p179106" style="color:#16a085">"Agroforestry trees for soil health, climate resilience, and food security"</a>. The PhD will be based at the University of Reading, supervised by Dr Amelia Hood and me. Details can be found: <a href="https://www.findaphd.com/phds/project/agroforestry-trees-for-soil-health-climate-resilience-and-food-security/?p179106" style="color:#16a085">by clicking here</a>
-
-
-
 ### Graduate:
 
 - <a href="https://www.bristol.ac.uk/study/postgraduate/2022/doctoral/phd-great-western-four-dtp/" style="color:#16a085">NERC-funded PhD studentships</a> primarily open to UK students with a limited number for international students
