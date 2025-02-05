@@ -13,7 +13,6 @@ subtitle:
 
 <li><p> Eckes-Shephard, A. H., Argles, A., Brzeziecki, B., Cox, P., <b>De Kauwe, M. G.</b>, Esquivel-Muelbert, A., Fisher, R., Hurtt, G., Knauer, J., Koven, C., Lehtonen, A., Luyssaert, S., Marques, L., Ma, L., Marie, G., Moore, J., Needham, J., Olin, S., Peltoniemi, M., Sato, H., Sitch, S., Stocker, B., Weng, E., Zuleta, D., and Pugh, T. (2025) Demography, Dynamics and Data: Building Confidence for Simulating Changes in the World’s Forests.  <i>In review</i>. </p></li>
 
-<li><p> Hu, Y., Fu, B., Michaelides, K., <b>De Kauwe, M. G.</b>, Wang, J., Zhang, W., Wang, Y., Shen, M., Xiao, X., Qin, Y., Feng, X., Wu, C., Chen, Y., Wang, Z. and Wan, L. (2025) Divergent trends in onset of spring green-up of grass and woody vegetation across China.  <i>In review</i>. </p></li>
 
 <li><p> <sup>&#8224;</sup><u>Missen, M. L.</u>, <b>De Kauwe M. G.</b> and Hovenden, M. J. (2025) Elevated carbon dioxide reduces the relationship between grassland biomass production in consecutive years. <i>In review</i>. </p></li>
 
@@ -27,6 +26,8 @@ subtitle:
 ### In print
 
 <ol reversed>
+
+<li><p> Hu, Y., Fu, B., Michaelides, K., <b>De Kauwe, M. G.</b>, Wang, J., Zhang, W., Wang, Y., Shen, M., Xiao, X., Qin, Y., Feng, X., Wu, C., Chen, Y., Wang, Z. and Wan, L. (2025) Contrasting Trends in Onset of Spring Green-up between Grasslands and Forests in China.  Earth's Future, accepted. </p></li>
 
 <li><p> <sup>&#8224;</sup><u>Missen, M. L.</u>, <b>De Kauwe M. G.</b> and Hovenden, M. J. (2024) Increasing photosynthetic benefit with decreasing irrigation frequency in an Australian temperate pasture exposed to elevated carbon dioxide. Journal of Experimental Botany, accepted. </p></li>
 
