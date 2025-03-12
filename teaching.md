@@ -13,11 +13,9 @@ subtitle:
 
 <span style="color:#16a085"> *University of New South Wales Sydney* </span>
 
-- CLIM2001: Fundamentals of Atmospheric
+- CLIM2001: Fundamentals of Atmospheric Science
 - CLIM3001: Climate Systems Science
 - BEES3041: Big Data in the Biological, Earth and Environmental Sciences
-
-Photosynthesis teaching lab in R and Python is available from <a href="https://github.com/mdekauwe/BEES3041_lab_photosynthesis" style="color:#16a085; ">github</a>.
 
 <div class="floated_img">
 <img src="assets/img/An-T.png" alt="Some image" >
