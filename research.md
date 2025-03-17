@@ -4,7 +4,7 @@ title:
 subtitle:
 ---
 
-Our research group focuses on understanding how plants respond to global environmental change: increasing CO<sub>2</sub>, temperature, and changing water availability. We integrate a range of observation streams (*e.g.*, manipulation experiments, eddy covariance, and satellite data) with vegetation models and statistical approaches to improve our understanding and capacity to predict future ecosystem change.
+Our research group investigates how plants respond to global environmental changes, including rising CO<sub>2</sub>, increasing temperatures, and shifting water availability. We integrate diverse observation streams — such as manipulation experiments, eddy covariance, and satellite data — with vegetation models and statistical methods to enhance our understanding and improve predictions of future ecosystem change.
 
 <div class="floated_img">
 <!-- <center><img src="assets/img/aus_ndvi.gif" alt="Aus NDVI" ></center> -->
