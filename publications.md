@@ -14,12 +14,6 @@ subtitle:
 <li><p> Eckes-Shephard, A. H., Argles, A., Brzeziecki, B., Cox, P., <b>De Kauwe, M. G.</b>, Esquivel-Muelbert, A., Fisher, R., Hurtt, G., Knauer, J., Koven, C., Lehtonen, A., Luyssaert, S., Marques, L., Ma, L., Marie, G., Moore, J., Needham, J., Olin, S., Peltoniemi, M., Sato, H., Sitch, S., Stocker, B., Weng, E., Zuleta, D., and Pugh, T. (2025) Demography, Dynamics and Data: Building Confidence for Simulating Changes in the World’s Forests.  <i>In review</i>. </p></li>
 
 
-<li><p> <sup>&#8224;</sup><u>Missen, M. L.</u>, <b>De Kauwe M. G.</b> and Hovenden, M. J. (2025) Elevated carbon dioxide reduces the relationship between grassland biomass production in consecutive years. <i>In review</i>. </p></li>
-
-<li><p> <sup>&#8224;</sup><u>Missen, M. L.</u>, <b>De Kauwe M. G.</b> and Hovenden, M. J. (2025) Elevated CO<sub>2</sub> reduces leaf elongation rates and leaf length in perennial ryegrass in Southern Tasmania. <i>In review</i>. </p></li>
-
-
-
 
 </ol>
 
