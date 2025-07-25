@@ -57,7 +57,7 @@ Julia Madurini Hall is a PhD student at the University of Bristol in the <a href
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/Thamali.jpeg"/>
 
-Thamali Kariyawasam Idippilige is a PhD student at the University of Bristol. Thamali's PhD will explore tea varieties optimised for cultivation with improved water-use efficiency and greater resilience to drought.
+Thamali Kariyawasam Idippilige is a PhD student at the University of Bristol. Thamali's PhD is investigating water-use efficiency and drought tolerance in Sri Lankan tea cultivars.
 
 Thamali's PhD scholarship is a partnership between Bristol, the <a href="https://www.kew.org/" style="color:#16a085;">Royal Botanic Gardens, Kew</a>, the <a href="https://www.pdn.ac.lk/" style="color:#16a085;">University of Peradeniya in Sri Lanka</a>, and the
 <a href="https://www.tri.lk/" style="color:#16a085;">Tea Research Institute of Sri Lanka</a>, with funding from <a href="https://www.ahmadtea.com/" style="color:#16a085;">Ahmad Tea</a>.
