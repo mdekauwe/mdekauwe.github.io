@@ -7,7 +7,7 @@ subtitle:
 
 ### In review
 
-<ol reversed start="122">
+<ol reversed start="120">
 
 <li><p> Zhu, Z., Wang, H., Zhou, B., Harrison, S. P., <b>De Kauwe, M. G.</b>, and Prentice, I. C. (2025) Optimal light use strategy explains seasonal dynamics and trends in vegetation greenness.  <i>In review</i>. </p></li>
 
