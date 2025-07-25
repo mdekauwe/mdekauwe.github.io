@@ -36,7 +36,7 @@ sitemap:
 
 <div class="floated_img">
   <img src="assets/img/tea.jpg" style="width: 100%; height: 100%" />
-  <p>Tea fields. Sri Lanka</p>
+  <p>Tea fields. Talawakele, Sri Lanka</p>
 </div>
 
 <div class="floated_img">
