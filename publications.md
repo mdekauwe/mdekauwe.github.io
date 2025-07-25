@@ -13,29 +13,27 @@ subtitle:
 
 <li><p> Eckes-Shephard, A. H., Argles, A., Brzeziecki, B., Cox, P., <b>De Kauwe, M. G.</b>, Esquivel-Muelbert, A., Fisher, R., Hurtt, G., Knauer, J., Koven, C., Lehtonen, A., Luyssaert, S., Marques, L., Ma, L., Marie, G., Moore, J., Needham, J., Olin, S., Peltoniemi, M., Sato, H., Sitch, S., Stocker, B., Weng, E., Zuleta, D., and Pugh, T. (2025) Demography, Dynamics and Data: Building Confidence for Simulating Changes in the World’s Forests.  <i>In review</i>. </p></li>
 
-
-
 </ol>
 
 ### In print
 
 <ol reversed>
 
-<li><p> Hu, Y., Fu, B., Michaelides, K., <b>De Kauwe, M. G.</b>, Wang, J., Zhang, W., Wang, Y., Shen, M., Xiao, X., Qin, Y., Feng, X., Wu, C., Chen, Y., Wang, Z. and Wan, L. (2025) Contrasting Trends in Onset of Spring Green-up between Grasslands and Forests in China.  Earth's Future, accepted. </p></li>
+<li><p> Hu, Y., Fu, B., Michaelides, K., <b>De Kauwe, M. G.</b>, Wang, J., Zhang, W., Wang, Y., Shen, M., Xiao, X., Qin, Y., Feng, X., Wu, C., Chen, Y., Wang, Z. and Wan, L. (2025) Contrasting Trends in Onset of Spring Green-up between Grasslands and Forests in China.  Earth's Future, 13, e2024EF005379. </p></li>
 
-<li><p> <sup>&#8224;</sup><u>Missen, M. L.</u>, <b>De Kauwe M. G.</b> and Hovenden, M. J. (2024) Increasing photosynthetic benefit with decreasing irrigation frequency in an Australian temperate pasture exposed to elevated carbon dioxide. Journal of Experimental Botany, accepted. </p></li>
+<li><p> <sup>&#8224;</sup><u>Missen, M. L.</u>, <b>De Kauwe M. G.</b> and Hovenden, M. J. (2024) Increasing photosynthetic benefit with decreasing irrigation frequency in an Australian temperate pasture exposed to elevated carbon dioxide. Journal of Experimental Botany, 76, 1795–1810. </p></li>
 
-<li><p> Abramowitz, G., Ukkola, A., Hobeichi, S., Cranko Page, J., Lipson, M., <b>De Kauwe, M. G.</b>, Green, S., Brenner, C., Frame, J., Nearing, G., Clark, M., Best, M., Anthoni, P., Arduini, G., Boussetta, S., Caldararu, S., Cho, K., Cuntz, M., Fairbairn, D., Ferguson, C., Kim, H., Kim, Y., Knauer, J., Lawrence, D., Luo, X., Malyshev, S., Nitta, T., Ogee, J., Oleson, K., Ottlé, C., Peylin, P., de Rosnay, P., Rumbold, H., Su, B., Vuichard, N., Walker, A., Wang-Faivre, X., Wang, Y., and Zeng, Y. (2024) On the predictability of turbulent fluxes from land: PLUMBER2 MIP experimental description and preliminary results. Biogeosciences, accepted. </p></li>
+<li><p> Abramowitz, G., Ukkola, A., Hobeichi, S., Cranko Page, J., Lipson, M., <b>De Kauwe, M. G.</b>, Green, S., Brenner, C., Frame, J., Nearing, G., Clark, M., Best, M., Anthoni, P., Arduini, G., Boussetta, S., Caldararu, S., Cho, K., Cuntz, M., Fairbairn, D., Ferguson, C., Kim, H., Kim, Y., Knauer, J., Lawrence, D., Luo, X., Malyshev, S., Nitta, T., Ogee, J., Oleson, K., Ottlé, C., Peylin, P., de Rosnay, P., Rumbold, H., Su, B., Vuichard, N., Walker, A., Wang-Faivre, X., Wang, Y., and Zeng, Y. (2024) On the predictability of turbulent fluxes from land: PLUMBER2 MIP experimental description and preliminary results. Biogeosciences, 23, 5517–5538. </p></li>
 
-<li><p> <sup>&#8224;</sup><u>Teckentrup, L.</u>, <b>De Kauwe, M. G.</b>, Pitman, A. J., Ukkola, A. M., Wårlind, D. and Smith, B. (2024) Resolving uncertainty in the response of Australia's terrestrial carbon cycle to projected climate change. Geophysical Research Letters, accepted. </p></li>
+<li><p> <sup>&#8224;</sup><u>Teckentrup, L.</u>, <b>De Kauwe, M. G.</b>, Pitman, A. J., Ukkola, A. M., Wårlind, D. and Smith, B. (2024) Resolving uncertainty in the response of Australia's terrestrial carbon cycle to projected climate change. Geophysical Research Letters, 51, e2024GL111398. </p></li>
 
 <li><p> Kumarathunge, D. P., Medlyn, B. E., Drake, J. E., <b>De Kauwe, M. G.</b>, Tjoelker, M. G., Aspinwall, M. J., Barton, C. V. M., Campany, C. E., Crous, K. Y., Yang, J., and Jiang, M. (2024) Photosynthetic temperature responses in leaves and canopies: why temperature optima may disagree at different scales.  Tree Physiology, 44, tpae135. </p></li>
 
-<li><p> Rigatti, E., McDermid, S. S., Cook, B. I. and <b>De Kauwe, M. G.</b> (2024) The Impact of Drought on Terrestrial Carbon in the West African Sahel: Implications for Natural Climate Solutions.  Journal of Geophysical Research - Biogeosciences, accepted. </p></li>
+<li><p> Rigatti, E., McDermid, S. S., Cook, B. I. and <b>De Kauwe, M. G.</b> (2024) The Impact of Drought on Terrestrial Carbon in the West African Sahel: Implications for Natural Climate Solutions.  Journal of Geophysical Research - Biogeosciences, 129, e2024JG008143. </p></li>
 
-<li><p> Jongen, H.J., Lipson, M., Teuling, A.J., Grimmond, C.S.B., Baik, J.-J., Best, M., Demuzere, M., Fortuniak, K., Huang, Y., <b>De Kauwe, M. G.</b>, Li, R., McNorton, J., Meili, N., Oleson, K., Park, S.-B., Sun, T., Tsiringakis, A., Varentsov, M., Wang, C., Wang, Z.-H. and Steeneveld, G.J. (2024) The water balance representation in Urban-PLUMBER land surface models. Journal of Advances in Modeling Earth Systems, accepted. </p></li>
+<li><p> Jongen, H.J., Lipson, M., Teuling, A.J., Grimmond, C.S.B., Baik, J.-J., Best, M., Demuzere, M., Fortuniak, K., Huang, Y., <b>De Kauwe, M. G.</b>, Li, R., McNorton, J., Meili, N., Oleson, K., Park, S.-B., Sun, T., Tsiringakis, A., Varentsov, M., Wang, C., Wang, Z.-H. and Steeneveld, G.J. (2024) The water balance representation in Urban-PLUMBER land surface models. Journal of Advances in Modeling Earth Systems, 16, e2024MS004231. </p></li>
 
-<li><p> Mu, M., Sabot, M. E., Ukkola, A. M., Rifai, S. W., <b>De Kauwe, M. G.</b>, Hobeichi, S. and Pitman, A. J. (2024) Examining the role of biophysical feedback on simulated temperature extremes during the Tinderbox Drought and Black Summer bushfires in Southeast Australia.  Weather and Climate Extremes, accepted. </p></li>
+<li><p> Mu, M., Sabot, M. E., Ukkola, A. M., Rifai, S. W., <b>De Kauwe, M. G.</b>, Hobeichi, S. and Pitman, A. J. (2024) Examining the role of biophysical feedback on simulated temperature extremes during the Tinderbox Drought and Black Summer bushfires in Southeast Australia.  Weather and Climate Extremes, 45, 100703. </p></li>
 
 <li><p> Zhan, C., Orth, R., Yang, H, Reichstein, M., Zaehle, S., <b>De Kauwe, M. G.</b>, Rammig, A., Winkler, A. J., (2024) Estimating the CO<sub>2</sub> fertilization effect on extratropical forest productivity from Flux-tower Observations. <i>Journal of Geophysical Research - Biogeosciences</i>, accepted. </p></li>
 
