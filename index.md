@@ -35,6 +35,11 @@ sitemap:
 </div>
 
 <div class="floated_img">
+  <img src="assets/img/tea.jpg" style="width: 100%; height: 100%" />
+  <p>Tea fields. Sri Lanka.</p>
+</div>
+
+<div class="floated_img">
   <img src="assets/img/landsat.png" style="width: 100%; height: 100%" />
   <p></p>
   <p></p>
