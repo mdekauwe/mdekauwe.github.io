@@ -6,22 +6,22 @@ sitemap:
 
 <div class="floated_img">
   <img src="assets/img/visitors.JPG" style="width: 100%; height: 100%" />
-  <p>Dinner! Abisko, Sweden.</p>
+  <p>Dinner! Abisko, Sweden</p>
 </div>
 
 <div class="floated_img">
   <img src="assets/img/hemispherical_lai.jpg" style="width: 100%; height: 100%" />
-  <p>Hemispherical photograph. Oregon, USA.</p>
+  <p>Hemispherical photograph. Oregon, USA</p>
 </div>
 
 <div class="floated_img">
   <img src="assets/img/oregon.JPG" style="width: 100%; height: 100%" />
-  <p>View from the Metolius flux tower. Oregon, USA.</p>
+  <p>View from the Metolius flux tower. Oregon, USA</p>
 </div>
 
 <div class="floated_img">
   <img src="assets/img/cairns.jpg" style="width: 100%; height: 100%" />
-  <p>Daintree Rainforest canopy crane. Cairns, Australia.</p>
+  <p>Daintree Rainforest canopy crane. Cairns, Australia</p>
 </div>
 
 <div class="floated_img">
@@ -31,12 +31,12 @@ sitemap:
 
 <div class="floated_img">
   <img src="assets/img/face.jpg" style="width: 100%; height: 100%" />
-  <p>Grassland elevated CO<sub>2</sub> experiment. Tasmania, Australia.</p>
+  <p>Grassland elevated CO<sub>2</sub> experiment. Tasmania, Australia</p>
 </div>
 
 <div class="floated_img">
   <img src="assets/img/tea.jpg" style="width: 100%; height: 100%" />
-  <p>Tea fields. Sri Lanka.</p>
+  <p>Tea fields. Sri Lanka</p>
 </div>
 
 <div class="floated_img">
