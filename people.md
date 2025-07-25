@@ -12,7 +12,7 @@ Martin De Kauwe is Professor of Global Change Ecology at the <a href="http://www
 
 ### Research Positions
 
-<span style="color:#16a085">2021–present:</span> Associate Professor, School of Biological Sciences, University of Bristol, England
+<span style="color:#16a085">2021–present:</span> Professor, School of Biological Sciences, University of Bristol, England
 
 <span style="color:#16a085">2017–2021:</span> Senior Lecturer, Climate Change Research Centre, University of New South Wales, Australia
 
