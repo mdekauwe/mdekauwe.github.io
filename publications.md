@@ -7,11 +7,15 @@ subtitle:
 
 ### In review
 
-<ol reversed start="120">
+<ol reversed start="122">
 
 <li><p> Zhu, Z., Wang, H., Zhou, B., Harrison, S. P., <b>De Kauwe, M. G.</b>, and Prentice, I. C. (2025) Optimal light use strategy explains seasonal dynamics and trends in vegetation greenness.  <i>In review</i>. </p></li>
 
-<li><p> Eckes-Shephard, A. H., Argles, A., Brzeziecki, B., Cox, P., <b>De Kauwe, M. G.</b>, Esquivel-Muelbert, A., Fisher, R., Hurtt, G., Knauer, J., Koven, C., Lehtonen, A., Luyssaert, S., Marques, L., Ma, L., Marie, G., Moore, J., Needham, J., Olin, S., Peltoniemi, M., Sato, H., Sitch, S., Stocker, B., Weng, E., Zuleta, D., and Pugh, T. (2025) Demography, Dynamics and Data: Building Confidence for Simulating Changes in the World’s Forests.  <i>In review</i>. </p></li>
+<li><p> Wang, X., Fu, Z., Ciais, P., Wang, L., Buchmann, N., Keenan, T., <b>De Kauwe, M. G.</b>, Peñuelas8, J., Chen, G., Gong, X., Xiao, J., Li, X., Xie, Q.,  Stoy, P. C., Makowski, D., Smith, W. K., Wang, H., Wang, S., Zhang, F. and Niu, S. (2025) Global distribution and changes of leaf-level intrinsic water use efficiency and their responses to water stress. <i>In review</i>. </p></li>
+
+<li><p> Eckes-Shephard, A. H., Argles, A., Brzeziecki, B., Cox, P., <b>De Kauwe, M. G.</b>, Esquivel-Muelbert, A., Fisher, R., Hurtt, G., Knauer, J., Koven, C., Lehtonen, A., Luyssaert, S., Marques, L., Ma, L., Marie, G., Moore, J., Needham, J., Olin, S., Peltoniemi, M., Sato, H., Sitch, S., Stocker, B., Weng, E., Zuleta, D., and Pugh, T. (2025) Demography, Dynamics and Data: Building Confidence for Simulating Changes in the World’s Forests. <i>In review</i>. </p></li>
+
+<li><p> Jongen, H.J., Lipson, M., Teuling, A.J., Grimmond, S., Best, M., Baik, J.-J., Demuzere, M., Fortuniak, K., Huang, Y., <b>De Kauwe, M. G.</b>, Meili, N., Park, S.-B., Wang, C., Wang, Z. and Steeneveld, G.J. (2025) Do Urban-PLUMBER land surface models underestimate surface runoff?. <i>In review</i>. </p></li>
 
 </ol>
 
