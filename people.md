@@ -38,7 +38,7 @@ Martin De Kauwe is Professor of Global Change Ecology at the <a href="http://www
 
 Lirong You is a Postdoctoral Researcher at the University of Bristol.
 
-Lirong is working on our UK Natural Environment Research Council (NERC) grant to characterise the timescale, spatial extent, and mechanisms that govern the ecosystem legacy to drought and heatwaves during European summers.
+Lirong is working on our UK Natural Environment Research Council (NERC) grant to characterise the timescales, spatial extent, and mechanisms that govern ecosystem legacies to drought and heatwaves during European summers.
 
 
 <a href="mailto:gk25435@bristol.ac.uk" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg">
@@ -49,7 +49,7 @@ Lirong is working on our UK Natural Environment Research Council (NERC) grant to
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/ross.jpeg"/>
 
-Ross Upton is an MRes student at the University of Bristol. Ross's master’s degree will investigate opportunities for developing climate-resilient afforestation schemes.
+Ross Upton is an MRes student at the University of Bristol. Ross's master’s degree is investigating opportunities for developing climate-resilient afforestation schemes.
 
 <a href="mailto:f19577@bristol.ac.uk" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg">
 
@@ -84,7 +84,7 @@ Thamali's PhD scholarship is a partnership between Bristol, the <a href="https:/
 
 Cale Baguley is a Postdoctoral Researcher at the University of Bristol.
 
-Cale is working on our UK Natural Environment Research Council (NERC) grant to characterise the timescale, spatial extent, and mechanisms that govern the ecosystem legacy to drought and heatwaves during European summers.
+Cale is working on our UK Natural Environment Research Council (NERC) grant to characterise the timescales, spatial extent, and mechanisms that govern ecosystem legacies to drought and heatwaves during European summers.
 
 <a href="mailto:jb14389@bristol.ac.uk" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
 <a href="https://scholar.google.com/citations?user=kvGSPQYAAAAJ&hl=en" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
