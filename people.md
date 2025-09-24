@@ -34,7 +34,7 @@ Martin De Kauwe is Professor of Global Change Ecology at the <a href="http://www
 
 ### Research group
 
-<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/no_image.png"/>
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/lirong.jpg"/>
 
 Lirong You is a Postdoctoral Researcher at the University of Bristol.
 
