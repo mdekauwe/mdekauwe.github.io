@@ -34,6 +34,19 @@ Martin De Kauwe is Professor of Global Change Ecology at the <a href="http://www
 
 ### Research group
 
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/no_image.png"/>
+
+Lirong You is a Postdoctoral Researcher at the University of Bristol.
+
+Lirong is working on our UK Natural Environment Research Council (NERC) grant to characterise the timescale, spatial extent, and mechanisms that govern the ecosystem legacy to drought and heatwaves during European summers.
+
+
+<a href="mailto:gk25435@bristol.ac.uk" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg">
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/ross.jpeg"/>
 
 Ross Upton is an MRes student at the University of Bristol. Ross's master’s degree will investigate opportunities for developing climate-resilient afforestation schemes.
