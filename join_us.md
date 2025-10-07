@@ -4,7 +4,7 @@ title:
 subtitle:
 ---
 
-Prospective students interested in exploring how global change affects plants and influences the  carbon and water cycles are encouraged to get in contact. Students should have a background in biology, mathematics, physics, atmospheric science, engineering or a similar quantitative sciences.
+Prospective students interested in exploring how global change affects plants and influences the  carbon and water cycles are encouraged to get in contact. Students should have a background in biology, mathematics, physics, geography, atmospheric science, engineering or a similar quantitative sciences.
 
 I would also be very keen to welcome visitors so please get in contact!
 
