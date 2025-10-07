@@ -13,13 +13,22 @@ Our research group investigates how plants respond to global environmental chang
 
 We tackle a diverse range of questions that connect terrestrial ecosystems with climate, including:
 
-- How will plants acclimate and adapt to rising atmospheric CO<sub>2</sub> concentration?
+#### ***Plant function, stress, and disturbance dynamics:***
+
+- How will plants acclimate and adapt to rising atmospheric CO<sub>2</sub> concentrations?
 - To what extent can plants adjust their physiology and function under environmental stress?
-- Can we predict when and where trees with die during droughts?
-- Can we anticipate how changing disturbance regimes will reshape forest structure, function, and recovery trajectories?
+- Can we predict when and where trees will die during droughts?
+- How do changing disturbance regimes influence forest structure, function and resilience?
 - How do past environmental conditions shape ecosystem resilience to droughts and heatwaves?
-- How does plant function regulate land-atmosphere feedbacks during climate extremes?
+- How do individual plant responses scale up to influence ecosystem function under changing climates?
+
+#### ***Ecosystem and climate feedbacks:***
+
+- How does plant function regulate land–atmosphere feedbacks during climate extremes?
 - How will plant responses to environmental change alter the terrestrial hydrological cycle?
+
+#### ***Biogeography and future landscapes:***
+
 - How resilient are species distributions to climate change, and how will they shift in the future?
 - How effectively can nature-based forest restoration mitigate the impacts of droughts and heatwaves?
 - Which species should we plant in future landscapes and cities to enhance climate resilience?
