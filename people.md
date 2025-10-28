@@ -34,6 +34,17 @@ Martin De Kauwe is Professor of Global Change Ecology at the <a href="http://www
 
 ### Research group
 
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/chrysanthi.png"/>
+
+Chrysanthi Economou is a PhD student at the University of Reading in <a href="https://www.trees-in-fields-network.co.uk/" style="color:#16a085;">Amelia Hood's </a> group. Chrysanthi's PhD will explore agroforestry solutions for soil health, climate resilience, and food security.
+
+<a href="mailto:chrysanthi.economou@pgr.reading.ac.uk" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg">
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/lirong.jpg"/>
 
 Lirong You is a Postdoctoral Researcher at the University of Bristol.
@@ -43,7 +54,6 @@ Lirong is working on our UK Natural Environment Research Council (NERC) grant to
 
 <a href="mailto:gk25435@bristol.ac.uk" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg">
 
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
