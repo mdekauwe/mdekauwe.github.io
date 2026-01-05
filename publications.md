@@ -9,18 +9,17 @@ subtitle:
 
 <ol reversed start="127">
 
-<li><p> Zhan, C., Winkler, A. J., <b>De Kauwe, M. G.</b>, Sabot, M., Reichstein, M., Rammig, A., Zaehle, S. and Orth, R. (2025) Effects of Increasing [CO<sub>2</sub>] on the Dominant Drivers of Terrestrial Evapotranspiration.  <i>In review</i>. </p></li>
+<li><p> Zhan, C., Winkler, A. J., <b>De Kauwe, M. G.</b>, Sabot, M., Reichstein, M., Rammig, A., Zaehle, S. and Orth, R. (2026) Effects of Increasing [CO<sub>2</sub>] on the Dominant Drivers of Terrestrial Evapotranspiration.  <i>In review</i>. </p></li>
 
-<li><p> Gauthey, A, Limousin, J.-M., Bergström, M., <b>De Kauwe, M. G.</b>, Deluigi, J., Didion-Gency, M., Milano, A. and Grossiord, C. (2025) Stomatal decoupling during heatwaves does not alter leaf cooling or recovery in Quercus ilex under long-term experimental drought.  <i>In review</i>. </p></li>
+<li><p> Gauthey, A, Limousin, J.-M., Bergström, M., <b>De Kauwe, M. G.</b>, Deluigi, J., Didion-Gency, M., Milano, A. and Grossiord, C. (2026) Stomatal decoupling during heatwaves does not alter leaf cooling or recovery in Quercus ilex under long-term experimental drought.  <i>In review</i>. </p></li>
 
-<li><p> Alam, I., A., Cheesman, A., Farquhar, G., Givnish, T., <b>De Kauwe, M. G.</b>; Schulze, E.-D., Westerband, A., Wright, I., and Cernusak, L. (2025) Soil phosphorus drives subcontinental patterns of carbon-isotope discrimination across Australia.  <i>In review</i>. </p></li>
+<li><p> Alam, I., A., Cheesman, A., Farquhar, G., Givnish, T., <b>De Kauwe, M. G.</b>; Schulze, E.-D., Westerband, A., Wright, I., and Cernusak, L. (2026) Soil phosphorus drives subcontinental patterns of carbon-isotope discrimination across Australia.  <i>In review</i>. </p></li>
 
-<li><p> Rodríguez-Hernández, D. I., Fischer, F. J., O’Brien, D. A., <b>De Kauwe, M. G.</b>, Wang, B., Bouriaud, O. and Jucker, T. (2025) Limited predictability of tree-level responses to drought across European forests.  <i>In review</i>. </p></li>
+<li><p> Rodríguez-Hernández, D. I., Fischer, F. J., O’Brien, D. A., <b>De Kauwe, M. G.</b>, Wang, B., Bouriaud, O. and Jucker, T. (2026) Limited predictability of tree-level responses to drought across European forests.  <i>In review</i>. </p></li>
 
+<li><p> Zhu, Z., Wang, H., Zhou, B., Harrison, S. P., <b>De Kauwe, M. G.</b>, and Prentice, I. C. (2026) Optimal light use strategy explains seasonal dynamics and trends in vegetation greenness.  <i>In review</i>. </p></li>
 
-<li><p> Zhu, Z., Wang, H., Zhou, B., Harrison, S. P., <b>De Kauwe, M. G.</b>, and Prentice, I. C. (2025) Optimal light use strategy explains seasonal dynamics and trends in vegetation greenness.  <i>In review</i>. </p></li>
-
-<li><p> Jongen, H.J., Lipson, M., Teuling, A.J., Grimmond, S., Best, M., Baik, J.-J., Demuzere, M., Fortuniak, K., Huang, Y., <b>De Kauwe, M. G.</b>, Meili, N., Park, S.-B., Wang, C., Wang, Z. and Steeneveld, G.J. (2025) Do Urban-PLUMBER land surface models underestimate surface runoff? <i>In review</i>. </p></li>
+<li><p> Jongen, H.J., Lipson, M., Teuling, A.J., Grimmond, S., Best, M., Baik, J.-J., Demuzere, M., Fortuniak, K., Huang, Y., <b>De Kauwe, M. G.</b>, Meili, N., Park, S.-B., Wang, C., Wang, Z. and Steeneveld, G.J. (2026) Do Urban-PLUMBER land surface models underestimate surface runoff? <i>In review</i>. </p></li>
 
 </ol>
 
