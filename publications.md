@@ -27,7 +27,7 @@ subtitle:
 
 <ol reversed>
 
-<li><p> Wang, X., Fu, Z., Ciais, P., Wang, L., Buchmann, N., Keenan, T., <b>De Kauwe, M. G.</b>, Peñuelas8, J., Chen, G., Gong, X., Xiao, J., Li, X., Xie, Q.,  Stoy, P. C., Makowski, D., Smith, W. K., Wang, H., Wang, S., Zhang, F. and Niu, S. (2025) Global distribution and changes of leaf-level intrinsic water use efficiency and their responses to water stress. Nature Communications, accepted. </p></li>
+<li><p> Wang, X., Fu, Z., Ciais, P., Wang, L., Buchmann, N., Keenan, T., <b>De Kauwe, M. G.</b>, Peñuelas, J., Chen, G., Gong, X., Xiao, J., Li, X., Xie, Q.,  Stoy, P. C., Makowski, D., Smith, W. K., Wang, H., Wang, S., Zhang, F. and Niu, S. (2025) Global distribution and changes of leaf-level intrinsic water use efficiency and their responses to water stress. Nature Communications, accepted. </p></li>
 
 <li><p> Cranko Page, J., <b>De Kauwe, M. G.</b>, Pitman, A. J., Towers, I. R., Arduini, G., Best, M. J., Ferguson, C., Knauer, J., Kim, H., Lawrence, D. M., Nitta, T., Oleson, K. W., Ottlé, C., Ukkola, A., Vuichard, N. and Abramowitz, G. (2025) Land Surface Model Underperformance Tied to Specific Meteorological Conditions.  Biogeosciences, accepted. </p></li>
 
