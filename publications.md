@@ -31,7 +31,7 @@ subtitle:
 
 <li><p> Cranko Page, J., <b>De Kauwe, M. G.</b>, Pitman, A. J., Towers, I. R., Arduini, G., Best, M. J., Ferguson, C., Knauer, J., Kim, H., Lawrence, D. M., Nitta, T., Oleson, K. W., Ottlé, C., Ukkola, A., Vuichard, N. and Abramowitz, G. (2025) Land Surface Model Underperformance Tied to Specific Meteorological Conditions.  Biogeosciences, accepted. </p></li>
 
-<li><p> Eckes-Shephard, A. H., Argles, A., Brzeziecki, B., Cox, P., <b>De Kauwe, M. G.</b>, Esquivel-Muelbert, A., Fisher, R., Hurtt, G., Knauer, J., Koven, C., Lehtonen, A., Luyssaert, S., Marques, L., Ma, L., Marie, G., Moore, J., Needham, J., Olin, S., Peltoniemi, M., Sato, H., Sitch, S., Stocker, B., Weng, E., Zuleta, D., and Pugh, T. (2025) Demography, Dynamics and Data: Building Confidence for Simulating Changes in the World’s Forests. New Phytologist, accepted. </p></li>
+<li><p> Eckes-Shephard, A. H., Argles, A., Brzeziecki, B., Cox, P., <b>De Kauwe, M. G.</b>, Esquivel-Muelbert, A., Fisher, R., Hurtt, G., Knauer, J., Koven, C., Lehtonen, A., Luyssaert, S., Marques, L., Ma, L., Marie, G., Moore, J., Needham, J., Olin, S., Peltoniemi, M., Sato, H., Sitch, S., Stocker, B., Weng, E., Zuleta, D., and Pugh, T. (2025) Demography, Dynamics and Data: Building Confidence for Simulating Changes in the World’s Forests. New Phytologist, 248, 2722-2749. </p></li>
 
 <li><p> Hu, Y., Fu, B., Michaelides, K., <b>De Kauwe, M. G.</b>, Wang, J., Zhang, W., Wang, Y., Shen, M., Xiao, X., Qin, Y., Feng, X., Wu, C., Chen, Y., Wang, Z. and Wan, L. (2025) Contrasting Trends in Onset of Spring Green-up between Grasslands and Forests in China.  Earth's Future, 13, e2024EF005379. </p></li>
 
