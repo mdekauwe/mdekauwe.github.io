@@ -7,7 +7,9 @@ subtitle:
 
 ### In review
 
-<ol reversed start="127">
+<ol reversed start="128">
+
+<li><p> Cheng, X., Zhan, C., <b>De Kauwe, M. G.</b>, Hildebrandt, A., Orth, R (2026) Global vegetation responses to wet and dry soil moisture extremes.  <i>In review</i>. </p></li>
 
 <li><p> Zhan, C., Winkler, A. J., <b>De Kauwe, M. G.</b>, Sabot, M., Reichstein, M., Rammig, A., Zaehle, S. and Orth, R. (2026) Effects of Increasing [CO<sub>2</sub>] on the Dominant Drivers of Terrestrial Evapotranspiration.  <i>In review</i>. </p></li>
 
