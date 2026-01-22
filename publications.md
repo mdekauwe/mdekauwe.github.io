@@ -7,7 +7,9 @@ subtitle:
 
 ### In review
 
-<ol reversed start="128">
+<ol reversed start="129">
+
+<li><p> Papastefanou, P., Arend, M., <b>De Kauwe, M. G.</b>, Hoch, G., Hu, P.-H., Kahmen, A., Knuever, T., Rammig, A., Sabot, M., Stacke, T., Steger, D. N. and Zaehle, S. (2026) Balancing on the Edge: Local Water Access and Hydraulic Strategy Determine Drought Survival in Spruce.  <i>In review</i>. </p></li>
 
 <li><p> Cheng, X., Zhan, C., <b>De Kauwe, M. G.</b>, Hildebrandt, A., Orth, R (2026) Global vegetation responses to wet and dry soil moisture extremes.  <i>In review</i>. </p></li>
 
