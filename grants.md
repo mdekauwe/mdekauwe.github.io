@@ -4,7 +4,11 @@ title:
 subtitle:
 ---
 
-<span style="color:#16a085"> 2024--2026: Australian Research Council Discovery  </span>
+<span style="color:#16a085"> 2026--2029: European Comission </span>
+<br><i> &ndash; CoFlame: Copernicus Fire and Land-Atmosphere Modelling of Emissions</i>
+<br> Consortium led by European Centre for Medium-range Weather Forecasts (ECMWF), including <b>De Kauwe, M.</b>.  
+
+<span style="color:#16a085"> 2024--2026: Australian Research Council Discovery </span>
 <br><i> &ndash; Australian tropical rainforests in the face of climate change</i>
 <br> Cernusak, L., Rifai, S., <b>De Kauwe, M.</b>, Grossiord, C. and Slot, M.
 
