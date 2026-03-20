@@ -21,13 +21,15 @@ subtitle:
 
 <li><p> Zhu, Z., Wang, H., Zhou, B., Harrison, S. P., <b>De Kauwe, M. G.</b>, and Prentice, I. C. (2026) Optimal light use strategy explains seasonal dynamics and trends in vegetation greenness.  <i>In review</i>. </p></li>
 
-<li><p> Jongen, H.J., Lipson, M., Teuling, A.J., Grimmond, S., Best, M., Baik, J.-J., Demuzere, M., Fortuniak, K., Huang, Y., <b>De Kauwe, M. G.</b>, Meili, N., Park, S.-B., Wang, C., Wang, Z. and Steeneveld, G.J. (2026) Do Urban-PLUMBER land surface models underestimate surface runoff? <i>In review</i>. </p></li>
 
 </ol>
 
 ### In print
 
 <ol reversed>
+
+
+<li><p> Jongen, H.J., Lipson, M., Teuling, A.J., Grimmond, S., Best, M., Baik, J.-J., Demuzere, M., Fortuniak, K., Huang, Y., <b>De Kauwe, M. G.</b>, Meili, N., Park, S.-B., Wang, C., Wang, Z. and Steeneveld, G.J. (2026) Surface Runoff Discrepancy in Urban-PLUMBER land surface models. Geophysical Research Letters, accepted. </p></li>
 
 <li><p> Alam, I., A., Cheesman, A., Farquhar, G., Givnish, T., <b>De Kauwe, M. G.</b>; Schulze, E.-D., Westerband, A., Wright, I., and Cernusak, L. (2026) Soil phosphorus drives subcontinental patterns of carbon-isotope discrimination across Australia.  New Phytologist, accepted. </p></li>
 
