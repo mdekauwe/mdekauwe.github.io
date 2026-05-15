@@ -4,11 +4,11 @@ title:
 subtitle:
 ---
 
-Prospective students interested in understanding how global change affects plants and shapes the carbon and water cycles are encouraged to get in touch. We welcome applicants with a background in biology, mathematics, physics, geography, atmospheric science, engineering, or related quantitative disciplines. When contacting me, please include a brief summary on how your interests connect with our research themes.
+Prospective students and postdocs interested in understanding how global change affects plants and shapes the carbon and water cycles are encouraged to get in touch. We welcome applicants with backgrounds in biology, mathematics, physics, geography, atmospheric science, engineering, or related quantitative disciplines. When contacting me, please include a brief summary on how your interests connect with our research themes.
 
-I would also be very keen to welcome visitors so please get in contact!
+We also welcome visiting researchers, so please feel free to get in contact if you are interested in spending time with the group.
 
-The city of Bristol is a great place to <a href="https://visitbristol.co.uk/inspire/all-about-bristol" style="color:#16a085">work and live.</a>
+Bristol is a great place to <a href="https://visitbristol.co.uk/inspire/all-about-bristol" style="color:#16a085">work and live.</a>
 
 <div class="floated_img">
 <center><img src="assets/img/UK.gif" style="width: 30%; height: 30%" alt="Aus NDVI" ></center>
@@ -19,7 +19,7 @@ The city of Bristol is a great place to <a href="https://visitbristol.co.uk/insp
 
 
 
-### Graduate:
+### Graduate opportunities:
 
 - <a href="https://www.bristol.ac.uk/study/postgraduate/2022/doctoral/phd-great-western-four-dtp/" style="color:#16a085">NERC-funded PhD studentships</a> primarily open to UK students with a limited number for international students
 
@@ -40,7 +40,7 @@ The city of Bristol is a great place to <a href="https://visitbristol.co.uk/insp
 - <a href="http://www.bristol.ac.uk/cabot/postgraduate-opportunities/cabot-masters/" style="color:#16a085">Master's by Research (MScR)</a> in Global Environmental Challenges
 
 
-### Fellowships:
+### Fellowship opportunities:
 
 There are a number of fellowships available, the list below is not exhaustive (take a look at our <a href="https://www.bristol.ac.uk/biology/research/opportunities/" style="color:#16a085">department's website</a> for more details). I would be extremely happy to act as mentor and support applicants interested in coming to Bristol, please get in touch!
 
