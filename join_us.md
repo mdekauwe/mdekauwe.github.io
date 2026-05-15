@@ -37,7 +37,6 @@ Bristol is a great place to <a href="https://visitbristol.co.uk/inspire/all-abou
 
 - <a href="https://www.bristol.ac.uk/students/support/finances/scholarships/zutshi-smith/" style="color:#16a085">Zutshi-Smith Scholarship</a> are for students from India, with preference given to applicants of Kashmiri origin
 
-- <a href="http://www.bristol.ac.uk/cabot/postgraduate-opportunities/cabot-masters/" style="color:#16a085">Master's by Research (MScR)</a> in Global Environmental Challenges
 
 
 ### Fellowship opportunities:
@@ -48,7 +47,8 @@ There are a number of fellowships available, the list below is not exhaustive (t
 
 - <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships" style="color:#16a085">EU Marie Skłodowska-Curie Fellowship</a> scheme is open to EU citizens that would like to work in the UK
 
-- <a href="https://royalcommission1851.org/fellowships/research-fellowships" style="color:#16a085">1851 Research Fellowships</a>
+- <a href="https://royalcommission1851.org/fellowships/research-fellowships" style="color:#16a085">1851 Research Fellowships</a> scheme is open to potential fellows not at Bristol
+
 
 - <a href="https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships" style="color:#16a085">Human Frontier Science Program</a>
 
