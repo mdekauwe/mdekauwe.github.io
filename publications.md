@@ -25,7 +25,7 @@ subtitle:
 <li><p> Gauthey, A, Limousin, J.-M., Bergström, M., <b>De Kauwe, M. G.</b>, Deluigi, J., Didion-Gency, M., Milano, A. and Grossiord, C. (2026) Stomatal decoupling during heatwaves does not alter leaf cooling or recovery in Quercus ilex under long-term experimental drought.  <i>In review</i>. </p></li>
 
 
-<li><p> Zhu, Z., Wang, H., Zhou, B., Harrison, S. P., <b>De Kauwe, M. G.</b>, and Prentice, I. C. (2026) Optimal light use strategy explains seasonal dynamics and trends in vegetation greenness.  <i>In review</i>. </p></li>
+<li><p> Zhu, Z., Wang, H., Zhou, B., Harrison, S. P., <b>De Kauwe, M. G.</b>, and Prentice, I. C. (2026) Optimal canopy light-use strategy shapes global greenness dynamics.  <i>In review</i>. </p></li>
 
 
 </ol>
