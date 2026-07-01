@@ -7,9 +7,9 @@ subtitle:
 
 ### In review
 
-<ol reversed start="131">
+<ol reversed start="132">
 
-
+<li><p> Chen, Y., Xie, Q., Thompson, S. E., <b>De Kauwe, M. G.</b>, and Keenan, T. F. (2026) Woody drylands amplify ENSO-driven variability in the global carbon cycle. <i>In review</i>. </p></li>
 
 <li><p> Liu, C., Yu, L., Zhang, Y., Feng, X., <b>De Kauwe, M. G.</b>, AghaKouchak, A., Miralles, D., Orth, R., Teuling, A. J., Miao, C., and Gao, X.
  (2026) Compound drought and heatwaves increase global stomatal suboptimality and carbon–water decoupling. <i>In review</i>. </p></li>
