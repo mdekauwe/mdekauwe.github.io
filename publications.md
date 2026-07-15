@@ -18,8 +18,6 @@ subtitle:
 
 <li><p> Papastefanou, P., Arend, M., <b>De Kauwe, M. G.</b>, Hoch, G., Hu, P.-H., Kahmen, A., Knuever, T., Rammig, A., Sabot, M., Stacke, T., Steger, D. N. and Zaehle, S. (2026) Balancing on the Edge: Local Water Access and Hydraulic Strategy Determine Drought Survival in Spruce.  <i>In review</i>. </p></li>
 
-<li><p> Cheng, X., Zhan, C., <b>De Kauwe, M. G.</b>, Hildebrandt, A., Orth, R (2026) Global vegetation responses to wet and dry soil moisture extremes.  <i>In review</i>. </p></li>
-
 <li><p> Zhan, C., Winkler, A. J., <b>De Kauwe, M. G.</b>, Sabot, M., Reichstein, M., Rammig, A., Zaehle, S. and Orth, R. (2026) Effects of Increasing [CO<sub>2</sub>] on the Dominant Drivers of Terrestrial Evapotranspiration.  <i>In review</i>. </p></li>
 
 <li><p> Gauthey, A, Limousin, J.-M., Bergström, M., <b>De Kauwe, M. G.</b>, Deluigi, J., Didion-Gency, M., Milano, A. and Grossiord, C. (2026) Stomatal decoupling during heatwaves does not alter leaf cooling or recovery in Quercus ilex under long-term experimental drought.  <i>In review</i>. </p></li>
@@ -34,8 +32,9 @@ subtitle:
 
 <ol reversed>
 
-<li><p> Rodríguez-Hernández, D. I., Fischer, F. J., O’Brien, D. A., <b>De Kauwe, M. G.</b>, Wang, B., Bouriaud, O. and Jucker, T. (2026) Limited predictability of tree-level responses to drought across European forests.   Forest Ecology and Management, accepted. </p></li>
+<li><p> Cheng, X., Zhan, C., <b>De Kauwe, M. G.</b>, Hildebrandt, A., Orth, R (2026) Global vegetation responses to wet and dry soil moisture extremes.  Biogeosciences, accepted. </p></li>
 
+<li><p> Rodríguez-Hernández, D. I., Fischer, F. J., O’Brien, D. A., <b>De Kauwe, M. G.</b>, Wang, B., Bouriaud, O. and Jucker, T. (2026) Limited predictability of tree-level responses to drought across European forests. Forest Ecology and Management, accepted. </p></li>
 
 <li><p> Jongen, H.J., Lipson, M., Teuling, A.J., Grimmond, S., Best, M., Baik, J.-J., Demuzere, M., Fortuniak, K., Huang, Y., <b>De Kauwe, M. G.</b>, Meili, N., Park, S.-B., Wang, C., Wang, Z. and Steeneveld, G.J. (2026) Surface Runoff Discrepancy in Urban-PLUMBER land surface models. Geophysical Research Letters, accepted. </p></li>
 
