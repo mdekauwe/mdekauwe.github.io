@@ -32,7 +32,7 @@ subtitle:
 
 <ol reversed>
 
-<li><p> Cheng, X., Zhan, C., <b>De Kauwe, M. G.</b>, Hildebrandt, A., Orth, R (2026) Global vegetation responses to wet and dry soil moisture extremes.  Biogeosciences, accepted. </p></li>
+<li><p> Cheng, X., Zhan, C., <b>De Kauwe, M. G.</b>, Hildebrandt, A., Orth, R. (2026) Global vegetation responses to wet and dry soil moisture extremes.  Biogeosciences, accepted. </p></li>
 
 <li><p> Rodríguez-Hernández, D. I., Fischer, F. J., O’Brien, D. A., <b>De Kauwe, M. G.</b>, Wang, B., Bouriaud, O. and Jucker, T. (2026) Limited predictability of tree-level responses to drought across European forests. Forest Ecology and Management, accepted. </p></li>
 
