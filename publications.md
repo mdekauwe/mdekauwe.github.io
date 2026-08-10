@@ -7,7 +7,9 @@ subtitle:
 
 ### In review
 
-<ol reversed start="132">
+<ol reversed start="133">
+
+<li><p> <sup>&#x02021;</sup><u>Baguley, J. C.</u>, Quaife, T., Rowland, L., Meir, P., Bell, M. C., Sabot, M. E. B. and <b>De Kauwe, M. G.</b> (2026) Limited modelled legacy effects of drought on carbon and water fluxes in a temperate oak forest despite hydraulic impairment. <i>In review</i>. </p></li>
 
 <li><p> Chen, Y., Xie, Q., Thompson, S. E., <b>De Kauwe, M. G.</b>, and Keenan, T. F. (2026) Woody drylands amplify ENSO-driven variability in the global carbon cycle. <i>In review</i>. </p></li>
 
