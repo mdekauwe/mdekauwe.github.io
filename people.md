@@ -101,11 +101,13 @@ Thamali's PhD scholarship is a partnership between Bristol, the <a href="https:/
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+### Alumni - gone but not forgotten
+
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/cale.jpeg"/>
 
-Cale Baguley is a Postdoctoral Researcher at the University of Bristol.
+Cale Baguley was a Postdoctoral Researcher at the University of Bristol.
 
-Cale is working on our UK Natural Environment Research Council (NERC) grant to characterise the timescales, spatial extent, and mechanisms that govern ecosystem legacies to drought and heatwaves during European summers.
+Cale worked on our UK Natural Environment Research Council (NERC) funded project, investigating how drought causes xylem impairment and implementing these processes within the JULES model to capture the legacy effects of drought across successive summers.
 
 <a href="mailto:jb14389@bristol.ac.uk" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
 <a href="https://scholar.google.com/citations?user=kvGSPQYAAAAJ&hl=en" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
@@ -114,8 +116,6 @@ Cale is working on our UK Natural Environment Research Council (NERC) grant to c
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-
-## Alumni
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/Foto-Xueyan-Cheng.jpg"/>
 
