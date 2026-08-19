@@ -114,7 +114,6 @@ Cale worked on our UK Natural Environment Research Council (NERC) funded project
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/Foto-Xueyan-Cheng.jpg"/>
@@ -139,7 +138,6 @@ Ziqi Zhu, visiting PhD student from Tsinghua Univerisity. Ziqi is applying eco-e
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/ying.png"/>
 
@@ -148,7 +146,6 @@ Ying Hu, visiting PhD student from the Research Center for Eco-environmental Sci
 <a href="mailto:huying20@mails.ucas.ac.cn" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
 <a href="https://scholar.google.com.au/citations?hl=en&user=oo7FaoYAAAAJ" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
