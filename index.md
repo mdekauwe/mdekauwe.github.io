@@ -45,7 +45,12 @@ sitemap:
   <p></p>
 </div>
 
+<!--
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=ucht&d=aPco3MWa80OUX4PipZdxfDGoBfQziq50CLbq759xSls"></script>
+-->
+
+<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=3xwVN4pji8tC7RaRB7tlNtPfO87fqzMN5AvGxdBlvwg&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
+
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-45662310-1"></script>
