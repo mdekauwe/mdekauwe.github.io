@@ -117,11 +117,24 @@ Cale is working on our UK Natural Environment Research Council (NERC) grant to c
 
 ## Alumni
 
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/Foto-Xueyan-Cheng.jpg"/>
+
+Xueyan Cheng, visiting PhD student from the University of Freiburg. Xueyan is exploring how the land surface responds to wet and dry extremes.
+
+<a href="mailto:zq-zhu20@mails.tsinghua.edu.cn" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
+<a href="https://scholar.google.com/citations?user=2tvrOHQAAAAJ&hl=en" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/ziqi.jpeg"/>
 
 Ziqi Zhu, visiting PhD student from Tsinghua Univerisity. Ziqi is applying eco-evolutionary optimality principles to understand trends in seasonal dynamics in leaf growth.
 
-<a href="mailto:zq-zhu20@mails.tsinghua.edu.cn" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
+<a href="mailto:xueyan.cheng@ecoclim.uni-freiburg.de" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg"> </i></a>
 <a href="https://www.researchgate.net/profile/Ziqi-Zhu-10/publications" class="social-links__entry" target="_blank"> <i class="fa fa-google fa-lg"><span class="label">scholar</span></i></a>
 
 <p>&nbsp;</p>
