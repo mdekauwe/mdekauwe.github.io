@@ -7,7 +7,9 @@ subtitle:
 
 ### In review
 
-<ol reversed start="133">
+<ol reversed start="134">
+
+<li><p> Zhu, Z., Wang, H., <b>De Kauwe, M. G.</b>, Harrison, S. P. and Prentice, I. C. (2026) Greening drives variability in water-limited regions, but physiological plasticity dominates the global productivity trend. <i>In review</i>. </p></li> 
 
 <li><p> <sup>&#x02021;</sup><u>Baguley, J. C.</u>, Quaife, T., Rowland, L., Meir, P., Bell, M. C., Sabot, M. E. B. and <b>De Kauwe, M. G.</b> (2026) Limited modelled legacy effects of drought on carbon and water fluxes in a temperate oak forest despite hydraulic impairment. <i>In review</i>. </p></li>
 
