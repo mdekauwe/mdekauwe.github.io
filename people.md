@@ -34,6 +34,17 @@ Martin De Kauwe is Professor of Global Change Ecology at the <a href="http://www
 
 ### Research group
 
+<img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/Emilie.jpeg"/>
+
+Emilie Revill-Hivet is an MRes student at the University of Bristol. Emilie will investigate the legacy impacts of climate extremes, with a particular focus on assessing the extent of canopy dieback associated with hot and dry summers across Europe.
+
+<a href="mailto:vv22430@bristol.ac.uk" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg">
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/Valentina.jpg"/>
 
 Valentina Lara Rivera is a PhD student at the University of Exeter in <a href="https://experts.exeter.ac.uk/20181-lina-mercado" style="color:#16a085;">Lina Mercado's </a> group. Valentina's PhD will explore the response of European forest to heatwaves.
@@ -62,7 +73,6 @@ Lirong You is a Postdoctoral Researcher at the University of Bristol.
 
 Lirong is working on our UK Natural Environment Research Council (NERC) grant to characterise the timescales, spatial extent, and mechanisms that govern ecosystem legacies to drought and heatwaves during European summers.
 
-
 <a href="mailto:gk25435@bristol.ac.uk" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg">
 
 <p>&nbsp;</p>
@@ -70,7 +80,7 @@ Lirong is working on our UK Natural Environment Research Council (NERC) grant to
 
 <img style="padding: 0px 10px 0px 0px; width: 25%; height: 50%; float: left;" align="middle" src="assets/img/ross.jpeg"/>
 
-Ross Upton is an MRes student at the University of Bristol. Ross's master’s degree is investigating opportunities for developing climate-resilient afforestation schemes.
+Ross Upton is an MRes student at the University of Bristol. Ross is investigating opportunities for developing climate-resilient afforestation schemes.
 
 <a href="mailto:f19577@bristol.ac.uk" class="social-links__entry" target="_blank"> <i class="fa fa-envelope-square fa-lg">
 
