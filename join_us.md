@@ -4,6 +4,14 @@ title:
 subtitle:
 ---
 
+### Current opportunities:
+
+We are recruiting an 3-Year Postdoctoral researcher in Vegetation and Fire Modelling. The Postdoctoral Research Associate will work on the Copernicus Fire and Land-Atmosphere Modelling of Emissions (CoFLAME) project. CoFLAME will deliver scientific and technical advances to better account for interactions between wildfires and vegetation, improving estimates of wildfire emissions and natural CO2 fluxes, while enhancing the forecasting of fire activity, fire probability, and fire spread. The postdoc will develop new theoretical and modelling frameworks to quantify vegetation recovery, mortality, and ecosystem legacy effects following fire. This work will combine data synthesis, model development, and analysis to deliver new process-orientated insights into post-fire ecosystem dynamics and the role of vegetation legacies in shaping land-atmosphere carbon exchange and ecosystem resilience under future climate change.
+
+Application details can be found: <a href="https://www.bristol.ac.uk/jobs/find/details/?nPostingId=208656&nPostingTargetId=391779&id=Q50FK026203F3VBQBV7V77V83&LG=UK&languageSelect=UK&mask=newuobext" style="color:#16a085"> by clicking here </a>. The position closes on the 05/11/2026.
+
+### Join the lab:
+
 Prospective students and postdocs interested in understanding how global change affects plants and shapes the carbon and water cycles are encouraged to get in touch. We welcome applicants with backgrounds in biology, mathematics, physics, geography, atmospheric science, engineering, or related quantitative disciplines. When contacting me, please include a brief summary on how your interests connect with our research themes.
 
 We also welcome visiting researchers, so please feel free to get in contact if you are interested in spending time with the group.
