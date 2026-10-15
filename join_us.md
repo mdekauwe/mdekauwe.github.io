@@ -6,7 +6,7 @@ subtitle:
 
 ### Current opportunities:
 
-We are recruiting a 3-Year Postdoctoral researcher in Vegetation and Fire Modelling. The Postdoctoral Research Associate will work on the Copernicus Fire and Land-Atmosphere Modelling of Emissions (CoFLAME) project. CoFLAME will deliver scientific and technical advances to better account for interactions between wildfires and vegetation, improving estimates of wildfire emissions and natural CO2 fluxes, while enhancing the forecasting of fire activity, fire probability, and fire spread.
+We are recruiting a 3-year Postdoctoral researcher in Vegetation and Fire Modelling. The Postdoctoral Research Associate will work on the Copernicus Fire and Land-Atmosphere Modelling of Emissions (CoFLAME) project. CoFLAME will deliver scientific and technical advances to better account for interactions between wildfires and vegetation, improving estimates of wildfire emissions and natural CO2 fluxes, while enhancing the forecasting of fire activity, fire probability, and fire spread.
 
 The postdoc will develop new theoretical and modelling frameworks to quantify vegetation recovery, mortality, and ecosystem legacy effects following fire. This work will combine data synthesis, model development, and analysis to deliver new process-orientated insights into post-fire ecosystem dynamics and the role of vegetation legacies in shaping land-atmosphere carbon exchange and ecosystem resilience under future climate change.
 
