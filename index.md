@@ -4,60 +4,45 @@ sitemap:
   priority: 0.9
 ---
 
+<p class="intro">Welcome to the Global Change Ecology Lab at the University of Bristol. We use experiments, observations, and models to understand how plants and ecosystems respond to a changing climate</p>
+
 <div class="floated_img">
-  <img src="assets/img/visitors.JPG" style="width: 100%; height: 100%" />
+  <img alt="Dinner! Abisko, Sweden" src="assets/img/visitors.JPG" style="width: 100%; height: 100%" />
   <p>Dinner! Abisko, Sweden</p>
 </div>
 
 <div class="floated_img">
-  <img src="assets/img/hemispherical_lai.jpg" style="width: 100%; height: 100%" />
+  <img alt="Hemispherical photograph. Oregon, USA" src="assets/img/hemispherical_lai.jpg" style="width: 100%; height: 100%" />
   <p>Hemispherical photograph. Oregon, USA</p>
 </div>
 
 <div class="floated_img">
-  <img src="assets/img/oregon.JPG" style="width: 100%; height: 100%" />
+  <img alt="View from the Metolius flux tower. Oregon, USA" src="assets/img/oregon.JPG" style="width: 100%; height: 100%" />
   <p>View from the Metolius flux tower. Oregon, USA</p>
 </div>
 
 <div class="floated_img">
-  <img src="assets/img/cairns.jpg" style="width: 100%; height: 100%" />
+  <img alt="Daintree Rainforest canopy crane. Cairns, Australia" src="assets/img/cairns.jpg" style="width: 100%; height: 100%" />
   <p>Daintree Rainforest canopy crane. Cairns, Australia</p>
 </div>
 
 <div class="floated_img">
-  <img src="assets/img/abisko.jpg" style="width: 100%; height: 100%" />
+  <img alt="View from the helicopter. Abisko, Sweden" src="assets/img/abisko.jpg" style="width: 100%; height: 100%" />
   <p>View from the helicopter. Abisko, Sweden</p>
 </div>
 
 <div class="floated_img">
-  <img src="assets/img/face.jpg" style="width: 100%; height: 100%" />
+  <img alt="Grassland elevated CO2 experiment. Tasmania, Australia" src="assets/img/face.jpg" style="width: 100%; height: 100%" />
   <p>Grassland elevated CO<sub>2</sub> experiment. Tasmania, Australia</p>
 </div>
 
 <div class="floated_img">
-  <img src="assets/img/tea.jpg" style="width: 100%; height: 100%" />
+  <img alt="Tea fields. Talawakele, Sri Lanka" src="assets/img/tea.jpg" style="width: 100%; height: 100%" />
   <p>Tea fields. Talawakele, Sri Lanka</p>
 </div>
 
 <div class="floated_img">
-  <img src="assets/img/landsat.png" style="width: 100%; height: 100%" />
+  <img alt="Landsat satellite image" src="assets/img/landsat.png" style="width: 100%; height: 100%" />
   <p></p>
   <p></p>
 </div>
-
-<!--
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=ucht&d=aPco3MWa80OUX4PipZdxfDGoBfQziq50CLbq759xSls"></script>
--->
-
-<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=3xwVN4pji8tC7RaRB7tlNtPfO87fqzMN5AvGxdBlvwg&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
-
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-45662310-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-45662310-1');
-</script>

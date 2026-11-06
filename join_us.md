@@ -1,16 +1,20 @@
 ---
 layout: page
+description: "PhD, postdoc and fellowship opportunities in the Global Change Ecology Lab at the University of Bristol."
+tab_title: Join us
 title:
 subtitle:
 ---
 
+<!-- CoFLAME postdoc advert, closed 05/11/2026
 ### Current Postdoc opportunities:
 
 We are recruiting a 3-year Postdoctoral researcher in Vegetation and Fire Modelling. The Postdoctoral Research Associate will work on the Copernicus Fire and Land-Atmosphere Modelling of Emissions (CoFLAME) project. CoFLAME will deliver scientific and technical advances to better account for interactions between wildfires and vegetation, improving estimates of wildfire emissions and natural CO2 fluxes, while enhancing the forecasting of fire activity, fire probability, and fire spread.
 
 The postdoc will develop new theoretical and modelling frameworks to quantify vegetation recovery, mortality, and ecosystem legacy effects following fire. This work will combine data synthesis, model development, and analysis to deliver new process-orientated insights into post-fire ecosystem dynamics and the role of vegetation legacies in shaping land-atmosphere carbon exchange and ecosystem resilience under future climate change.
 
-For more details, and information on how to apply, please visit: <a href="https://www.bristol.ac.uk/jobs/find/details/?nPostingId=208656&nPostingTargetId=391779&id=Q50FK026203F3VBQBV7V77V83&LG=UK&languageSelect=UK&mask=newuobext" style="color:#16a085"> by clicking here </a>. The position closes on the 05/11/2026.
+For more details, and information on how to apply, please visit: <a href="https://www.bristol.ac.uk/jobs/find/details/?nPostingId=208656&nPostingTargetId=391779&id=Q50FK026203F3VBQBV7V77V83&LG=UK&languageSelect=UK&mask=newuobext"> by clicking here </a>. The position closes on the 05/11/2026.
+-->
 
 ### Current PhD opportunities:
 
@@ -18,9 +22,9 @@ We are recruiting for two PhD studentships:
 
 1. "Will tomorrow's climate grow tomorrow's food? Modelling crop resilience
 across the UK." <a href="https://bpb-eu-w2.wpmucdn.com/blogs.bristol.ac.uk/dist/f/373/files/2026/10/Project_3554.pdf
-" style="color:#16a085">Click for details.</a>
+">Click for details.</a>
 
-2. “Thirsty Forests: How Trees Use Water to Survive Extreme Summer” <a href=" " style="color:#16a085">Details will be added.</a>
+2. “Thirsty Forests: How Trees Use Water to Survive Extreme Summer” <a href=" ">Details will be added.</a>
 
 
 
@@ -32,7 +36,7 @@ Prospective students and postdocs interested in understanding how global change 
 
 We also welcome visiting researchers, so please feel free to get in contact if you are interested in spending time with the group.
 
-Bristol is a great place to <a href="https://visitbristol.co.uk/inspire/all-about-bristol" style="color:#16a085">work and live.</a>
+Bristol is a great place to <a href="https://visitbristol.co.uk/inspire/all-about-bristol">work and live.</a>
 
 <div class="floated_img">
 <center><img src="assets/img/UK.gif" style="width: 30%; height: 30%" alt="Aus NDVI" ></center>
@@ -45,51 +49,37 @@ Bristol is a great place to <a href="https://visitbristol.co.uk/inspire/all-abou
 
 ### Graduate opportunities:
 
-- <a href="https://www.bristol.ac.uk/study/postgraduate/2022/doctoral/phd-great-western-four-dtp/" style="color:#16a085">NERC-funded PhD studentships</a> primarily open to UK students with a limited number for international students
+- <a href="https://www.bristol.ac.uk/study/postgraduate/2022/doctoral/phd-great-western-four-dtp/">NERC-funded PhD studentships</a> primarily open to UK students with a limited number for international students
 
-- <a href="https://www.swbio.ac.uk/" style="color:#16a085">South West Biosciences PhD studentships</a> primarily open to UK students with a limited number (~30%) for international students
+- <a href="https://www.swbio.ac.uk/">South West Biosciences PhD studentships</a> primarily open to UK students with a limited number (~30%) for international students
 
-- <a href="https://bristol.ac.uk/life-sciences/study/postgraduate/fundedstudentships/" style="color:#16a085">Bristol's International PhD studentships </a> more information for international students can be found <a href="https://bristol.ac.uk/study/postgraduate/international/" style="color:#16a085">here.</a> Country specific information to help you translate Bristol's grade expectations can be found <a href="http://www.bristol.ac.uk/international/countries/" style="color:#16a085">here</a>
+- <a href="https://bristol.ac.uk/life-sciences/study/postgraduate/fundedstudentships/">Bristol's International PhD studentships </a> more information for international students can be found <a href="https://bristol.ac.uk/study/postgraduate/international/">here.</a> Country specific information to help you translate Bristol's grade expectations can be found <a href="http://www.bristol.ac.uk/international/countries/">here</a>
 
-- <a href="http://www.bristol.ac.uk/biology/bcai/lady-emily-smyth-studentships/" style="color:#16a085">Lady Emily Smyth studentships</a> open to MRes students
+- <a href="http://www.bristol.ac.uk/biology/bcai/lady-emily-smyth-studentships/">Lady Emily Smyth studentships</a> open to MRes students
 
-- <a href="https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/" style="color:#16a085">China Scholarship Council – University of Bristol joint-funded Scholarship</a> are for students from the People's Republic of China
+- <a href="https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/">China Scholarship Council – University of Bristol joint-funded Scholarship</a> are for students from the People's Republic of China
 
-- <a href="https://www.fulbright.org.uk/going-to-the-uk/postgraduate-student-awards/" style="color:#16a085">US-UK Fulbright scholarships</a> are open to US citizens (NB. Dual US-UK citizens are eligible to apply)
+- <a href="https://www.fulbright.org.uk/going-to-the-uk/postgraduate-student-awards/">US-UK Fulbright scholarships</a> are open to US citizens (NB. Dual US-UK citizens are eligible to apply)
 
-- <a href="https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-fragile-states/" style="color:#16a085">Commonwealth PhD Scholarships</a> are for candidates from least developed countries in the Commonwealth
+- <a href="https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-fragile-states/">Commonwealth PhD Scholarships</a> are for candidates from least developed countries in the Commonwealth
 
-- <a href="https://www.bristol.ac.uk/students/support/finances/scholarships/zutshi-smith/" style="color:#16a085">Zutshi-Smith Scholarship</a> are for students from India, with preference given to applicants of Kashmiri origin
+- <a href="https://www.bristol.ac.uk/students/support/finances/scholarships/zutshi-smith/">Zutshi-Smith Scholarship</a> are for students from India, with preference given to applicants of Kashmiri origin
 
 
 
 ### Fellowship opportunities:
 
-There are a number of fellowships available, the list below is not exhaustive (take a look at our <a href="https://www.bristol.ac.uk/biology/research/opportunities/" style="color:#16a085">department's website</a> for more details). I would be extremely happy to act as mentor and support applicants interested in coming to Bristol, please get in touch!
+There are a number of fellowships available, the list below is not exhaustive (take a look at our <a href="https://www.bristol.ac.uk/biology/research/opportunities/">department's website</a> for more details). I would be extremely happy to act as mentor and support applicants interested in coming to Bristol, please get in touch!
 
-- <a href="https://royalsociety.org/grants-schemes-awards/grants/newton-international/" style="color:#16a085">Newton International Fellowships</a> scheme is open to non-UK early career scientists
+- <a href="https://royalsociety.org/grants-schemes-awards/grants/newton-international/">Newton International Fellowships</a> scheme is open to non-UK early career scientists
 
-- <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships" style="color:#16a085">EU Marie Skłodowska-Curie Fellowship</a> scheme is open to EU citizens that would like to work in the UK
+- <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships">EU Marie Skłodowska-Curie Fellowship</a> scheme is open to EU citizens that would like to work in the UK
 
-- <a href="https://royalcommission1851.org/fellowships/research-fellowships" style="color:#16a085">1851 Research Fellowships</a> scheme is open to potential fellows not at Bristol
-
-
-- <a href="https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships" style="color:#16a085">Human Frontier Science Program</a>
-
-- <a href="https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/" style="color:#16a085">EMBO Postdoctoral Fellowships</a>
-
-- <a href="https://climate.esa.int/en/about-us-new/fellowships/" style="color:#16a085">ESA CCI Research Fellowship (Early-career fellowships for Earth observation, Earth system or climate scientists)</a>
+- <a href="https://royalcommission1851.org/fellowships/research-fellowships">1851 Research Fellowships</a> scheme is open to potential fellows not at Bristol
 
 
+- <a href="https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships">Human Frontier Science Program</a>
 
+- <a href="https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/">EMBO Postdoctoral Fellowships</a>
 
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-45662310-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-45662310-1');
-</script>
+- <a href="https://climate.esa.int/en/about-us-new/fellowships/">ESA CCI Research Fellowship (Early-career fellowships for Earth observation, Earth system or climate scientists)</a>

@@ -1,25 +1,30 @@
 # Site settings
 title: Global Change Ecology Lab
 description: >
-  Home of the Global Change Ecology Lab at the University of Bristol, UK
+  The Global Change Ecology Lab at the University of Bristol uses experiments,
+  observations and models to study how plants and ecosystems respond to a changing climate.
 tags: >
   Martin De Kauwe, scientist, climate, water, carbon, CO2, model, vegetation
 baseurl: ""
-url: "https://mdekauwe.github.io/" # the base hostname & protocol for your site
+url: "https://mdekauwe.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: Martin De Kauwe
   github: mdekauwe
-  twitter: mdekauwe82
-  email: mdekauwe@gmail.com
+  bluesky: mdekauwe.bsky.social
+  email: m.dekauwe@bristol.ac.uk
   googlescholar: https://scholar.google.com/citations?user=ka3U7xcAAAAJ
 
-google_analytics: 'UA-XXXXXXXX-X'
+# Image shown when a page is shared (Bluesky, Slack, email, etc.)
+share_image: assets/img/abisko.jpg
 
-# Syntax highlighting
-highlightstyle: 'agate'
-styles: [agate, androidstudio, arta, asceti, atelier-cave.dark, atelier-cave.light, atelier-dune.dark, atelier-dune.light, atelier-estuary.dark, atelier-estuary.light, atelier-forest.dark, atelier-forest.light, atelier-heath.dark, atelier-heath.light, atelier-lakeside.dark, atelier-lakeside.light, atelier-plateau.dark, atelier-plateau.light, atelier-savanna.dark, atelier-savanna.light, atelier-seaside.dark, atelier-seaside.light, atelier-sulphurpool.dark, atelier-sulphurpool.light, brown_paper, codepen-embed, color-brewer, dark, darkula, default, docco, far, foundation, github, github-gist, googlecode, grayscale, hopscotch, hybrid, idea, ir_black, kimbie.dark, kimbie.light, magula, mono-blue, monokai, monokai_sublime, obsidian, paraiso.dark, paraiso.light, pojoaque, railscast, rainbow, school_book, solarized_dark, solarized_light, styles_list.txt, sunburst, tomorrow, tomorrow-night-blue, tomorrow-night-bright, tomorrow-night, tomorrow-night-eightie, v, xcode, zenburn]
+# Visitor counts: put your GoatCounter code here (e.g. gcelab for
+# gcelab.goatcounter.com). Counting only runs on the live site.
+goatcounter: mdekauwe
 
+# Google Search Console: paste the content="..." value from the
+# "HTML tag" verification method here.
+google_site_verification:
 
 # Build settings
 highlighter: null

@@ -1,12 +1,14 @@
 ---
 layout: page
+description: "Courses taught by Martin De Kauwe at the University of Bristol and UNSW Sydney, with open teaching code."
+tab_title: Teaching
 title:
 subtitle:
 ---
 
 
 
-<span style="color:#16a085"> *University of Bristol* </span>
+<span class="accent"> *University of Bristol* </span>
 
 - BIOL30022: Future of the Green Planet
 - BIOL20022: Animal and Plant Physiology
@@ -17,27 +19,17 @@ subtitle:
 <div style="display:flex; gap:20px; align-items:flex-start;">
 
 <img src="/assets/img/An-T.png"
-     style="width:65%; height:auto;">
+     style="flex:65; min-width:0; height:auto;">
 
 <img src="/assets/img/lunchbox.jpg"
-     style="width:35%; height:auto;">
+     style="flex:35; min-width:0; height:auto;">
 
 </div>
 
-<span style="color:#16a085"> *University of New South Wales Sydney* </span>
+<p class="caption">Code: <a href="https://github.com/mdekauwe/lunchbox_photosynthesis">lunchbox_photosynthesis</a></p>
+
+<span class="accent"> *University of New South Wales Sydney* </span>
 
 - CLIM2001: Fundamentals of Atmospheric Science
 - CLIM3001: Climate Systems Science
 - BEES3041: Big Data in the Biological, Earth and Environmental Sciences
-
-
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-45662310-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-45662310-1');
-</script>

@@ -1,7 +1,26 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{% if page.title %} {{ page.title }} {{ page.subtitle }} {% endif %} {{ site.title }}</title>
-<meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+{% capture page_title %}{% if page.tab_title %}{{ page.tab_title }} | {% elsif page.title %}{{ page.title }} {{ page.subtitle }} | {% endif %}{{ site.title }}{% endcapture %}
+{% capture page_description %}{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_newlines }}{% endif %}{% endcapture %}
+{% capture page_url %}{{ site.url }}{{ site.baseurl }}{{ page.url | replace:'index.html','' }}{% endcapture %}
+{% capture page_image %}{{ site.url }}{{ site.baseurl }}/{% if page.image %}{{ page.image }}{% else %}{{ site.share_image }}{% endif %}{% endcapture %}
+<title>{{ page_title }}</title>
+<meta name="description" content="{{ page_description }}">
 {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
-<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl }}">
+<link rel="canonical" href="{{ page_url }}">
+<link rel="icon" href="{{ site.baseurl }}/favicon.ico" sizes="32x32">
+<link rel="icon" href="{{ site.baseurl }}/assets/img/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/img/apple-touch-icon.png">
+
+<!-- Link previews (Bluesky, Slack, email, etc.) -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:title" content="{{ page_title }}">
+<meta property="og:description" content="{{ page_description }}">
+<meta property="og:url" content="{{ page_url }}">
+<meta property="og:image" content="{{ page_image }}">
+<meta name="twitter:card" content="summary_large_image">
+
+{% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification }}">{% endif %}
+{% if site.goatcounter and jekyll.environment == "production" %}<script data-goatcounter="https://{{ site.goatcounter }}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>{% endif %}

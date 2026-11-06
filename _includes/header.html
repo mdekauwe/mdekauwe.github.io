@@ -2,13 +2,13 @@
 <div class="navigation">
 <a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
 <ul class="menu">
-<li class="menu__entry"><a href="{{ '/' | prepend: site.baseurl }}"">Home</a></li>
-<li class="menu__entry"><a href="{{ '/research' | prepend: site.baseurl }}">Research</a></li>
-<li class="menu__entry"><a href="{{ '/people' | prepend: site.baseurl }}">People</a></li>
-<li class="menu__entry"><a href="{{ '/publications' | prepend: site.baseurl }}">Publications</a></li>
-<li class="menu__entry"><a href="{{ '/grants' | prepend: site.baseurl }}">Grants</a></li>
-<li class="menu__entry"><a href="{{ '/teaching' | prepend: site.baseurl }}">Teaching</a></li>
-<li class="menu__entry"><a href="{{ '/join_us' | prepend: site.baseurl }}">Join us</a></li>
+<li class="menu__entry{% if page.url == '/' or page.url == '/index.html' %} menu__entry--active{% endif %}"><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li>
+<li class="menu__entry{% if page.url contains '/research' %} menu__entry--active{% endif %}"><a href="{{ '/research' | prepend: site.baseurl }}">Research</a></li>
+<li class="menu__entry{% if page.url contains '/people' %} menu__entry--active{% endif %}"><a href="{{ '/people' | prepend: site.baseurl }}">People</a></li>
+<li class="menu__entry{% if page.url contains '/publications' %} menu__entry--active{% endif %}"><a href="{{ '/publications' | prepend: site.baseurl }}">Publications</a></li>
+<li class="menu__entry{% if page.url contains '/grants' %} menu__entry--active{% endif %}"><a href="{{ '/grants' | prepend: site.baseurl }}">Grants</a></li>
+<li class="menu__entry{% if page.url contains '/teaching' %} menu__entry--active{% endif %}"><a href="{{ '/teaching' | prepend: site.baseurl }}">Teaching</a></li>
+<li class="menu__entry{% if page.url contains '/join_us' %} menu__entry--active{% endif %}"><a href="{{ '/join_us' | prepend: site.baseurl }}">Join us</a></li>
 
 <!--
 </ul>
