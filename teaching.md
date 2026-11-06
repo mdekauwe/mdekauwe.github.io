@@ -8,7 +8,7 @@ subtitle:
 
 
 
-<span class="accent"> *University of Bristol* </span>
+### University of Bristol
 
 - BIOL30022: Future of the Green Planet
 - BIOL20022: Animal and Plant Physiology
@@ -28,7 +28,7 @@ subtitle:
 
 <p class="caption">Code: <a href="https://github.com/mdekauwe/lunchbox_photosynthesis">lunchbox_photosynthesis</a></p>
 
-<span class="accent"> *University of New South Wales Sydney* </span>
+### University of New South Wales Sydney
 
 - CLIM2001: Fundamentals of Atmospheric Science
 - CLIM3001: Climate Systems Science

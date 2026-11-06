@@ -54,4 +54,7 @@ Modelling is a central tool used by our research group for understanding, disent
 </div>
 
 
- <p class="quote">"The method of science depends on our attempts to describe the world with simple theories: theories that are complex may become untestable, even if they happen to be true. Science may be described as the art of systematic over-simplification-the art of discerning what we may with advantage omit"  - Karl Popper</p>
+<div class="quote">
+<p>"The method of science depends on our attempts to describe the world with simple theories: theories that are complex may become untestable, even if they happen to be true. Science may be described as the art of systematic over-simplification&mdash;the art of discerning what we may with advantage omit."</p>
+<p class="quote__source">Karl Popper</p>
+</div>
