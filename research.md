@@ -15,7 +15,8 @@ Our research group studies how plants respond to global environmental changes, i
 
 We tackle a diverse range of questions that connect terrestrial ecosystems with climate, including:
 
-#### ***Plant function, stress, and disturbance dynamics:***
+#### Plant function, stress, and disturbance dynamics
+{: .role-heading}
 
 - How will plants acclimate and adapt to rising atmospheric CO<sub>2</sub> concentrations?
 - To what extent can plants adjust their physiology and function under environmental stress?
@@ -23,22 +24,30 @@ We tackle a diverse range of questions that connect terrestrial ecosystems with 
 - How do changing disturbance regimes shape forest structure, function and resilience?
 - How do past environmental conditions influence ecosystem resilience to droughts and heatwaves?
 
-#### ***Ecosystem and climate feedbacks:***
+#### Ecosystem and climate feedbacks
+{: .role-heading}
 
 - How does plant function regulate land–atmosphere feedbacks during climate extremes?
 - How will vegetation responses to environmental change alter the terrestrial hydrological cycle?
 
-#### ***Biogeography and future landscapes:***
+#### Biogeography and future landscapes
+{: .role-heading}
 
 - How resilient are species distributions to climate change, and how will they shift in the future?
 - How effectively can nature-based forest restoration mitigate the impacts of droughts and heatwaves?
 - Which species should we plant in future landscapes and cities to enhance climate resilience?
 
-<p> Modelling is a central tool used by our research group for understanding, disentangling, and projecting how climate change will shape future vegetation-atmosphere dynamics. We use models spanning a range of complexity, from simple (<a href="https://github.com/mdekauwe/GDAY">GDAY</a>), to the more complex: stand (<a href="http://maespa.github.io/">MAESPA</a>), land surface (<a href="https://github.com/CABLE-LSM/CABLE">CABLE</a>, <a href="https://jules.jchmr.org/">JULES</a>), dynamic vegetation (<a href="http://iis4.nateko.lu.se/lpj-guess/">LPJ-GUESS</a>) and coupled-climate (<a href="https://www.access-nri.org.au/">ACCESS</a>) models. </p>
+Modelling is a central tool used by our research group for understanding, disentangling, and projecting how climate change will shape future vegetation-atmosphere dynamics. We use models spanning a range of complexity:
+
+- Simple: <a href="https://github.com/mdekauwe/GDAY">GDAY</a>
+- Stand: <a href="http://maespa.github.io/">MAESPA</a>
+- Land surface: <a href="https://github.com/CABLE-LSM/CABLE">CABLE</a>, <a href="https://jules.jchmr.org/">JULES</a>
+- Dynamic vegetation: <a href="http://iis4.nateko.lu.se/lpj-guess/">LPJ-GUESS</a>
+- Coupled climate: <a href="https://www.access-nri.org.au/">ACCESS</a>
 
 
 <div class="floated_img">
-<img src="assets/img/wordcloud.png" alt="Some image" >
+<img class="wordcloud" src="assets/img/wordcloud.png" alt="Word cloud of common terms in the lab's research" loading="lazy">
 </div>
 
 

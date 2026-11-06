@@ -185,6 +185,14 @@
   .role-heading {
     font-style: italic; }
 
+  .wordcloud {
+    width: 50%;
+    margin: 0 auto; }
+
+  @media (max-width: 500px) {
+    .wordcloud {
+      width: 80%; } }
+
   .group-photo {
     width: 100%;
     margin-bottom: 2em; }
