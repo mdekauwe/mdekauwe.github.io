@@ -176,9 +176,13 @@
     align-items: flex-start;
     margin: 0 0 2.5em 0; }
 
+  /* Same shape for every photo; crop keeps the upper part where faces are */
   .person__photo {
     flex: 0 0 180px;
     width: 180px;
+    aspect-ratio: 4 / 5;
+    object-fit: cover;
+    object-position: 50% 25%;
     border-radius: 4px; }
 
   .person__text {

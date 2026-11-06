@@ -7,7 +7,7 @@ subtitle:
 ---
 
 <div class="person">
-<img class="person__photo" src="assets/img/me.png" alt="Martin De Kauwe">
+<img class="person__photo" src="assets/img/me.jpg" alt="Martin De Kauwe">
 <div class="person__text">
 <p>Martin De Kauwe is Professor of Global Change Ecology and Deputy Head of the School of Biological Sciences at the <a href="http://www.bristol.ac.uk/biology/">University of Bristol</a>.</p>
 <p>Martin previously worked at the University of New South Wales, Macquarie University, and the UK Centre for Ecology &amp; Hydrology, and completed his PhD at University College London.</p>
