@@ -10,7 +10,10 @@ Our research group studies how plants respond to global environmental changes, i
 
 <div class="floated_img">
 <!-- <center><img src="assets/img/aus_ndvi.gif" alt="Aus NDVI" ></center> -->
-<center><img src="assets/img/cable_gpp_animation.gif" alt="CABLE GPP" ></center>
+<video class="animation" autoplay muted loop playsinline aria-label="Animation of gross primary productivity simulated by CABLE">
+<source src="assets/img/cable_gpp_animation.webm" type="video/webm">
+<source src="assets/img/cable_gpp_animation.mp4" type="video/mp4">
+</video>
 </div>
 
 We tackle a diverse range of questions that connect terrestrial ecosystems with climate, including:

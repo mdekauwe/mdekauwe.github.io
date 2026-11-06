@@ -11,7 +11,13 @@
 
   a {
     color: #16a085;
-    font-weight: bold;
+    text-decoration: none; }
+
+  a:hover {
+    text-decoration: underline; }
+
+  .menu__entry a:hover,
+  .person__links a:hover {
     text-decoration: none; }
 
   p, ul, ol, dl {
@@ -78,6 +84,41 @@
     font-size: 90%;
     color: #555;
     margin: 0.5em 0 0 0; }
+
+  /* Home page: photos in two columns, all cropped to the same shape */
+  .photo-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5em 20px; }
+
+  .photo-grid .floated_img {
+    margin: 0; }
+
+  .photo-grid img {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    border-radius: 4px; }
+
+  .photo-grid a {
+    display: block;
+    cursor: zoom-in; }
+
+  .photo-grid a:hover img {
+    opacity: 0.85; }
+
+  /* Landsat letters spelling the lab name: full width, never cropped */
+  .photo-grid__wide {
+    grid-column: 1 / -1; }
+
+  .photo-grid .photo-grid__wide img {
+    aspect-ratio: auto;
+    object-fit: contain;
+    border-radius: 0; }
+
+  @media (max-width: 500px) {
+    .photo-grid {
+      grid-template-columns: 1fr; } }
 
   .caption {
     font-size: 90%;
@@ -185,6 +226,11 @@
   .role-heading {
     font-style: italic; }
 
+  .animation {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto; }
+
   .wordcloud {
     width: 50%;
     margin: 0 auto; }
@@ -229,9 +275,12 @@
     padding-bottom: 2px;
     border-bottom: 2px solid transparent; }
 
-  .menu__entry a:hover,
-  .menu__entry--active a {
+  .menu__entry a:hover {
     border-bottom-color: #16a085; }
+
+  .menu__entry--active a,
+  .menu__entry--active a:hover {
+    border-bottom-color: transparent; }
 
   .menu__entry--active a {
     font-weight: 700; }
