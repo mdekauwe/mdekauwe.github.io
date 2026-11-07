@@ -9,7 +9,6 @@ subtitle:
 Our research group studies how plants respond to global environmental changes, including rising CO<sub>2</sub>, warming, and shifts in water availability, with a particular interest in how these changes affect ecosystem carbon and water cycles. We integrate multiple observation data streams — from manipulation experiments, eddy covariance, and satellite data — with vegetation models and statistical methods to advance process understanding and improve predictions of future ecosystem change.
 
 <div class="floated_img">
-<!-- <center><img src="assets/img/aus_ndvi.gif" alt="Aus NDVI" ></center> -->
 <video class="animation" autoplay muted loop playsinline aria-label="Animation of gross primary productivity simulated by CABLE">
 <source src="assets/img/cable_gpp_animation.webm" type="video/webm">
 <source src="assets/img/cable_gpp_animation.mp4" type="video/mp4">
