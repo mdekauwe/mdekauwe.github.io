@@ -185,6 +185,9 @@
       grid-template-columns: 1fr; } }
 
 /* =Publications *//*************************************************************/
+  .pubs li p {
+    margin: 0 0 1.2em 0; }
+
   a.doi {
     font-weight: 300;
     font-size: 90%;
@@ -329,7 +332,7 @@
     float: left; }
 
   .logo {
-    font-size: 300%;
+    font-size: 250%;
     font-weight: 700;
     color: #16a085;
     display: block; }
@@ -452,4 +455,57 @@
     .page-title__subtitle {
       font-size: 65%; }
 
+  }
+
+/* =Dark mode *//*************************************************************/
+  /* Used automatically when the visitor's device is set to dark mode */
+  @media (prefers-color-scheme: dark) {
+    body {
+      color: #dde3e0;
+      background-color: #121614; }
+
+    a,
+    .accent,
+    strong,
+    .logo,
+    .grant__years,
+    .grant__funder {
+      color: #3cc9a0; }
+
+    .menu__entry a:hover {
+      border-bottom-color: #3cc9a0; }
+
+    h2, h3, h4,
+    .role-heading,
+    .page-title {
+      color: #8fd6bf; }
+
+    .intro,
+    .footer,
+    .floated_img p,
+    .caption,
+    .quote,
+    .grant__people,
+    .page-title__subtitle {
+      color: #a9b3ae; }
+
+    .footer {
+      border-top-color: #2e3632; }
+
+    .grant {
+      border-bottom-color: #2a312e; }
+
+    .quote {
+      border-left-color: #3cc9a0; }
+
+    /* Figures drawn on white: shown as white panels instead of blending in */
+    .animation,
+    .uk-map,
+    .wordcloud,
+    .photo-grid .photo-grid__wide img,
+    .teaching-figs img:first-child {
+      background-color: #fff;
+      border-radius: 6px;
+      padding: 10px;
+      box-sizing: border-box; }
   }

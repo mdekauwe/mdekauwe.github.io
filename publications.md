@@ -9,7 +9,7 @@ subtitle:
 
 ### In review
 
-<ol reversed start="135">
+<ol reversed start="135" class="pubs">
 
 <li><p> Ying H., Sabot, M., Zscheischler, J., Li, C., <b>De Kauwe, M. G.</b>,  Michaelides, K., Zaehle, S., Wang, C. and Fu, B. (2026) Aridity mediates how plant diversity shapes critical thresholds of dryland ecosystem stability under compound drought and heat stress. <i>In review</i>. </p></li> 
 
@@ -32,7 +32,7 @@ subtitle:
 
 ### In print
 
-<ol reversed>
+<ol reversed class="pubs">
 
 <li><p> Zhu, Z., Wang, H., Zhou, B., Harrison, S. P., <b>De Kauwe, M. G.</b>, and Prentice, I. C. (2026) Optimal canopy light-use strategy shapes global greenness dynamics. <i>Nature Communications</i>, 17, 9978. <a class="doi" href="https://doi.org/10.1038/s41467-026-76896-4">doi:10.1038/s41467-026-76896-4</a> </p></li>
 
@@ -293,7 +293,7 @@ subtitle:
 
 ### Reports
 
-<ol reversed>
+<ol reversed class="pubs">
 
 
 
@@ -305,7 +305,7 @@ subtitle:
 
 ### Conference proceedings
 
-<ol reversed>
+<ol reversed class="pubs">
 
 <li><p> Gounou, A., Taylor, C., Guichard, F., Harris, P., Ellis, R., Couvreux, F. and <b>De Kauwe, M.</b> (2011) Impact of Surface Heterogeneities on Convective Initiation in the Sahel. In proceedings: EGU2011-2625-2. </p></li>
 

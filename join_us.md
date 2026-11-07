@@ -9,7 +9,7 @@ subtitle:
 <img class="banner" src="assets/img/leaf_banner.jpg" alt="Close-up of leaf veins">
 
 <!-- CoFLAME postdoc advert, closed 05/11/2026
-### Current Postdoc opportunities:
+### Current Postdoc opportunities
 
 We are recruiting a 3-year Postdoctoral researcher in Vegetation and Fire Modelling. The Postdoctoral Research Associate will work on the Copernicus Fire and Land-Atmosphere Modelling of Emissions (CoFLAME) project. CoFLAME will deliver scientific and technical advances to better account for interactions between wildfires and vegetation, improving estimates of wildfire emissions and natural CO2 fluxes, while enhancing the forecasting of fire activity, fire probability, and fire spread.
 
@@ -18,7 +18,7 @@ The postdoc will develop new theoretical and modelling frameworks to quantify ve
 For more details, and information on how to apply, please visit: <a href="https://www.bristol.ac.uk/jobs/find/details/?nPostingId=208656&nPostingTargetId=391779&id=Q50FK026203F3VBQBV7V77V83&LG=UK&languageSelect=UK&mask=newuobext"> by clicking here </a>. The position closes on the 05/11/2026.
 -->
 
-### Current PhD opportunities:
+### Current PhD opportunities
 
 We are recruiting for two PhD studentships:
 
@@ -32,13 +32,13 @@ across the UK." <a href="https://bpb-eu-w2.wpmucdn.com/blogs.bristol.ac.uk/dist/
 
 
 
-### Join the lab:
+### Join the lab
 
 Prospective students and postdocs interested in understanding how global change affects plants and shapes the carbon and water cycles are encouraged to get in touch. We welcome applicants with backgrounds in biology, mathematics, physics, geography, atmospheric science, engineering, or related quantitative disciplines.
 
 We also welcome visiting researchers, so please feel free to get in contact if you are interested in spending time with the group.
 
-### How to apply:
+### How to apply
 
 #### PhD students
 {: .role-heading}
@@ -72,7 +72,7 @@ Bristol is a great place to <a href="https://visitbristol.co.uk/inspire/all-abou
 
 
 
-### Graduate opportunities:
+### Graduate opportunities
 
 - <a href="https://www.bristol.ac.uk/study/postgraduate/2022/doctoral/phd-great-western-four-dtp/">NERC-funded PhD studentships</a> primarily open to UK students with a limited number for international students
 
@@ -92,7 +92,7 @@ Bristol is a great place to <a href="https://visitbristol.co.uk/inspire/all-abou
 
 
 
-### Fellowship opportunities:
+### Fellowship opportunities
 
 There are a number of fellowships available, the list below is not exhaustive (take a look at our <a href="https://www.bristol.ac.uk/biology/research/opportunities/">department's website</a> for more details). I would be extremely happy to act as mentor and support applicants interested in coming to Bristol, please get in touch!
 
