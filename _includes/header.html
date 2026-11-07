@@ -1,38 +1,16 @@
 <header class="header">
 <div class="navigation">
 <a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
+<nav aria-label="Main menu">
 <ul class="menu">
-<li class="menu__entry{% if page.url == '/' or page.url == '/index.html' %} menu__entry--active{% endif %}"><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li>
-<li class="menu__entry{% if page.url contains '/research' %} menu__entry--active{% endif %}"><a href="{{ '/research' | prepend: site.baseurl }}">Research</a></li>
-<li class="menu__entry{% if page.url contains '/people' %} menu__entry--active{% endif %}"><a href="{{ '/people' | prepend: site.baseurl }}">People</a></li>
-<li class="menu__entry{% if page.url contains '/publications' %} menu__entry--active{% endif %}"><a href="{{ '/publications' | prepend: site.baseurl }}">Publications</a></li>
-<li class="menu__entry{% if page.url contains '/grants' %} menu__entry--active{% endif %}"><a href="{{ '/grants' | prepend: site.baseurl }}">Grants</a></li>
-<li class="menu__entry{% if page.url contains '/teaching' %} menu__entry--active{% endif %}"><a href="{{ '/teaching' | prepend: site.baseurl }}">Teaching</a></li>
-<li class="menu__entry{% if page.url contains '/join_us' %} menu__entry--active{% endif %}"><a href="{{ '/join_us' | prepend: site.baseurl }}">Join us</a></li>
-
-<!--
+<li class="menu__entry{% if page.url == '/' or page.url == '/index.html' %} menu__entry--active{% endif %}"><a href="{{ '/' | prepend: site.baseurl }}"{% if page.url == '/' or page.url == '/index.html' %} aria-current="page"{% endif %}>Home</a></li>
+<li class="menu__entry{% if page.url contains '/research' %} menu__entry--active{% endif %}"><a href="{{ '/research' | prepend: site.baseurl }}"{% if page.url contains '/research' %} aria-current="page"{% endif %}>Research</a></li>
+<li class="menu__entry{% if page.url contains '/people' %} menu__entry--active{% endif %}"><a href="{{ '/people' | prepend: site.baseurl }}"{% if page.url contains '/people' %} aria-current="page"{% endif %}>People</a></li>
+<li class="menu__entry{% if page.url contains '/publications' %} menu__entry--active{% endif %}"><a href="{{ '/publications' | prepend: site.baseurl }}"{% if page.url contains '/publications' %} aria-current="page"{% endif %}>Publications</a></li>
+<li class="menu__entry{% if page.url contains '/grants' %} menu__entry--active{% endif %}"><a href="{{ '/grants' | prepend: site.baseurl }}"{% if page.url contains '/grants' %} aria-current="page"{% endif %}>Grants</a></li>
+<li class="menu__entry{% if page.url contains '/teaching' %} menu__entry--active{% endif %}"><a href="{{ '/teaching' | prepend: site.baseurl }}"{% if page.url contains '/teaching' %} aria-current="page"{% endif %}>Teaching</a></li>
+<li class="menu__entry{% if page.url contains '/join_us' %} menu__entry--active{% endif %}"><a href="{{ '/join_us' | prepend: site.baseurl }}"{% if page.url contains '/join_us' %} aria-current="page"{% endif %}>Join us</a></li>
 </ul>
+</nav>
 </div>
-<ul class="social-links">
-{% if site.author.email %}
-<a href="mailto:{{ site.author.email }}" class="social-links__entry" target="_blank">
-<i class="fa fa-envelope-square"></i>
-</a>
-{% endif %}
-{% if site.author.github %}
-<a href="https://github.com/{{ site.author.github }}" class="social-links__entry" target="_blank">
-<i class="fa fa-github"></i>
-</a>
-{% endif %}
-{% if site.author.twitter %}
-<a href="https://twitter.com/{{ site.author.twitter }}" class="social-links__entry" target="_blank">
-<i class="fa fa-twitter"></i>
-</a>
-{% endif %}
-
-<a href="https://scholar.google.com.au/citations?user=ka3U7xcAAAAJ&hl=en" class="social-links__entry" target="_blank"> <i class="fa fa-google"></i></a>
-
--->
-
-</ul>
 </header>

@@ -41,7 +41,10 @@ We also welcome visiting researchers, so please feel free to get in contact if y
 Bristol is a great place to <a href="https://visitbristol.co.uk/inspire/all-about-bristol">work and live.</a>
 
 <div class="floated_img">
-<img class="uk-map" src="assets/img/UK.gif" alt="Animation of vegetation greenness across the UK and Ireland">
+<video class="uk-map" autoplay muted loop playsinline aria-label="Animation of vegetation greenness across the UK and Ireland">
+<source src="assets/img/uk_greenness.webm" type="video/webm">
+<source src="assets/img/uk_greenness.mp4" type="video/mp4">
+</video>
 </div>
 
 

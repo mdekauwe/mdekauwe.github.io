@@ -1,14 +1,11 @@
 ---
 layout: page
-title: 404
+title: Page not found
+tab_title: Page not found
 sitemap:
   exclude: 'yes'
 ---
 
-<h2 class="go-home">
-    I suggest you <a href="/">go home</a>, it's 404 and it's getting dark!
-</h2>
+<p class="center-text">Sorry, there is no page at this address.</p>
 
-
-<!-- Adding the glitch effect -->
-<script> document.getElementsByTagName('body')[0].classList.add('glitch'); </script>
+<p class="center-text"><a href="{{ '/' | prepend: site.baseurl }}">Home</a> &middot; <a href="{{ '/research' | prepend: site.baseurl }}">Research</a> &middot; <a href="{{ '/people' | prepend: site.baseurl }}">People</a> &middot; <a href="{{ '/publications' | prepend: site.baseurl }}">Publications</a> &middot; <a href="{{ '/join_us' | prepend: site.baseurl }}">Join us</a></p>

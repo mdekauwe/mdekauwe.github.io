@@ -16,13 +16,11 @@ subtitle:
 - BIOL10009: Life Processes Part A
 
 
-<div style="display:flex; gap:20px; align-items:flex-start;">
+<div class="teaching-figs">
 
-<img src="/assets/img/An-T.png"
-     style="flex:65; min-width:0; height:auto;">
+<img src="/assets/img/An-T.png" alt="Modelled photosynthesis against leaf temperature, showing Rubisco-limited and RuBP-limited rates">
 
-<img src="/assets/img/lunchbox.jpg"
-     style="flex:35; min-width:0; height:auto;">
+<img src="/assets/img/lunchbox.jpg" alt="A potted plant inside a clear lunchbox fitted with sensors">
 
 </div>
 

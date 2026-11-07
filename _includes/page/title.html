@@ -1,4 +1,8 @@
+{% if page.title and page.title != "" %}
 <h1 class="page-title">
-<div class="page-title__text">{{ page.title }}</div>
-<div class="page-title__subtitle">{{ page.subtitle }}</div>
+<span class="page-title__text">{{ page.title }}</span>
+{% if page.subtitle %}<span class="page-title__subtitle">{{ page.subtitle }}</span>{% endif %}
 </h1>
+{% else %}
+<h1 class="visually-hidden">{% if page.tab_title %}{{ page.tab_title }}{% else %}{{ site.title }}{% endif %}</h1>
+{% endif %}
