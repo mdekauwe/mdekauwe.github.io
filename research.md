@@ -50,7 +50,7 @@ Modelling is a central tool used by our research group for understanding, disent
 
 
 <div class="floated_img">
-<img class="wordcloud" src="assets/img/wordcloud.png" alt="Word cloud of common terms in the lab's research" loading="lazy">
+<a class="wordcloud-link" href="assets/img/wordcloud.png"><img class="wordcloud" src="assets/img/wordcloud.png" alt="Word cloud of common terms in the lab's research" loading="lazy"></a>
 </div>
 
 

@@ -259,12 +259,19 @@
     margin: 0 auto; }
 
   .wordcloud {
-    width: 50%;
+    width: 75%;
     margin: 0 auto; }
+
+  .wordcloud-link {
+    display: block;
+    cursor: zoom-in; }
+
+  .wordcloud-link:hover .wordcloud {
+    opacity: 0.85; }
 
   @media (max-width: 500px) {
     .wordcloud {
-      width: 80%; } }
+      width: 100%; } }
 
   .banner {
     width: 100%;
