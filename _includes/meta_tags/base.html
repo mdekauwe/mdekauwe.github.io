@@ -1,7 +1,6 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="color-scheme" content="light dark">
 {% capture page_title %}{% if page.tab_title %}{{ page.tab_title }} | {% elsif page.title %}{{ page.title }} {{ page.subtitle }} | {% endif %}{{ site.title }}{% endcapture %}
 {% capture page_description %}{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_newlines }}{% endif %}{% endcapture %}
 {% capture page_url %}{{ site.url }}{{ site.baseurl }}{{ page.url | replace:'index.html','' }}{% endcapture %}
