@@ -34,9 +34,29 @@ across the UK." <a href="https://bpb-eu-w2.wpmucdn.com/blogs.bristol.ac.uk/dist/
 
 ### Join the lab:
 
-Prospective students and postdocs interested in understanding how global change affects plants and shapes the carbon and water cycles are encouraged to get in touch. We welcome applicants with backgrounds in biology, mathematics, physics, geography, atmospheric science, engineering, or related quantitative disciplines. When contacting me, please include a brief summary on how your interests connect with our research themes.
+Prospective students and postdocs interested in understanding how global change affects plants and shapes the carbon and water cycles are encouraged to get in touch. We welcome applicants with backgrounds in biology, mathematics, physics, geography, atmospheric science, engineering, or related quantitative disciplines.
 
 We also welcome visiting researchers, so please feel free to get in contact if you are interested in spending time with the group.
+
+### How to apply:
+
+#### PhD students
+{: .role-heading}
+
+Most funded PhD projects are advertised around November, with applications due in January, for a start the following autumn. Funding comes mainly through the doctoral training programmes listed under Graduate opportunities below. If you would like to develop your own project with us, get in touch well before the January deadline so there is time to shape the proposal together.
+
+When you email me, please include:
+
+- your CV, with your degree results so far
+- a few sentences on which of our research questions interest you and why
+- the funding route you plan to apply through, if you know it
+
+Experience with programming (for example Python, R, Fortran, C) helps for modelling projects, but it is not essential.
+
+#### Postdocs and fellows
+{: .role-heading}
+
+Funded postdoc positions are advertised on the University of Bristol jobs site and listed on this page. If you would like to join the lab on your own fellowship, see the schemes under Fellowship opportunities below and contact me a few months before the deadline, as fellowship applications are written together with the host.
 
 Bristol is a great place to <a href="https://visitbristol.co.uk/inspire/all-about-bristol">work and live.</a>
 

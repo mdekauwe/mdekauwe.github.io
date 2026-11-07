@@ -24,3 +24,40 @@
 
 {% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification }}">{% endif %}
 {% if site.goatcounter and jekyll.environment == "production" %}<script data-goatcounter="https://{{ site.goatcounter }}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>{% endif %}
+
+{% if page.url == "/" or page.url == "/index.html" %}
+<!-- Describes the lab to search engines (not shown on the page) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ResearchOrganization",
+  "name": {{ site.title | jsonify }},
+  "url": "{{ site.url }}{{ site.baseurl }}/",
+  "description": {{ site.description | strip_newlines | strip | jsonify }},
+  "image": "{{ site.url }}{{ site.baseurl }}/{{ site.share_image }}",
+  "logo": "{{ site.url }}{{ site.baseurl }}/assets/img/apple-touch-icon.png",
+  "email": "{{ site.author.email }}",
+  "address": {"@type": "PostalAddress", "addressLocality": "Bristol", "addressCountry": "GB"},
+  "parentOrganization": {
+    "@type": "Organization",
+    "name": "School of Biological Sciences",
+    "url": "https://www.bristol.ac.uk/biology/",
+    "parentOrganization": {"@type": "CollegeOrUniversity", "name": "University of Bristol", "url": "https://www.bristol.ac.uk/"}
+  },
+  "member": {
+    "@type": "Person",
+    "name": {{ site.author.fullname | jsonify }},
+    "jobTitle": "Professor of Global Change Ecology",
+    "url": "{{ site.url }}{{ site.baseurl }}/people",
+    "email": "{{ site.author.email }}",
+    "affiliation": {"@type": "CollegeOrUniversity", "name": "University of Bristol"},
+    "sameAs": [
+      "https://orcid.org/{{ site.author.orcid }}",
+      "{{ site.author.googlescholar }}",
+      "https://github.com/{{ site.author.github }}",
+      "https://bsky.app/profile/{{ site.author.bluesky }}"
+    ]
+  }
+}
+</script>
+{% endif %}
