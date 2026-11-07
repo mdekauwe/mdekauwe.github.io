@@ -6,6 +6,8 @@ title:
 subtitle:
 ---
 
+<img class="banner" src="assets/img/leaf_banner.jpg" alt="Close-up of leaf veins">
+
 <!-- CoFLAME postdoc advert, closed 05/11/2026
 ### Current Postdoc opportunities:
 
@@ -39,7 +41,7 @@ We also welcome visiting researchers, so please feel free to get in contact if y
 Bristol is a great place to <a href="https://visitbristol.co.uk/inspire/all-about-bristol">work and live.</a>
 
 <div class="floated_img">
-<center><img src="assets/img/UK.gif" style="width: 30%; height: 30%" alt="Aus NDVI" ></center>
+<img class="uk-map" src="assets/img/UK.gif" alt="Animation of vegetation greenness across the UK and Ireland">
 </div>
 
 

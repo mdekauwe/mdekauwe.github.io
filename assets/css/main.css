@@ -266,6 +266,17 @@
     .wordcloud {
       width: 80%; } }
 
+  .banner {
+    width: 100%;
+    border-radius: 4px;
+    margin: 0 0 1.5em 0; }
+
+  /* UK greenness animation on Join us: shown at its native size, never stretched */
+  .uk-map {
+    width: 100%;
+    max-width: 334px;
+    margin: 1.5em auto; }
+
   .group-photo {
     width: 100%;
     margin-bottom: 2em; }
