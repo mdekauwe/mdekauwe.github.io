@@ -3,7 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {% capture page_title %}{% if page.tab_title %}{{ page.tab_title }} | {% elsif page.title %}{{ page.title }} {{ page.subtitle }} | {% endif %}{{ site.title }}{% endcapture %}
 {% capture page_description %}{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_newlines }}{% endif %}{% endcapture %}
-{% capture page_url %}{{ site.url }}{{ site.baseurl }}{{ page.url | replace:'index.html','' }}{% endcapture %}
+{% capture page_url %}{{ site.url }}{{ site.baseurl }}{{ page.url | replace:'index.html','' | remove:'.html' }}{% endcapture %}
 {% capture page_image %}{{ site.url }}{{ site.baseurl }}/{% if page.image %}{{ page.image }}{% else %}{{ site.share_image }}{% endif %}{% endcapture %}
 <title>{{ page_title }}</title>
 <meta name="description" content="{{ page_description }}">
