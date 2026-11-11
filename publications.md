@@ -26,8 +26,6 @@ subtitle:
 
 <li><p> Sun, J., He, X., Ellsworth, D., Lin, Z., Hughes, A., Bonebrake, T. C., Dingle, C., <b>De Kauwe, M. G.</b>, Lei, X., Xu, M., Wang, T., Zhang, J., Xu, H., Du, E., Wang W., and Wu, J. (2026) Integrating productivity and habitat range shifts reveals climate risks to global eucalypt plantations. <i>In review</i>. </p></li>
 
-<li><p> Papastefanou, P., Arend, M., <b>De Kauwe, M. G.</b>, Hoch, G., Hu, P.-H., Kahmen, A., Knuever, T., Rammig, A., Sabot, M., Stacke, T., Steger, D. N. and Zaehle, S. (2026) Balancing on the Edge: Local Water Access and Hydraulic Strategy Determine Drought Survival in Spruce.  <i>In review</i>. </p></li>
-
 <li><p> Zhan, C., Winkler, A. J., <b>De Kauwe, M. G.</b>, Sabot, M., Reichstein, M., Rammig, A., Zaehle, S. and Orth, R. (2026) Effects of Increasing [CO<sub>2</sub>] on the Dominant Drivers of Terrestrial Evapotranspiration.  <i>In review</i>. </p></li>
 
 </ol>
@@ -35,6 +33,8 @@ subtitle:
 ### In print
 
 <ol reversed class="pubs">
+
+<li><p> Papastefanou, P., Arend, M., <b>De Kauwe, M. G.</b>, Hoch, G., Hu, P.-H., Kahmen, A., Knuever, T., Rammig, A., Sabot, M., Stacke, T., Steger, D. N. and Zaehle, S. (2026) Balancing on the Edge: Local Water Access and Hydraulic Strategy Determine Drought Survival in Spruce. <i>Global Change Biology</i>, accepted. </p></li>
 
 <li><p> Zhu, Z., Wang, H., Zhou, B., Harrison, S. P., <b>De Kauwe, M. G.</b>, and Prentice, I. C. (2026) Optimal canopy light-use strategy shapes global greenness dynamics. <i>Nature Communications</i>, 17, 9978. <a class="doi" href="https://doi.org/10.1038/s41467-026-76896-4">doi:10.1038/s41467-026-76896-4</a> </p></li>
 
