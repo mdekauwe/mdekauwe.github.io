@@ -26,7 +26,7 @@ We are recruiting for two PhD studentships:
 across the UK." <a href="https://bpb-eu-w2.wpmucdn.com/blogs.bristol.ac.uk/dist/f/373/files/2026/10/Project_3554.pdf
 ">Click for details.</a>
 
-2. “Thirsty Forests: How Trees Use Water to Survive Extreme Summer” <a href=" ">Details will be added.</a>
+2. “Thirsty Forests: How Trees Use Water to Survive Extreme Summer” <a href="https://www.bristol.ac.uk/media-library/sites/biology/Thirsty%20Forests%20How%20Trees%20Use%20Water%20to%20Survive%20Extreme%20Summer.pdf">Click for details.</a>
 
 
 
