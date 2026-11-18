@@ -64,6 +64,16 @@ subtitle:
 {: .role-heading}
 
 <div class="person">
+<img class="person__photo" src="assets/img/Jaci.JPG" alt="Jaclyn Wilmot" loading="lazy">
+<div class="person__text">
+<p>Jaclyn Wilmot is a PhD student at Adelaide University in <a href="https://sites.google.com/view/ilainematos/home">Ilaíne Matos's</a> group. Jaclyn's PhD will investigate how threatened Australian plants tolerate the individual and combined effects of drought, heat, and fire.</p>
+<p class="person__links">
+<a href="mailto:jaclyn.wilmot@adelaide.edu.au" class="social-links__entry" target="_blank" aria-label="Email"><i class="fa fa-envelope-square fa-lg" aria-hidden="true"></i></a>
+</p>
+</div>
+</div>
+
+<div class="person">
 <img class="person__photo" src="assets/img/Valentina.jpg" alt="Valentina Lara Rivera" loading="lazy">
 <div class="person__text">
 <p>Valentina Lara Rivera is a PhD student at the University of Exeter in <a href="https://experts.exeter.ac.uk/20181-lina-mercado">Lina Mercado's</a> group. Valentina's PhD will explore the response of European forest to heatwaves.</p>
